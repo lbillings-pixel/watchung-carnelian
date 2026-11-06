@@ -1,0 +1,17 @@
+{
+ "id": 2739,
+ "name": "Moganite",
+ "updttime": "2026-09-07 19:46:20",
+ "mindat_formula": "SiO<sub>2</sub>",
+ "varietyof": 0,
+ "entrytype_text": "mineral",
+ "description_short": "This SiO2 modification is not uncommon as a minor component of finely crystalline chalcedony (as well as chert or flint), although some samples may contain up to about 50 vol.% of moganite. \r\nIt may be identified by careful powder diffraction analysis ...",
+ "diapheny": "Translucent",
+ "colour": "Grey",
+ "hmin": 6.0,
+ "hmax": 6.0,
+ "lustre": "",
+ "aboutname": "After the type locality: Mog\u00e1n, Grand Canary Island, Spain.",
+ "csystem": "Monoclinic",
+ "dmeas": "2.52"
+}

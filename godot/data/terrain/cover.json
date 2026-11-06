@@ -1,0 +1,132 @@
+{
+  "scale_m_per_level": 0.2,
+  "model": "T = Tmax * min(1, distance_to_polygon_edge / reach); Illustrative taper of Observed extents and maxima (ASSUMPTIONS A-G8)",
+  "classes": {
+    "weathered_basalt": {
+      "id": 1,
+      "tmax_m": 3.0,
+      "reach_m": 60.0,
+      "source": "OFM 69 Qwb 'generally less than 10 ft' over fractured rock",
+      "cells": 2167434,
+      "mean_m": 2.627128863305884,
+      "max_m": 3.0
+    },
+    "basalt_colluvium": {
+      "id": 2,
+      "tmax_m": 18.0,
+      "reach_m": 150.0,
+      "source": "OFM 69 Qcb 'as much as 60 ft'; paper section 4.1 'up to 18 m'",
+      "cells": 680130,
+      "mean_m": 8.586908255892173,
+      "max_m": 18.0
+    },
+    "alluvium": {
+      "id": 3,
+      "tmax_m": 3.0,
+      "reach_m": 40.0,
+      "source": "paper section 4.1 'up to 3 m' (OFM 69 Qal 'as much as 15 ft')",
+      "cells": 267890,
+      "mean_m": 1.5370992778344055,
+      "max_m": 3.0
+    },
+    "stream_terrace": {
+      "id": 4,
+      "tmax_m": 4.5,
+      "reach_m": 60.0,
+      "source": "OFM 69 Qst 'as much as 15 ft'",
+      "cells": 648960,
+      "mean_m": 3.373418834551555,
+      "max_m": 4.5
+    },
+    "swamp": {
+      "id": 5,
+      "tmax_m": 3.0,
+      "reach_m": 60.0,
+      "source": "OFM 69 Qs 'generally less than 10 ft'",
+      "cells": 183684,
+      "mean_m": 1.520684079378939,
+      "max_m": 3.0
+    },
+    "weathered_shale": {
+      "id": 6,
+      "tmax_m": 4.5,
+      "reach_m": 60.0,
+      "source": "OFM 69 Qws/Qcs 'as much as 15 ft'",
+      "cells": 468317,
+      "mean_m": 3.2258597274665703,
+      "max_m": 4.5
+    },
+    "pre_illinoian_till": {
+      "id": 7,
+      "tmax_m": 15.0,
+      "reach_m": 150.0,
+      "source": "OFM 69 Qpt 'as much as 50 ft'",
+      "cells": 184540,
+      "mean_m": 7.5492457411742,
+      "max_m": 15.0
+    },
+    "terminal_moraine": {
+      "id": 8,
+      "tmax_m": 33.0,
+      "reach_m": 200.0,
+      "source": "OFM 69 Qtmr 'as much as 110 ft'",
+      "cells": 492796,
+      "mean_m": 26.266043865243425,
+      "max_m": 33.0
+    },
+    "rahway_till": {
+      "id": 9,
+      "tmax_m": 33.0,
+      "reach_m": 200.0,
+      "source": "OFM 69 Qr 'as much as 110 ft'",
+      "cells": 4436,
+      "mean_m": 2.8889356401521145,
+      "max_m": 6.890602295880964
+    },
+    "glacial_lake_passaic": {
+      "id": 10,
+      "tmax_m": 24.0,
+      "reach_m": 300.0,
+      "source": "OFM 69 Qpml lake-bottom 'as much as 80 ft'",
+      "cells": 910140,
+      "mean_m": 10.011690171966126,
+      "max_m": 24.0
+    },
+    "eolian": {
+      "id": 11,
+      "tmax_m": 3.0,
+      "reach_m": 40.0,
+      "source": "default for minor units (fill, beach, eolian): 3 m",
+      "cells": 10401,
+      "mean_m": 2.041526813507636,
+      "max_m": 3.0
+    },
+    "pensauken": {
+      "id": 12,
+      "tmax_m": 3.0,
+      "reach_m": 40.0,
+      "source": "default for minor units (fill, beach, eolian): 3 m",
+      "cells": 5708,
+      "mean_m": 2.0389429949908373,
+      "max_m": 3.0
+    },
+    "talus": {
+      "id": 13,
+      "tmax_m": 4.5,
+      "reach_m": 20.0,
+      "source": "OFM 69 Qta 'as much as 15 ft' (apron below the cliffs along Green Brook south of Seelys Pond)",
+      "cells": 666,
+      "mean_m": 1.9122102795815945,
+      "max_m": 4.024922359499622
+    },
+    "bedrock_outcrop": {
+      "id": 14,
+      "tmax_m": 0.0,
+      "reach_m": 1.0,
+      "source": "OFM 69: extensive outcrop, no cover",
+      "cells": 58012,
+      "mean_m": 0.0,
+      "max_m": 0.0
+    }
+  }
+}

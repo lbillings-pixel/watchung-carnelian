@@ -1,0 +1,10 @@
+* text=auto
+*.png binary
+*.ogg binary
+*.glb binary
+*.pdf binary
+*.zip binary
+*.r16 binary
+*.tif binary
+*.gpkg binary
+*.ico binary

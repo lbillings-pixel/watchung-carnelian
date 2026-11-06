@@ -1,0 +1,3350 @@
+
+
+===== PAGE 1 (621x792 pt) =====
+Joint Systems in the 
+Watchung Basalt Flows, 
+New Jersey 
+GEOLOGICAL SURVEY PROFESSIONAL PAPER 864-B 
+
+
+===== PAGE 2 (621x792 pt) =====
+
+
+===== PAGE 3 (622x792 pt) =====
+Joint Systems in the 
+Watchung Basalt Flows, 
+New Jersey 
+By GEORGE T. FAUST 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+GEOLOGICAL SURVEY PROFESSIONAL PAPER 864-B 
+UNITED 
+STATES 
+GOVERNMENT 
+PRINTING 
+OFFICE, 
+WASHINGTON : 1978 
+
+
+===== PAGE 4 (622x792 pt) =====
+UNITED STATES DEPARTMENT OF THE INTERIOR 
+CECIL D. ANDRUS, Secretary 
+GEOLOGICAL SURVEY 
+V. E. McKelvey, Director 
+Library of Congress Cataloging in Publication Data 
+Faust, George Tobias, 1908-
+Joint systems in the Watchung Basalt flows, New Jersey. 
+(Studies on the Watchung Basalt flows of New Jersey) (Geological survey professional paper; 864-B) 
+Bibliography: p. 
+Includes index. 
+Supt. of Docs. no.: I 19.16:864-B 
+l. Joints (Geology) 2. Basalt-New Jersey. I. Title. II. Series. III. Series: United States. Geological Survey. Professional paper; 864-B. 
+QE605.F38 
+551.8'4 
+76-608178 
+For sale by the Superintendent of Documents, U.S. Government Printing Office 
+Washington, D.C. 20402 
+Stock Number 024-001-03023-3 
+
+
+===== PAGE 5 (622x792 pt) =====
+Abstract 
+Introduction ---------------------------------
+Previous studies on jointing in the Watchung Basalt 
+flows ------------------------------------
+Sampling of the jointing patterns in Third Watchung 
+Mountain ---------------------------------
+Description of the joint systems --------------------
+Cooling joints -----------------------------
+Vesicular top --------------------------
+Columnar zone -------------------------
+B~ckyzone ---------------------------
+Curvilinear zone ------------------------
+Geometric character of the curvilinear 
+jcin~ ---------------------------
+Ve~cu~rba~ -------------------------
+Occurrences of similar cooling joints in other 
+basaltic provinces ----------------------
+Tectonic joints ----------------------------
+Vesicular top --------------------------
+C~umnarzone -------------------------
+Blocky zone -----------------:-----------
+Curvilinear zone ------------------------
+Pseudocolumnar joints (type 1) ___________ _ 
+Pseudocolumnar 
+JOmts 
+(type 
+2)-platy-pris-
+matic joints (fracture cleavage) 
+_________ _ 
+Basal platy joints ---------------------
+Sheeting joints ----------------------------
+Weathering joints and associated phenomena _______ _ 
+Spheroidal joints ------------------------
+CONTENTS 
+Page 
+Bl 
+2 
+3 
+3 
+4 
+5 
+7 
+11 
+12 
+13 
+15 
+17 
+19 
+20 
+20 
+20 
+21 
+21 
+21 
+24 
+25 
+27 
+27 
+Description of the joint systems-Continued 
+Weathering joints and associated 
+phenomena-Continued 
+Late stage, unloading "platy joints" 
+Solifluction, 
+a 
+distorting agent of jointing pat-
+~rns ------------------------------
+A jointing miscellany ------------------------
+Feather-fracture (plumose fracture) and other surface 
+patterns on joints ----------------------
+Width of joint openings -------------------
+Quasi-geologic joints and nongeologic pseudojoints 
+and fractures -------------------------
+Frequency of cooling and tectonic joints in one of 
+the least deformed parts of the border syncline 
+Summary of the geometry of the cooling joint systems __ _ 
+Summary of the geometry of the tectonic joint sys-
+tems-with a contrast of the two types 
+__________ _ 
+A note on the paucity of zeolite deposits in the trap 
+flows of Third Watchung Mountain ____________ _ 
+Supplementary topics ------------------------
+Glossary of terms and definitions -------------
+Character of helicoidal surfaces --------------
+Isothermal surfaces and lines ----------------
+The phenomenological evidence for isothermal 
+surfaces and the direction of heat flow ________ _ 
+Acknowledgments -----------------------------
+Literature cited ----·---------------------------
+Index -------------------------------------
+ILLUSTRATIONS 
+FIGURE 
+l. 
+2. 
+3. 
+4. 
+5. 
+6. 
+A photograph of the Millington quarry taken in 1952 --------------------------------------------
+Skctchmapsofarea -----------------------------------------------------------------
+Schematic diagram of the cooling joint systems in Third Watchung Mountain as observed in the quarry at Millington for the 
+uppcrand~wcrflowun~s ------------------------------------------------------------
+The pahoehoe surface between the lower flow unit and the upper flow unit. The curvilinear jointing system and the thin vesicular 
+base of the upper flow unit rest atop the pahoehoe surface of the lower flow unit. South wall of the Millington quarry of 
+Houdaille Industries at Millington, N.J ----------------------------------------------------
+Exposure of the vesicular zone showing the rectangular (slabby) aspect of the top and the jointing systems in this zone. 
+Locality: Liberty Corner Road between Mountain View Avenue (Dead River Road) and Mountain Road, near Liberty 
+Corner -------------------------------------------------------------------------
+A part of the zone of vesicular trap grading into the columnar zone below. Roadcut on the east side of Alps Road a short 
+distance south of its intersection with Rockledge Terrace, northeast of Mountain View, on Packanack Mountain 
+Page 
+B28 
+29 
+30 
+30 
+32 
+34 
+36 
+36 
+38 
+38 
+38 
+39 
+39 
+40 
+41 
+41 
+42 
+45 
+Page 
+B4 
+7 
+8 
+10 
+11 
+ll 
+Ill 
+
+
+===== PAGE 6 (622x792 pt) =====
+IV 
+CONTENTS 
+FIGVRE 7. Columnar joints, slightly curved and tapered, just below the vesicular top. Roadcut on the east side of Alps Road a short 
+distance south of its intersection with Rockledge Terrace, northeast of Mountain View, on Packanack Mountain 
+8. Remnants of the blasted and mechanically excavated trap in the roadcut at Lyons Station, Lyons, N.J., showing the 
+mechanically disrupted columnar zone ----------------------------------------------------
+9. Columnar joints in the upper flow unit of Second Watchung Mountain. Roadcut on U.S. Highway No. 287, near Liberty 
+Corner -------------------------------------------------------------------------
+10. Inverted fan structure formed of columnar basalt. In roadcut for U.S. Highway No. 280 near West Orange, N.J 
+ll. The ball end of "ball and socket" joints in columnar basalt. Ferguson's quarry, near Little Falls, N.J --------------
+12. The socket end of "ball and socket" joints in columnar basalt. Ferguson's quarry, near Little Falls, N.J ------------
+13. Exposure at the top of the "east" wall of the Millington quarry. The blocky zone juts out. The geologist is pointing to the base of 
+the blocky zone. At the lower right hand side of the picture, well-developed curvilinear joints may be seen. This wall forms the 
+dumping ramp of a stock pile~ The ap'parent granular decoration on the top of the blocks and scattered over the faces is the 
+remains of a former stock pile ----------------------------------------------------------
+14. Detailed view of the blocky zone on the "east" wall of the Millington quarry. An enlargement of a portion of figure 13 
+15. A hackled block from the blocky joint system which has fallen and tumbled from its position in the overhanging ledge to the 
+floor of the Millington quarry. It was battered by a steel ball dropped from a crane boom. Such blocks are used as jetty stone. 
+Other large blocks may be seen near the base of the wall -----------------------------------------
+16. Weathered blocky jointed trap. Roadcut near Blackberry Lane and James Street, New Vernon trap sheet near Morristown, 
+N.J ---------------------------------------------------------------------------
+17. Glacial pavement developed on basalt of the blocky zone. This glacially polished outcrop is on the north side of Chapel Hill 
+Road and Highland Street, Hook Mountain, near Lincoln Park, N.J ---------------------------------
+18. Blocks of trap dislodged from their position at the top of the ridge. These were naturally quarried by alternate freezing and 
+thawing which disrupted the jointed ledge to produce a jumble of blocks. When dislodged sufficiently or undermined, they 
+tumble down the scarp slope. Northeast of the intersection of Pine Brook Road and Passaic A venue Road, Lincoln Park, 
+N.J ---------------------------------------------------------------------------
+19. Curvilinear joints in trap. "East" wall of the Millington quarry. Note thin layer of the closely jointed blocky zone (upper left hand 
+20. 
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+corner) overlying the curvilinear zone and above this the irregular and hackly broken masses of the blocky zone -----
+A close-up view of curvilinear joints in an old quarry wall. "South" wall Millington quarry. Note that the blocks that have 
+dropped out from the wall are shield shaped and wedge shaped ------------------------------------
+Excellently developed curvilinear joints in the trap. The roadcut is approximately perpendicular to the strike. The joints across 
+the face of the curved planes are sheeting joints and are not cooling joints. Roadcut on Bloomfield Avenue near its 
+intersection with Hook Mountain Road, Pine Brook, N.J ----------------------------------------
+Curvilinear joints in relatively fresh basalt. This rock is very tough and required extra blasting to excavate it. The curvilinear 
+joints are outlined by the shades and shadows. They are elongate approximately perpendicular to the floor of the excavation. 
+Near the surface of the triangular area on the right some checking of the minor joints is apparent. This locality is an 
+excavation at the intersection of U.S. Highway 46 and Hook Mountain Road, Pine Brook, N.J ---------------
+A strongly blasted mass of curvilinear jointed trap preserving its characteristic morphology. The picture represents a portion of 
+the "north wall" at the Millington quarry, Millington, N.J __ ..:_ ____________________________________ _ 
+Weathered curvilinear joint masses having wedge shapes. This rock is similar to that in figure 22 except that it is from a strongly 
+weathered zone. Excavation at the intersection of the U.S. Highway 46 and Hook Mountain Road, Pine Brook, N.J __ 
+Curvilinear joints in the trap of Second Watchung Mountain. Geologist's hammer indicates the position of the trace of the 
+helical path of the curvilinear joint. Gallo's quarry, Mt. Bethel, N.J ----------------------------------
+Two right helicoids with parallel but displaced directrices (helicoidal axes), with generators of slightly different length, with 
+equal pitches and out of phase by about 155° ------------------------------------------------
+Portions of two steep right helicoids, moved parallel to one another graphically, until they intersect ---------------
+Curvilinear jointed trap overlying the vesicular base of the upper flow unit in the Millington quarry. The hammer handle 
+rests on the contact of the two zones. The quarry face in this photograph is nearly perpendicular to the quarry face shown in 
+figure4 ------------------------------------------------------------------------
+Outcrop of flow breccia on south side of Oakland Valley Road, approximately abreast the dam, Packanack Mountain, 
+at Pompton, N.J. This relatively thin layer of flow breccia lies just under the curvilinear jointed lava at the base of the 
+flow 
+30. Curvilinear joints in the basaltic lava flow exposed on the Bay of Fundy at Canada Creek, near Black Rock Lighthouse, Nova 
+Scotia -------------------------------------------------------------------------
+31. Tension jointed base of the blocky zone (so-called seam), overlying the curvilinear joint system. Excavation on Northfield 
+Avenue below Valley Road, West Orange, N.J -----------------------------------------------
+32. Detailed view of the tension jointed base of the blocky zone overlying the curvilinear zone "East" wall of the Millington quarry 
+33. Typical pseudocolumnar appearance in the curvilinear zone produced by the superimposition of tectonic planar vertical joints 
+on the curvilinear system. Excavation on Northfield Avenue, below Valley Road, West Orange, N.J -------------
+34. Pseudocolumnar joints produced by the superimposition of tectonic joints on the curvilinear jointing system in the north wall of 
+the Millington quarry, Millington, N.J. The tectonic joints are very rare in the overhanging ledge of the blocky systems, in this 
+photograph. This is the appearance of the pseudocolumns in a freshly blasted exposure ---------------------
+35. Platy-prismatic joints (fracture cleavage) in Second Watchung Mountain. Alward's quarry at the intersection of Pill Hill Road 
+and Meeker Road almost 2'4 miles west of Basking Ridge, N.J. These joints are close to the contact with the Triassic 
+sedimentary rocks below -------------------------------------------------------------
+Page 
+Bl2 
+12 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+18 
+18 
+19 
+20 
+21 
+22 
+23 
+23 
+23 
+24 
+24 
+25 
+25 
+26 
+26 
+26 
+27 
+28 
+28 
+29 
+
+
+===== PAGE 7 (622x792 pt) =====
+CONTENTS 
+FIGURE 36. A view of the zone of the platy-prismatic tectonic joints on Second Watchung Mountain. Musialowski's quarry on Washing-
+ton Valley Road, northwest of Martinsville, N.J. Note the curvature of the sides, of the back joint face in profile. The 
+fracture cleavage here shown in the walls of the quarry has its acute angle bisected by a line parallel to the axis of the major 
+syncline ------------------------------------------------------------------------
+37. The platy surface of the curved platy-prismatic joints (fracture cleavage) developed in or near to the axial plane ofthe tightly 
+folded syncline in the New Germantown trap sheet, 1.2 miles southwest of Oldwick, N.J --------------------
+38. Side view of the curved platy-prismatic joints (fracture cleavage). New Germantown frap sheet, 1.2 miles southwest of Oldwick, 
+N.J ---------------------------------------------------------------------------
+39. Top view, showing the prismatic cross section of the curved platy-prismatic joints (fracture cleavage). New Germantown trap 
+sheet, 1.2 miles southwest of Oldwick, N.J --------------------------------------------------
+40. Very abundant platy-prismatic joints on Second Mountain. The conjugate set of tectonic joints are so abundant that it is difficult 
+to recognize the cooling joints. This section was formerly exposed in the cut for U.S. Highway No. 78 near Pluckemin, N.J. 
+The outcrop is just above the contact with the underlying Brunswick Formation -------------------------
+41. Basal platy joints at the base of the curvilinear zone, just above the contact with the hornfelsized Brunswick Formation. In cut, in 
+Second Watchung Mountain, on U.S. Highway No. 280 at its intersection with Pleasant Valley Way, West Orange, 
+N.J -------------------------------------------------------------~-------------
+42. Sheeting joints in the transition zone between the blocky and the curvilinear zone of the basalt flow of Hook Mountain. This 
+figure represents a view showing a section essentially at right angles to the strike. The roadcut, on Bloomfield Avenue in 
+Pine Brook, is roughtly east-west -------------------------------------------------------
+43. Sheeting joints in the blocky and curvilinear jointed trap of Hook Mountain. The step like aspect is clearly evident. Quarry near 
+the northern end of Hook Mountain near Mountain View, N.J ------------------------------------
+44. Spherical balls found in the deeply weathered columns of trap, near the surface. A ball3 inches (7.5 em) in diameter was cut and 
+polished to show the "fresh" character of the minerals 
+--------------------~---------------------
+45. "Spherical jointing" in basalt produced by weathering. Quarry 2 112 miles south of Stirling, Second Mountain. Taken from 
+Lewis (1908, pl. 38, fig. I) 
+------------------------------------------------------------
+46. Late stage, unloading joints, probably developed in prestressed areas close to the surface of the earth. Their development 
+may have been aided by weathering processes relieving stress, by man induced stresses inherent in blasting, excavating, and 
+machine scraping or bumping operations. "North wall,'' Millington quarry and plant of the Houdaille Industries, 
+Inc ---------------------------------------------------------------------------
+47. Effects of solifluction are shown in the wall, which is essentially normal to the strike. This is shown in Tullo's quarry on Wash-
+ington Valley Road, near Martinsville, N.J. The creep of the mantle down the slope has tilted the pseudocolumns, from their 
+normal position shown at the base, to head downslope ------------------------------------------
+48. Feather fracture developed on a curvilinear joint surface. Upper flow unit, Hook Mountain of Third Mountain, Pine Brook, 
+N.J. The sharp end of the hammer is at the basal point of the feather ---------------------------------
+49. Fracture pattern on a joint wedge broken out of the curvilinear zone at the Millington quarry (Houdaille Industries, Inc.), 
+Millington, N.J. The scale is 10 em -------------------------------------------------------
+50. A, A string model of Oblique Helicoid prepared by Olivier of Paris. "A helix and its axis as directrices; elements making an acute 
+angle with the axis." B, A string model of Right Helicoid. "A helix and its axis as directrices; elements making a right angle 
+with the axis." From Schumann (1946) (Published by permission of D. Van Nostrand Co., Inc.) ---------------
+51. Two left-hand, right helicoids. The vertical distance 2 7rq is the pitch of one helicoid where q equals a constant and it represents 
+the vertical distance traversed in one complete revolution (360°) of the generatrix. Scheffers ( 1902, v. 2, p. 60-61) ___ _ 
+TABLE 
+TABLE 
+I. Joint frequencies in the Watchung Mountains along a line nearly normal to the strike and extending from Pine Brook on Third 
+Watchung Mountain to near West Orange on First Watchung Mountain ------------------------------
+ERRATUM 
+On page A23 of Professional Paper 864-A, "A review and interpretation of the geologic 
+setting of the Watchung Basalt flows, New Jersey," the following items in table 2, column I, 
+were incorrectly cited: 
+SrO 0.08 should be corrected to SrO 0.00 
+C02 ---- should be corrected to C02 0.08 
+v 
+Page 
+B29 
+30 
+30 
+30 
+31 
+32 
+33 
+33 
+33 
+33 
+34 
+35 
+35 
+35 
+40 
+41 
+Page 
+B37 
+
+
+===== PAGE 8 (622x792 pt) =====
+
+
+===== PAGE 9 (622x792 pt) =====
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+JOINT SYSTEMS IN THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+By GEORGE T. FAUST 
+"Die Kl~'fte" 
+"Wir treten vor eine universelle Erschei-
+nung. Kawn ein Vorgang, sei er vulka-
+nischer oder tektonischer Natur, der 
+nicht j(ihig wcire, Kl~fte zu erzeugen. "I 
+ABSTRACT 
+The Watchung Basalt flows of New Jersey were jointed by four different 
+geologic processe~-the cooling of the lava flows, tectonic deformation of 
+the graben, loading during glaciation, and weathering. After the lava flows 
+were extruded to form sheets, they began to cool down, solidify, and joint. 
+The developmental sequence of the joint systems was controlled by the char-
+acter of the heat loss. The sequence, typical of the two flow units in Third 
+Watchung Mountain, forms the basis of this study. The vesicular top 
+formed first. It developed a system of joints which combined to form rec-
+tangular prisms with a slabby aspect. During the stage when the vesicular 
+top was forming the base of the flow began to solidify, and for most of its 
+length it formed a thin vesicular zone 6-8 inches thick ( 15-20 em). The cen-
+tral portion of the flow between the vesicular top and bottom cooled very 
+slowly and eventually solidified and jointed. The sequence of the joint sys-
+tems, arranged in descending order, which developed in the central portion 
+is as follows: the vesicular top changes gradually or abruptly into the colum-
+nar zone, this in turn forms an abrupt boundary with the blocky zone, and 
+the blocky zone changes abruptly into the underlying curvilinear zone, the 
+latter zone passes abruptly or gradually into the vesicular base. 
+The tectonic joints developed in the flows after graben development had 
+ceased. These joints resulted from the deformation of the contents of the 
+graben into a regional central arch with border synclines. In New Jersey 
+weathering has removed all but the border syncline on the so-called "west 
+wall of the graben." Tectonism produced transverse joints in the vesicular 
+top, irregular or planar lateral joints in the columnar zone, a tension jointed 
+base in the blocky zone, and three types of joints in the curvilinear zone-
+pseudocolumnar, platy prismatic (fracture cleavage), and basal lateral 
+joints. 
+Sheeting, the third type of jointing, postdated all the other joint systems. 
+It is best developed in the curvilinear zone north of the terminal moraine of 
+the last glaciation. 
+Weathering processes developed spherical joints. 
+Observations made on jointing systems elsewhere in the United States 
+and in Iceland, Great Britain, and Germany are compared with those 
+observed in the Triassic basin. 
+1 Cloos. Hans (1936, p. 214). "We are in the presence of a universal phenomenon. Scarcely an 
+~vent. be it of volcanic or tectonic nature, that would not be capable of generating joints." 
+INTRODUCTION 
+Joints are the record, imprinted in the rocks, of past geo-
+logic processes whose stress fields were of such a magnitude 
+that they caused the brittle rocks to rupture. Joints are omni-
+present in rocks. They can be formed by several physical 
+processes-thermal and mechanical. The magnitude of the 
+stress fields developed in a given region is not constant 
+throughout time and may reach magnitudes sufficient to 
+produce rupture at several widely separated times in the 
+geologic history of the region. Commonly, the several geo-
+logic events which produced the stress fields that caused 
+rupture were themselves unrelated. Each of the geologic 
+events, if it is capable of rupturing the rocks, will produce its 
+own characteristic set of joints. From a study of joints in the 
+field it should be possible to determine: 
+l. how many different joint systems are present, 
+i the geometric morphology of each joint system, and 
+3. the relation of each joint system to some past geologic 
+event. 
+Joints studied in this way may thus contribute in deciphering 
+the geologic history of a region and provide an estimate of 
+the minimum order of magnitude of some of the forces 
+involved. 
+Joints are commonly paths along which ground waters 
+flow in traversing rock masses. The amount of water moving 
+along joint planes is dependent upon the width of the joint 
+openings, and the frequency of joints. It also depends on the 
+degree of interconnection between the various joint systems, 
+and between these systems and other structural planes or de-
+positional surfaces. The zones of most intense fracture will 
+be the zones of higher permeability. The relation of joint fre-
+quency in rocks and the yield of water in wells in these rocks 
+may serve as a valuable aid in hydrologic studies. 
+Joints may also be the paths along which mineralizing 
+solutions flow, and they may themselves later become filled 
+or coated with mineralized veins. By noting which ofthe sev-
+Bl 
+
+
+===== PAGE 10 (622x792 pt) =====
+82 
+STUDIES ON THEW ATCHUNG BASALT FLOWS OF NEW JERSEY 
+eral joint systems are veined and which are not and by deter-
+mining the paragenetic sequence characteristic of each type 
+of veined joint system, the relative ages of the mineralization 
+and the direction of flow of the mineralizing solutions may 
+be obtained. Suc]l information can help in the search for ore 
+deposits, or it may furnish diagnostic criteria in the interpre-
+tation of the petrologic history of igneous rocks. 
+A detailed knowledge of the joints present in rock masses 
+that are traversed by, or compressed by superimposed con-
+structional loads, is very important to engineering geologists 
+and civil engineers. Joints in rocks affect the stability of 
+slopes, walls, tunnels, and other types of excavation and they 
+may greatly influence the hydrologic regime within such 
+rock masses. Under water-saturated conditions and high 
+pore pressure, walls may become so unstable that they col-
+lapse. Quarry operators may also make use of information 
+obtained in the study of joints in selecting the volumes of 
+rock to be quarried. 
+In order to answer some of the problems just posed to the 
+reader, it is necessary to study joints in the field. The present 
+study was undertaken to help in the interpretation of the geo-
+logic history of the region. This geologic history was needed 
+as a background on which petrologic studies could be based. 
+As a byproduct of this study, data were obtained and obser-
+vations made on joints which may help scientists, engineers, 
+and others working in the applied disciplines. 
+The treatment of jointing presented in this paper is phe-
+nomenological. The theory of jointing and other interpretive 
+discussions are reserved for another contribution. 
+In the introductory paper of this series I described the 
+circumstances which led to my study of the development of 
+the joint systems in the basalts of the Watchung Mountains, 
+Faust (1975, p. AI). About 1937 I had made very simplified 
+calculations of the heat flow relations within a model sheet. 
+By this means the probable direction of movement of the 
+heat flow lines, within the model, was obtained. A geometri-
+cal method given by A wbery and Schofield ( 1929) and Scho-
+field ( 1930, p. 495) showed that the heat flow lines could be 
+taken as perpendicular to the isotherms at every point within 
+a given body. In three dimensions, assemblies of adjacent 
+heat flow lines will be normal to a common plane or to a por-
+tion of a common curved surface. It has been assumed, in 
+petrologic studies, that at that temperature at which the 
+joints form in a cooling igneous mass they form along surfa-
+ces perpendicular to the isothermal planes, Iddings ( 1909, v. 
+1, p. 320-327). Tomkeieff ( 1940, p. 129) defined the "fracture 
+isotherm" as that particular isotherm at which fracture takes 
+place. Spry (1962) and Jaeger (1968) discussed the relations 
+between isotherms and jointing in basalt. 
+It was clearly recognized, at the outset of my studies, that 
+this simplified model that I developed could only furnish 
+ideas for a preliminary skirmish with such a formidable nat-
+ural geometrical problem. Accordingly, I decided to com-
+pare the model with the natural system and I had the oppor-
+tunity to test it while visiting a number of quarries and 
+outcrops, in the company of Dr. Alfred C. Hawkins, Profes-
+sor of Geology in Rutgers University. Although any real 
+agreement between the model and the natural system had 
+not been expected, the abundance of different sets of planar 
+joints and the unique character of the curvilinear surfaces 
+was totally unexpected. Moreover, the unequal frequency of 
+occurrence of the joint surfaces for the different joint systems 
+needs explanation. These observations led me to abandon 
+theoretical studies and to examine the joint systems in the 
+field. 
+Subsequent studies of the field relations of the flows 
+showed that there were at least two independent geologic 
+processes which produced the joint systems. In Third 
+Watchung Mountain the joints due to the cooling ofthe lava 
+were found to be the most abundant. In Second Watchung 
+Mountain the abundance of a new type of joints arising from 
+a second geologic process, the tectonic deformation of the 
+contents ofthe Newark graben varied with respect to the out-
+crop position in the synclinal basin. Once these distinctions 
+were established the tectonic joints were readily differ-
+entiated from the cooling joints. A third type of jointing, 
+sheeting, was observed in the northern portion of the 
+synclinal structure north of the terminal moraine which 
+extends from the vicinity of Morristown to the Summit-
+Short Hills area. The jointing in First Watchung Mountain, 
+in certain outcrops, as at and in the vicinity of the famous 
+O'Rourke quarry at West Orange, described by Iddings 
+(1886), showed a more complicated pattern with the greater 
+development of the zone of columnar jointing, and this 
+modified the magnitudes of the zones of the several joint sys-
+tems. 
+Certain aspects of this study are mentioned in Geological 
+Survey Research 1961, 1972, and 1973 (U.S. Geol. Survey, 
+1961, p. A97; 1972, p. A27; 1973, p. A36). 
+A qualitative description is given herewith of the various 
+jointing systems in the basalt flows, and of the interrelation-
+ships amongst them. Most of the examples will be chosen 
+from outcrops in Third Watchung Mountain, but in addi-
+tion examples of joint systems, well developed or more prev-
+alent in Second Watchung Mountain and First Watchung 
+Mountain, will be included. 
+The several jointing systems are described first in an over-
+all manner, showing the relationships between the several 
+systems, and then in detail for each system. Emphasis is 
+placed on describing as far as possible, the appearance of a 
+particular joint system in a freshly exposed outcrop, a wea-
+thered outcrop, and in glacially abraded exposures. 
+PREVIOUS STUDIES ON JOINTING IN THE 
+WATCHUNG BASALT FLOWS 
+In earlier geologic studies of the Newark basin, some of 
+the geologists made observations on joints in selected parts 
+of the Watchung Basalt flows. The columnar fan structures 
+in the basalt of First Watchung Mountain at O'Rourke's 
+
+
+===== PAGE 11 (621x792 pt) =====
+JOINT SYSTEMS 
+B3 
+quarry just south of Llewellyn Park, West Orange, N.J., 
+were made famous by the classical theoretical study of 
+Iddings (1886, 1909). Fenner ( 1908) made observations on 
+the character of the basal part of the lower flow unit of First 
+Watchung Mountain. Lewis (1909, 1915) briefly described 
+jointing patterns in the Watchungs and mentions columnar, 
+platy, planar, irregular, and "sphenoidal or wedge-shaped" 
+types of jointing. Bucher (in Bucher-Kerr, 1948) briefly de-
+scribed the jointing patterns in the lower flow unit of First 
+Watchung Mountain and compared the section with that de-
+scribed by Tomkeieff (1940) at the Giant's Causeway, 
+County Antrim, Ireland. Bucher's broad use of the term 
+columnar makes difficult the comparison of his studies with 
+those of other investigators. 
+· Most of this early work consisted of observations made at 
+one or a few outcrops. None of these geologists studied the 
+distribution of joints in both the upper and lower flow units 
+of any of the three sheets nor made any attempt to investigate 
+the distribution of joint systems over the whole outcrop area. 
+Sosman (1916) carefully evaluated the results of the 
+experimental data obtained in the study of the formation of 
+polygonal structures. He developed criteria for recognizing 
+contraction and convection prisms and applied them to the 
+interpretation of the data on the frequency of n-sided prisms 
+(where n = 3, 4, 5, 6, 7) in columnar jointed basalts. 
+SAMPLING OF THE JOINTING PATTERNS 
+IN THIRD WATCHUNG MOUNTAIN 
+The outcrop area of the several parts of Third Watchung 
+Mountain is about 18 square miles along an outcrop scarp of 
+approximately 41 miles length. In t'his area about 250 expo-
+sures were studied in detail. Four active and 16 inactive or 
+abandoned quarries were studied. 
+Fortunate for this investigation was the rather extensive 
+building development which occurred during the course of 
+this research. Attractive scenic views along the scarp slope of 
+Long Hill, Hook, and Packanack Mountains caused this 
+area to open up quickly for homes for the commuting subur-
+banites. Cellars excavated and occasionally blasted out of 
+the trap rock offered excellent exposures. Ditches for the 
+utilities, gas, water and electricity, permitted checking the 
+continuity of. observations along the strike, and drilling for 
+water wells, 'commonly through the basalt to the red shale 
+below, permitted checks on the thickness and attitude of the 
+flows. It should be emphasized that many of the outcrops de-
+scribed herein were open only during periods of excavation 
+or building operations and cannot be seen today. The same is 
+true for old and abandoned quarries which have had their 
+floors leveled, and their walls graded, and have had apart-
+ments, dwellings, and factories built in them, or they have 
+been converted into parking lots. For these some of the pho-
+tographs included here are the only evidence. 
+It is of course not possible to see all of the trap rock present 
+in Third Watchung Mountain. On the basis of what is 
+observable, it is possible to state that, the bottom of the 
+lower flow unit most commonly rests directly on the red 
+shale and sandstone, which were baked; less commonly it 
+formed a flow breccia resting on the shale and sandstone. 
+The description and the discussion of the minor zones of 
+the flow units-agglomerate, pillow lavas, and tuff that 
+occur locally- will be given in a subsequent part of this ser-
+Ies. 
+DESCRIPTION OF THE JOINT SYSTEMS 
+The preliminary examination in 1936-37 showed that the 
+jointing patterns were more distinct and apparently less 
+complicated in the quarries and exposures in Third Moun-
+tain than in either Second Mountain or First Mountain. 
+Further observations in 1946 showed that mineralization 
+was chiefly confined to the joints and to a lesser extent to 
+breccia zones as at the Millington quarry (then part of the 
+North Jersey Quarry Co., now Houdaille Industries, Inc.). 
+The large zones of "green rock," present in parts of First 
+Mountain, were also absent from Third Mountain. Accord-
+ingly, it was decided to set up a standard section for study in 
+the Millington quarry. The reasons for doing this were as fol-
+lows: first, the jointing systems observed in Third Watchung 
+Mountain appeared to be the least complex; second, the 
+quarry at Millington was a very large excavation which 
+exposed almost the entire section of the upper flow unit and 
+a portion of the lower flow unit; and third, the possibility 
+existed that the lower flow unit might be core drilled some-
+time in the future. Although the lower flow unit was exposed 
+nearby in the weathered outcrops, the obvious advantage of 
+obtaining fresher material from the core was also a decisive 
+factor. In addition, in this quarry, the quarry faces had 
+remained essentially dormant since large-scale quarrying 
+operations temporarily closed down in 1930, and the jointed 
+surfaces had acquired a reddish patina which stood out in 
+striking contrast to the yellowish-brown color of the subsur-
+face alteration of the uppermost portion of the flow. Most of 
+the cooling joint patterns described herein were first 
+observed and later delineated at this locality. An overall pho-
+tograph of this quarry taken in 1952 is given as figure l. 
+In order to relate the various outcrops, described herein, 
+to their position in the synclinal basin which they in part 
+form, a sketch map is given here, see figure 2A. An index to 
+the U.S. Geological Survey topographical quadrangle maps, 
+scale I :24,000, covering the exposure area of the Watchung 
+Basalt flows is given in figure 2B. 
+Joints are commonly defined as the cracks which divide 
+rocks into separate volumes and along whose surfaces no sig-
+nificant movement has occurred. In the field, joints are 
+observed to occur in sets which usually have a directional 
+parallelism. The frequency of occurrence of a given joint set 
+in the Watchungs may vary from a few inches to many tens of 
+feet. The area of the different joint surf:,1ces is also quite vari-
+able, ranging from a few square inches to many tens of 
+
+
+===== PAGE 12 (621x792 pt) =====
+84 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+FIGURE I. A photograph of the Millington quarry taken in 1952. The picture was taken looking in an easterly direction. Photograph courtesy of the Houdaille 
+Industries, Inc., and Mr. Thomas Stewart, formerly superintendent of the Millington operations. A-B is the blocky zone, Cis in the curvilinear zone, Dis a 
+remnant of the curvilinear just under the closely jointed base of the blocky zone, E is the pond just above the vesicular base. 
+square feet. The joint surfaces may be plane or curved surfa-
+ces. These characteristics define, in part, the geometrical 
+relations of joints and joint surfaces, but by themselves they 
+do not indicate the geologic process which produced the 
+joints. 
+The jointing developed in a given area may be the result of 
+one or more geologic processes. When several geologic pro-
+cesses have each developed their own joint sets, the com-
+bined sets of joints are very complicated, and it is necessary 
+to identify the joint sets arising from each process. It is some-
+times possible to note that a combination of several joint sets 
+produces a symmetrical pattern and that these individual 
+joint sets appear to be related. Thus three mutually perpen-
+dicular joint sets may be combined to form a rectangular 
+parallelepiped. Such a combination of genetically related 
+joint sets which encloses space and forms a more 
+symmetrical pattern is here referred to as a joint system. The 
+recognition of joint systems leads to an understanding of 
+their genesis. 
+This usage of joint set and joint system is essentially the 
+same as that described by Cloos (1936, p. 219) for use in the 
+study of intrusive igneous, metamorphic, and sedimentary 
+rocks. I have tried to avoid introducing new terminology, 
+and I have followed Geike (1893, p. 529-530), in the use of 
+transverse joints, those that "are oblique to the sides of the 
+prism (referring to columnar joints)" and extended this term 
+to cover joints that form as diagonal planes in an idealized 
+orthogonal system. 
+COOLING JOINTS 
+The Watchung Basalt flows were formed by three volcanic 
+episodes. Each volcanic episode poured out lava in two suc-
+cessive eruptive events. During each eruptive event, lava 
+flowed out of the fissures and spread laterally until it reached 
+the bounding "fault walls." Continuous discharge of lava 
+built up accumulations from 100 feet (30.5 m) to perhaps 500 
+or 600 feet (152.5 or 183m) thick. The flood oflava tended to 
+attain a level surface. The upper surface of a flow cooled rela-
+tively rapidly and formed a vesicular top. This surface was 
+gently undulating and relatively smooth in character, of the 
+pahoehoe type. The bottom of the flow cooled much more 
+slowly and formed, in general, a thin vesicular base. The cen-
+tral portion of the flow cooled very slowly. After the various 
+parts of the central portion had cooled sufficiently, they too 
+jointed. The resulting sequence of zones of joint systems owe 
+
+
+===== PAGE 13 (621x792 pt) =====
+JOINT SYSTEMS 
+65 
+their origin solely to the cooling process which took place in 
+the Ia va sheet. The sequence of zones of coolingjoint systems 
+observed in both the upper and the lower flow units of Third 
+Watchung Mountain are, in descending order, as follows: a 
+vesicular top that changes gradually or abruptly to the 
+columnar zone; this in turn forms an abrupt boundary with 
+the underlying blocky zone; this in turn forms an abrupt 
+boundary with the curvilinear zone, and the curvilinear zone 
+passes abruptly or gradually into the vesicular base. 
+A schematic diagram of the jointing relations in Third 
+-·watchung Mountain as exposed in the quarry at Millington, 
+see figure 2, is shown in figure 3. The vesicular top is overlain 
+to the east by the Brunswick Formation ("Rb), and an out-
+crop of Brunswick appears on South Maple Avenue just 
+above the Davis Bridge, Basking Ridge. When I first exam-
+ined the quarry in 1946, the vesicular top and the columnar 
+zone were only remnants left after scraping and bulldozing 
+the upper surface. The upper flow unit rests directly on the 
+lower flow unit, and there is no intertrappean layer of 
+sediments exposed in the quarry nor in the many drill cores 
+that penetrate this boundary. The boundary surface between 
+the two flow units is a pahoehoe surface, figure 4, and it 
+shows no evidence of any erosion, an indication that the two 
+flow units were the results of two volcanic events not widely 
+separated in time. 
+The lower flow unit was only partially exposed as the 
+vesicular top in the quarry, but it was well and more com-
+pletely exposed as weathered outcrops and as fresher rock in 
+roadcuts, nearby. I have also examined the fresher rock of 
+the drill cores, and they show the vesicular base of the lower 
+flow unit rests on a very thin hornfels zone which grades 
+almost imperceptibly into the unmetamorphosed sedimen-
+tary layers below. 
+A part of the sequence of the jointing systems and the 
+interrelationships between them in the Millington quarry is 
+shown in figure I. The arrow "A" indicates the position of 
+the blocky layer which juts out as a ledge. Atop it, arrow "B," 
+is the remnant of the columnar layer which has been badly 
+shattered by quarrying operations. In the quarry face, 
+marked "C," located in the picture between the stock pile and 
+office building, the lower part of the section is exposed. Here 
+the curvilinear layer is shown cracked by vertical tectonic 
+joints. The promontory, at the top of this section, marked 
+"D," was 15 feet higher than the roadway and contained the 
+lower part of the blocky layer. At the edge of the pond, 
+marked "E," the lower vesiculate zone of the upper flow unit 
+and the upper vesiculate zone (top) of the lower flow unit 
+were encountered in quarrying operations probably about 
+1890-1900. More detailed views of the various boundary 
+zones between the jointing systems are given in appropriate 
+sections that follow. 
+VESICULAR TOP 
+Particularly fresh occurrences of the vesicular basalt are 
+not very abundant on Third Watchung Mountain. The scar-
+city of such outcrop arises, in part, from the glacial erosion 
+which removed much of this zone. It is still encountered in 
+drilling wells for water; or in localities where it has been pro-
+tected from erosion, it may appear in the top walls of quar-
+ries or in roadcuts. On Second Mountain at an exposure in a 
+roadcut located on the east side of the Liberty Corner Road 
+between Mountain View Avenue (Dead River Road) and 
+Mountain Road, near Liberty Corner, a relatively fresh out-
+crop can be seen. The surface appears to be an original top; 
+in places the gloss of the original surface has been dulled by 
+weathering. The exposure probably lay beneath a red shale 
+knoll, which has since been removed by erosion and excava-
+tion. Such red shale knolls in the Watchungs are not infre-
+quent and usually offer good exposure. Some of them have 
+been used as local quarries for brownstone and were appar-
+ently abandoned when the vesicular zone of the trap was 
+encountered in quarry operations. 
+The vesicular zone is characterized at the top by a rectan-
+gular aspect. Weathering along the joints produces 
+rectangular slabs. With depth, this zone may show a jointing 
+pattern that appears to be pseudocolumnar. 
+The vesicular top, in the vicinity of the Millington quarry, 
+has been largely removed in stripping operations, because it 
+was much weathered and easily excavated. Nearby, at Davis 
+Bridge, Basking Ridge excavations for the gas utility line 
+starting in red shale penetrated through the contact with the 
+vesicular trap and yielded relatively fresh samples of the lat-
+ter. At some localities the vesicles are filled with minerals, 
+chiefly calcite, but some prehnite and pectolite may be pres-
+ent. The rock is then part of an amygdaloidal top. 
+The characteristic appearance of a good exposure in the 
+vesicular zone is shown in figure 5, where the rectangular 
+(slabby) aspect of the top of the zone can be seen. This expo-
+sure is approximately 30 feet long and 6 feet high. In addition 
+to the rectangular joint system, two sets of transverse joints 
+at about 45° to the principal joints are present. The rectangu-
+lar joint system, which represents cooling joints, consists of 
+the flat surface (the basal plane) and the rectangular prism. 
+The transverse joints are interpreted as tectonic joints. This 
+exposure represents the upper surface of the flow, and its 
+change in character with depth cannot be followed here but 
+elsewhere as at several exposures on Alps Road, northeast of 
+Mountain View on Packanack Mountain, a part of Third 
+Mountain, the lower portion of this vesicular zone may be 
+observed. 
+The vesicular layer as it appears in a roadcut on Alps Road 
+just a short distance south of its intersection with Rockledge 
+Terrace, northeast of Mountain View, is very instructive. 
+Here one can see the change from the vesiculate layer (here 
+amygdaloidal in part) into the columnar layer below, see fig-
+ure 6. 
+The weathering of the vesicular layer at some outcrops 
+takes place so that the whole rock exposure has decomposed 
+throughout to yield a soft product. At other outcrops it 
+appears that the bridging rock between the vesicles, at the 
+
+
+===== PAGE 14 (621x792 pt) =====
+136 
+STUDIES ON TH E WATCHU NG BASALT FLOWS OF NEW JERSEY 
+74 "40' 
+p£ 
+New Germantown 
+trap sheet 
+lib 
+74"30' 
+p£ 
+• Somenille 
+p£ 
+74 "20' 
+lib 
+74"10' 
+.orange 
+West Orange 
+0 
+5 
+10 MILES 
+0 
+5 
+10 KILOMETE RS 
+4 0 "30' L_ ____________ _L ____________________ ~ 
+____________________ L_ __________________ ~--~ 
+EXPLANATION 
+CllJ]D> Outcrop of basalt 
+---Fault 
+- ..:._- Anticl ine 
+A 
+-+- Syncline 
+o40 Approximate location of 
+figures with number 
+M 
+Location of Millington Quarry 
+
+
+===== PAGE 15 (621x792 pt) =====
+JOINT SYSTEMS 
+87 
+75" 
+NEW 
+JERSEY 
+41 ·oo· 
+#' 
+~~ 
+~ 
+~ 
+~ 
+~ 
+o+ 
+,.._o 
+~ 
+~ 
+~"' 
+~"' 
+~ 
+~~ 
+<.i 
+~ 0 
+~ 
+Bedminste 
+~ 
+0~ 
+Somerville 0 
+~ 
+q) 
+# 
+0 
+~ Boun 
+~ Brook 
+75" 
+0 
+10 
+0 
+10 
+20 
+H 
+~+ 
+,.._o 
+R 
+o o4? 
+~ 
+Morris to 
+#' 
+"~ 
+~'t-
+<.i 
+~ 
+~~ 
+~ 
+q,~ 
+20 
+30 KILOMETERS 
+0 
+Oakland 
+30 MILES 
+41 ·oo· 
+Jersey City 
+FIGURE 2. A, Sketch map showing outline of the three Watchung Mountains and the New Germantown trap sheet (modified from Lewis, 1908, pl. 10). I, II, and III 
+refer to First, Second, and Third Watchung Mountains. B, An index to the U.S . Geological Survey topographical maps, scale I :24,000, covering the exposure 
+area of the Watchung Basalt flows. 
+position of least volume, weathers more rapidly so that crude 
+polyhedral volumes of less altered rock result. If the finer 
+material of such a deposit is winnowed and washed away a 
+coarse gravelly deposit having the appearance of weathered 
+pyroclastic material forms. This type of alteration is made 
+more obvious to the eye if the rock was an amygdaloid, for 
+the light colored minerals stand out by contrast, and the 
+more insoluble minerals such as quartz and prehnite are par-
+ticularly conspicuous. 
+COLUMNAR ZONE 
+The columnar zone is characterized by columns, com-
+
+
+===== PAGE 16 (621x792 pt) =====
+B8 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+0 
+10 
+t 
+~,a'!-.-· 
+_,.,. 
+._.,,rtf 
+-
+~I..· 
+~~ 
+I 
+) 
+~ 
+F 
+I 
+.. 
+UPPER FLOW UNIT 
+Vesiculate zone 
+Columns 
+Blocky zone 
+"Rw Watchung 
+Basalt Formation 
+Curvilinear zone 
+Vesiculate zone 
+FIGURE 3. Schematic diagram of the cooling joint systems in Third Watchung Mountain as observed in the quarry at Millington for the upper and lower flow units. 
+The curvilinear joints are enclosed within the bounding surface of the convection cells. These cells are drawn as hexagonal prisms in torsion, see p.B 14. The 
+amount of torsion has been exaggerated for purposes of illustration. Three patterns of curvilinear joints corresponding to figures 20, 21 , and 25 are 
+schematically illustrated within the convection cells. The columnar and blocky zone of the lower flow unit were not exposed, but they are shown here. They do 
+appear in other outcrops of the lower flow unit. 
+
+
+===== PAGE 17 (621x792 pt) =====
+JOI NT SYSTEM S 
+B9 
+LOWER FLOW UNIT 
+monly six-sided but also five-sided, and best described as 
+polygomil in outline to allow for the variations observed 
+locally. Figure 6 shows the upper vesiculated surface with 
+curved columns appearing with depth. The crude columns at 
+first are curved and swirly in nature. Some appear to flare 
+out from points in the upper rectangular joint system. The 
+columnar joints are commonly nestled under the vesicular 
+zone and if this zone is thin, then the columns will radiate, or 
+fan out, under the undulating pahoehoe top. Vesicles appear 
+to be common in the top of the curved columns. Weathering 
+accentuates the curved columns. Well-developed columns 
+are illustrated in figure 7. 
+' 
+0 
+• 
+0 
+• 
+0 
+... 0 
+'0 
+.. 
+o., 
+() 
+Q 
+(> 
+0 
+• 
+0 
+0 
+' 
+liw Watchung Basalt 
+Formation 
+lib Burnswick Formation 
+The columnar zone at the Millington quarry was well rep-
+resented when the section was measured in 1949. lt stood out 
+in marked contrast from the blocky zone on which it rested, 
+for weathering had enlarged the space between the joints. 
+The columns were polygonal, many were six and five sided, 
+and a horizontal joint system formed the basal planes which 
+closed the columns at both ends. In addition to the enlarge-
+merh of the cooling joints, cross-joints are made more evi-
+dent by weathering, or blasting. The columns at the Milling-
+ton quarry were commonly 6 inches wide (15 em), but some 
+ranged up to a foot (30 em) in width. Their height was about 
+four feet (1.2 m) but some had been broken off and they 
+
+
+===== PAGE 18 (621x792 pt) =====
+HIO 
+STUD IES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+FIGURE 4. The pahoehoe surface between the lower flow unit and the upper flow unit. The curvilinear jointing system and the thin vesicular base of the upper flow 
+unit rest atop the pahoehoe surface of the lower flow unit. South wall of the Millington quarry of Houdaille Industries at Millington, N.J. Scale is shown by 
+hammer. 
+could have been in places up to 8 to 10 feet (2.4 to 3.1 m). 
+Columnar cooling joints of the type described above are 
+not commonly exposed on Third Watchung Mountain 
+apparently because the advance of the North American ice 
+sheet covered or beveled most of the outcrops. Nevertheless 
+one may see the remains of eroded columnar coolingjoints at 
+a number of outcrops. At Lyons station, blasted and 
+mechanically broken out exposures of the columnar layer 
+resting on the blocky layer could be seen near the top of the 
+roadcut, see figure 8. 
+Columnar joints in the upper flow unit of Second Moun-
+tain are better developed than in Third Mountain, and they 
+are much larger, as much as 15 to 20 feet (4.6 to 6.1 m) long. 
+They were better preserved from erosion so that they were 
+excellently exposed during the excavations for U.S. High-
+way No. 287 in the vicinity of Far Hills and Liberty Corner, 
+and on U.S. Highway 78 between Pluckemin and Mt. Bethel. 
+A particularly fine exposure on U.S. No. 287 near Liberty 
+Corner Road is shown in figure 9. The columns show the typ-
+ical pinch and swell structure of Spry ( 1962). 
+The columnar joints of the lower flow unit of First Wat-
+chung Mountain as exposed in the quarry near West Orange, 
+N.J., and operated at the turn of the century by John 
+O'Rourke, are world famous (Iddings, 1886, 1909). When 
+the excavations of the cut for U.S. Highway No. 280 were 
+made in the Oranges in the near vicinity of O'Rourke's 
+quarry similar superb columnar structures were exposed. In 
+mapping this cut it was found that the lower flow unit was 
+cut by a dike. An example of an inverted fan structure, (in the 
+terminology of Spry- 1962, p. 195), is shown in figure 10. 
+The ball and socket type of jointing, in columnar basalt, 
+made famous by its development in the Giants' Causeway, 
+County Antrim, Ireland, Preston (1930), Tomkeieff (1940), 
+is a relatively rare type of jointing in the Watchungs. In my 
+fieldwork on Third and Second Watchung Mountain, I have 
+only seen one good exposure of this type of jointing and that 
+is present in the old Ferguson quarry, in Second Mountain 
+near Little Falls, N.J., see figures II and 12. 
+
+
+===== PAGE 19 (621x792 pt) =====
+JOI NT SYSTEMS 
+Bll 
+F IGURE 5. Exposure of the vesicular zone, showing the rectangular (slabby) 
+aspect of the top and the jointing systems in this zone. Locality: Liberty 
+Corner Road between Mountain View Avenue (Dead River Road) and Moun-
+tain Road, near Liberty Corner. 
+BLOCKY ZONE 
+The blocky zone forms a distinct ledge in the north wall of 
+the quarry at Millington, N.J., where it juts out noticeably 
+from the wall itself, see figure I (arrow marked "A"). A typi-
+cal exposure of the blocky zone at Millington shows a ledge 
+broken by a series of parallel joints which extend from the 
+top to the bottom of the ledge and subdivide it into a set of 
+large blocks which have the shape of rectangular parallele-
+pipeds. Some of these large blocks have uninterrupted faces 
+of as much as several tens of feet long. The blocky joints are 
+remarkable for their planar quality and their surface area. A 
+view of a well developed exposure of blocky jointed trap 
+cropping out on the "east" wall is given in the upper part of 
+figure 13. The blocks had been badly battered by -the crane 
+shovels -during removal of the overlying crushed rock. The 
+typical system consists of a rectangular parallelepiped, faces 
+of which are three sets of pairs of rectangles, each pair having 
+a different area. The geologist is holding a hammer at the 
+base of the blocky zone. A more detailed view of this system 
+of joints is shown in figure 14, where the blocky aspect is 
+clearly developed in an exposure of an old quarry wall from 
+which the loose masses and fragments once part of it and the 
+soil above it have been removed by the action of freezing and 
+thawing, and rainfall over a number of years. 
+In the quarry walls the blocky zone may be seen jutting out 
+from the other jointing zones. It does so by virtue of the 
+great strength, toughness, and resistance to excavation oft he 
+basalt in this zone. Such overhanging ledges may remain for 
+many years in unquarried walls. When active quarrying is 
+resumed a succeeding blasting will tumble huge blocks 
+almost unbroken to the quarry floor. The planar joint faces 
+FIGU RE 6. A part of the zone of vesicular trap grading into the columnar zone 
+below. Roadcut on the east side of Alps Road a short distance south of its 
+intersection with Rockledge Terrace, northeast of Mountain View, on Pac-
+kanack Mountain . The hammer is near the boundary. 
+of such blocks may be partly defaced in the falling and tum-
+bling over the loose blasted rock. Such hackled surfaces 
+reveal an internal structure within the blocks which suggests 
+an assemblage of closely packed elongate polyhedra. The 
+longest axes of these polyhedra are randomly oriented. This 
+characteristic random orientation serves to differentiate 
+defaced "blocks" from battered columnar joints in small out-
+crops. Such a hackled block is shown in figure 15. An expo-
+sure of weathered blocky trap in the New Vernon trap sheet 
+near Morristown illustrates the significance of this criteria. 
+In figure 16 the randomly oriented elongate polyhedra are 
+easily identified. This outcrop was exposed many years ago 
+by pickaxe and crowbar and was recently enlarged. Despite 
+erosion and excavation it is still recognized as part of the 
+blocky zone. 
+In addition to defacing due to tumbling, the block in figure 
+15 was also battered with a large steel ball in an attempt to 
+break it down to a size the crushers could accept. Such tough 
+large masses are called "jetty stone" and are shipped, as quar-
+ried, to the New Jersey seashore for use in jetties, groins, and 
+seawalls. 
+
+
+===== PAGE 20 (621x792 pt) =====
+Hl2 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+FIGURE 7. Columnar joints, slightly curved and tapered, just below the vesicular 
+top. Roadcut on the cast side of Alps Road, a short distance south of its 
+intersection with Rockledge Terrace, northeast of Mountain View, on Pac-
+kanack Mountain. 
+FIGURE 8. Remnants ot the blasted and mechanicall y excavated trap in the 
+roadcut at Lyons Station, Lyons, N.J ., showing the mechanically disrupted 
+columnar zone. 
+The outcrop of the basalt of Third Watchung Mountain 
+appears as a ridge with a steep scarp slope and a gentle dip 
+slope. During glaciation much of the scarp slope was parallel 
+FIGURE 9. Columnar joints in the upper flow unit of Second Watchung Moun-
+tain. Roadcut on U.S. Highway No. 287, near Liberty Comer. 
+to the direction of the oncoming ice of the North American 
+ice sheet as it advanced. To the north of the terminal moraine 
+and along the ridge the three units-the red shale above the 
+flow, the vesicular zone, and the columnar zone, all of which 
+are easily eroded by mechanical forces- were largely 
+removed. The blocky jointed trap on the other hand was very 
+resistant and was polished and in part striated and grooved 
+by passage of the glacier. Surfaces of polished blocky basalt, 
+the glacial pavement, are commonly observed as bosses on 
+Hook Mountain, Rikers Hill, and Packanack Mountain, see 
+figure 17. Salisbury (Salisbury and others, 1902, p. 540) gives 
+data for striae measured on various exposures of glacial 
+pavement. 
+The resistant blocky zone is visible in many outcrops 
+along the ridge of Third Mountain, but there are sections 
+where it cannot be seen. At many such sections the former 
+presence of the blocky zone can be confirmed by examining 
+the loose massive blocks at the base of the scarp slope, see 
+figure 18. These blocks tumbled down from the ridge top 
+where they were formerly exposed. Alternate freezing and 
+thawing, oft repeated, spread open the blocky joints and 
+jostled the blocks loose so that when they were undermined, 
+they fell. The tumbled blocks commonly have been defaced 
+so that they show the randomly oriented elongate polyhedra. 
+CURVILINEAR ZONE 
+The joints in this zone are bounded by curved surfaces. 
+The typical appearance of this type of jointing in an old 
+quarry wall in relation to the overlying blocky layer is seen in 
+figure 14, and a close-up view is given in figure 19. Here the 
+curved surfaces clearly differentiate this jointing system 
+from its congeners. A block of curvilinearly jointed trap 
+breaks out rather commonly in the form of a massive escut-
+
+
+===== PAGE 21 (621x792 pt) =====
+JOINT SYSTEMS 
+Bl3 
+A 
+8 
+F IGURE 10. A, B, Inverted fan structure formed of columnar basalt. In roadcut 
+for U.S. Highway No. 280 near West Orange, N.J. 
+cheon similar to those hewn from rock and used in the stone 
+work decorating buildings. A close-up view of the curved 
+joints in an old quarry wall, figure 20, shows the wedge shape 
+aspect of this type of jointing. When such wedge shaped 
+masses weather out they produce shieldlike masses. 
+The pitch of the curved surfaces, as measured along the 
+vertical extension of these curvilinear joints, varies from one 
+exposure to another and a comparison of a recently wea-
+thered surface of a blasted excavation, figure 21 , shows a dif-
+ferent curvature from the surfaces shown in the preceding 
+figures 19 and 20. In the outcrop shown in figure 22, a few of 
+the shields were measured and found to average about 10 feet 
+in height and 5 feet in breadth. 
+The toughness of this rock and its ability to preserve its 
+characteristic curvilinear appearance is well shown in a 
+strongly blasted mass located on the "north wall" of the Mil-
+lington quarry, figure 23. Here the vertical tectonic joints 
+have been emphasized by blasting and yet the shieldlike 
+curved surfaces of the curvilinear joints can still be easily rec-
+ognized. 
+The curvilinear joint system is the most commonly 
+observed joint system on Third Mountain. It is usually very 
+easily recognized. Weathering generally accentuates the 
+joints producing wedge shaped masses of rock. That weath-
+ering has produced rather marked effects can be seen by 
+comparing curvilinear joints in relatively unweathered and 
+weathered zones, in a recently blasted excavation for a build-
+ing. Those joints in the tough unweathered rock show clearly 
+the curved surfaces with only a suggestion of the minor tec-
+tonic joints cutting normal to their vertical extension, figure 
+22, whereas the weathered joints, belonging to the same orig-
+inal mass and approximately 15 feet (5 m) nearer to the out-
+crop surface in the weathered foreground, have separated 
+into smaller parallel masses along the minor joints and pro-
+duced wedges, figure 24. Each face is a curvilinear polygon. 
+If a sufficient part of the joint system is preserved in a 
+quarry wall, or other exposure, it may be possible to trace, 
+with the eye, the curvature of the intersection of a curvilinear 
+joint with its pseudocolumnar boundary and find that it fol-
+lows a helical path. In figure 25 the geologist's hammer indi-
+cates the position of, and part of the path of, such a helical 
+curve. 
+GEOMETRIC CHARACTER OF THE CURVILINEAR JOINTS 
+Field observations, made in this study, on the curvilinear 
+system of joints provides us with the following geometrical 
+properties of their surfaces and their limiting boundaries: 
+I, the joint faces are all curved surfaces, see figures 19, 20, 21 , 
+22, 23, 24, 25. 
+2, the overall vertical extension of the curvilinear joints sug-
+gests that they are bounded by a surface which is pseu-
+docolumnar, having almost a cylindrical aspect, see 
+figures 20, 21. 
+3, the curvilinear joints seem to consist of a curved surface 
+which has combined with it an element oftwist, see fig-
+ures 19, 21 , 22 and 25, and photographs of curvilinear 
+joints elsewhere in the text. 
+4, where the curvilinear joints are viewed perpendicular to 
+the principal axis of the joint, that is perpendicular to 
+the direction of their pseudocolumnar aspect, the line 
+of intersection of the curvilinear joints conveys the 
+appearance of a helix, see figure 25. 
+5, along the "helix" the curvilinear joints may show a repeat 
+distance for a given point on the "helix." This distance, 
+the pitch of the helix, may vary from outcrop to out-
+crop. It may be manifested in the steepness of the slope 
+of the face of the joint. The pitch will be most easily rec-
+ognized in right helicoids and much less so in oblique 
+helicoids, see the section in supplementary topics on 
+"character of helicoidal surfaces." 
+
+
+===== PAGE 22 (621x792 pt) =====
+Bl4 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERS EY 
+FIGURE II. The ball end of "ball and socket" joints in columnar basalt. Ferguson's quarry, near Little Falls, N.J. 
+6, the set of apparently parallel horizontal joints crossing the 
+curvilinear joint system shown in figure 21 are not cool-
+ing joints but sheeting joints and have no genetic rela-
+tion to the curvilinear joints. They do however suggest 
+a ruled property to the curvilinear joint faces and that is 
+a geometric property of helicoids. 
+7, joints occur in groups and the closeness of the several 
+parallel, subparallel, or otherwise geometrically 
+related surfaces will be a measure of the spacing of a 
+given joint system. For the curvilinear joint systems I 
+have found that they are bounded by a pseudocolum-
+nar surface and that these bounding surfaces will range 
+from a few feet to about I5 feet (about 5 m) in lateral 
+extent (diameter). 
+In the list of observations on the helicoidal joints just 
+given, reference is made to a boundary surface that contains 
+the helicoidal joint surfaces (Nos. 2 and 7). Those bounding 
+surfaces are a form of pseudocolumns and are so called here 
+in contradistinction to the columnar joints described in the 
+section "Columnar zone." The later joints are those normally 
+called columns. I consider that these columnar joints have 
+been produced by a conductive heat transfer process. When 
+such columns are fractured they usually show a hackly sur-
+face. The pseudocolumns which enclose the helicoidal surfa-
+ces I consider, on the other hand, to have formed by a 
+convective heat transfer process. When these pseudoco-
+lumns are broken they show helicoidal surfaces. The bound-
+ing surfaces are thus the former convection cells. The helicoi-
+dal character of the joints suggests that they reflect 
+something of the nature of the former convective process. 
+Detailed field and other studies will be given in a subsequent 
+part of this series. 
+These observed geometrical properties of the curvilinear 
+surfaces are the criteria to be used in identifying and selecting 
+analogous geometrical models. The combined criteria 
+numbers 3, 4, and 5 eliminate identification with quadric sur-
+faces, see supplementary topics the section on "Glossary of 
+terms and definitions." They show that the surfaces to which 
+they belong are the warped, or skewed, surfaces. Criterion 6 
+suggests that these surfaces are also ruled surfaces. In partic-
+ular the curvilinear joints are related to the class of surfaces 
+known as helicoids (schraubenflache of the Germans, heli-
+coide of the French). 
+
+
+===== PAGE 23 (621x792 pt) =====
+JOINT SYSTEMS 
+BIS 
+FiGU RE 12. The socket end of"ball and socket" joints in columnar hasalt. Ferguson's quarry, ncar Little Falls, N.J . 
+When the probable relationship between the geometry of 
+the curvilinear system of joints as deduced from field rela-
+tions, and the geometry of the helicoidal surfaces was real-
+ized many of the outcrops were reexamined to verify the cor-
+respondence. Unfortunately it is not always possible to see 
+the full developments of the helicoids in natural outcrops or 
+in the walls of quarries and excavations. Outcrops that have 
+been exposed long enough for weathering to remove the 
+loose blocks and form long continuous surfaces usually yield 
+sufficient surface to identify their geometry. It was also 
+found at many outcrops that the various shieldlike surfaces 
+of the curvilinear joints, in unrelated pseudocolumns, show 
+surfaces suggesting a considerable variation in pitch. 
+This reexamination and subsequent observations showed 
+that some curvilinear joints appeared to be parts of the sur-
+face of a right helicoid, others appeared to correspond to 
+oblique helicoids, still others appear to be more irregular and 
+yet they still convey an indentity with helicoidal surfaces. 
+These latter surfaces suggest an indentity with helicoids of 
+varying pitch or varying length of the generatrix (sometimes 
+referred to as the radius when the limiting surface is a 
+cylinder). These geometric relations can be grasped from an 
+inspection of the parametric equations of helicoids, see sup-
+plementary topics the section on "Character of helicoidal 
+surfaces." Wellman (1948, p. 219) has discussed this type of 
+helicoid as he observes that "helicoids of varying pitch and 
+varying radius, although uncommon, are also feasible, and 
+in such cases the angle between the generatrix and the axis is 
+also variable.2 Screw propellers are frequently of variable 
+pitch." It also became apparent that some of the joints could 
+be represented in terms of the curves formed by the 
+intersection of helicoids. 
+My colleague, Howard T . Evans, Jr., carefully consid-
+ered the correspondence between the field observations, as 
+portrayed in the photographs, and my sketches, and the geo-
+metrical theory of helicoids and drew two relevant illustra-
+tions. Figure 26, shows the intersection of two right helicoids 
+which have parallel but displaced directrices, generators of 
+slightly different length, equal pitches, and are out of phase 
+by 155° ( t ). The intersection edge is similar to some of those 
+seen in some outcrops. Figure 27, shows parts of two steep 
+right helicoids moved parallel to one another until they 
+intersect. 
+VESICULAR RASE 
+The vesicular base of the flow units are of two kinds, the 
+base of the upper flow unit overlying the vesicular top of the 
+
+
+===== PAGE 24 (621x792 pt) =====
+Rl6 
+STUDIES ON T HE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+FIGURE 13. Exposure at the top of the " east" wall of the Millington quarry. The blocky zone juts out. The geologist is pointing to the base of the blocky zone. At the 
+lower right hand side of the picture, well-developed curvilinear joints may be seen. This wall fonm the dumping ramp of a stock pile. The apparent granular 
+decoration on top of the blocks and scattered over the faces is the remains of a former stock pile. 
+lower flow unit and the vesicular base of the lower flow unit 
+overlying the sedimentary rocks of the Brunswick Forma-
+tion (R b). 
+The vesicular base of the upper flow unit overlying the 
+vesicular top of a lower flow unit is a relatively thin layer, 
+commonly 6 to 8 inches (15 to 20 em), and it is illustrated in 
+figures 3 and 4. The base is uneven and conforms directly 
+with the pahoehoe surface of the lower flow. The relations 
+between the curvilinear zone and vesicular base are shown in 
+figure 28. Here the passage between the two zones appears to 
+be transitional. 
+The character of the vesicular base overlying the sedimen-
+tary rocks in the Watchung Mountains is quite variable. This 
+variability arose from a nonuniform distribution of water in 
+the sedimentary floor. For most of the area the sediments 
+were dry or slightly moist; parts of the areas, after storms, 
+were moist, and scattered throughout the basin were playa 
+lakes under which the sediments were saturated. Hot lava 
+pouring out onto sediments with the above water contents 
+would produce, respectively, breccias, thin layers of 
+vesiculation, heavy layers of vesiculation, and pillow lavas. 
+The thickness of the pillow lavas would depend on the depth 
+of the playa lakes. Areas with braided drainage would pro-
+duce alternate zones of pahoehoe toes (lobes) and pillow 
+lavas. 
+In Third Watchung Mountain the base is almost uni-
+formly a thin zone with only a very rare development of a 
+flow breccia as in the vicinity of Oakland, N.J. In contrast, 
+Second and First Watchung Mountains have more variable 
+vesicular bases. In part they have the thin vesicular zone 
+above a hornfelsized zone and in part they show the devel-
+opment of pillow lavas and (or) pahoehoe toes (lobes). 
+The most common type of bottom of the basalt flows of 
+Third Mountain, where they rest conformably on the Trias-
+sic sedimentary rocks, is a vesiculated base. 
+Flow breccia is present as a very thin zone at the bottom of 
+the lowest flow unit at the upper end of Packanack Moun-
+tain at Pompton, figure 29. The mass consists of fragments 
+of basalt and of a lesser amount of sedimentary material, 
+that were picked up as the lava flow rolled forward, and it is 
+held together by interstitial lava to form a firm unit. This 
+breccia is of limited areal extent. 
+Geologists making field studies in the Triassic Lowland in 
+an earlier time when the sandstone was quarried for dimen-
+
+
+===== PAGE 25 (621x792 pt) =====
+JOINT SYSTEMS 
+BI7 
+FIGURE 14. Detailed view oft he blocky zone on the ' 'east" wall of the Millington quarry. An enlargement of a portion offigure 13 showing the blocky joint system. 
+sion stone and the more easily quarried vesicular basalt was 
+used as riprap to prevent erosion and as road metal for pav-
+ing, had unusually good opportunities to study the physio-
+graphic conditions of the floor prevailing at the time of the 
+eruption of the basalts in New Jersey, Connecticut, and Mas-
+sachusetts. Fenner (1908, p. 310-311, 326) has made a 
+detailed study of these relations in New Jersey, and Krynine 
+(1950, p. 169, 195-196) has similarly examined the broader 
+relations of the environment and landscape of the Newark 
+epoch in Connecticut. 
+These studies both agree that the intermontane valley onto 
+which the Triassic lavas flowed was essentially flat land. In 
+New Jersey my study of the scarp of Third Mountain, expos-
+ing the bottom of the flow for so great a distance, affords 
+additional field evidence. 
+Excavations of the vesicular base of the lower flow unit of 
+the basalt were also more easily studied, and the unique 
+observation of Lewis (1908, p. 152-153) is pertinent. Lewis 
+had the opportunity to examine the dumps made during the 
+tunneling operations through Hook Mountain, north of 
+Pine Brook, and he found a very small amount of tuff. He 
+was uncertain of the stratigraphic position of this tuff in the 
+base of the flow. This is the only evidence for basalt tuff in 
+Third Mountain. 
+OCCURRENCES OF SIMILAR COOLING JOINTS 
+IN OTHER BASAL TIC PROVINCES 
+My field studies of jointing systems in basalt have been 
+confined to the Watchung Basalt flows of New Jersey. As 
+time and occasion have permitted I have examined the 
+various cooling joint patterns in other basaltic provinces to 
+see if the same kind of cooling joint systems are present. Vis-
+its to these provinces have been brief, and extended study of 
+the jointing systems at any one outcrop was not possible, so 
+that my observations were cursory in nature. In the fissure 
+type eruptions of the Triassic of Connecticut, Massachu-
+setts, and the Bay of Fundy area ofN ova Scotia, as would be 
+expected, I have seen jointing patterns identical with those in 
+New Jersey. The curvilinear joint system because it is the 
+thickest zone is the most frequently observed. In the vicinity 
+of Canada Creek, near Black Rock Lighthouse, Bay of 
+Fundy, Nova Scotia, several of the joint systems were 
+observed. In figure 30 two joints systems are to be seen. 
+
+
+===== PAGE 26 (621x792 pt) =====
+Bl8 
+STUDIES ON THE WATCHU G BASALT FLOWS OF NEW JERSEY 
+,_ 
+. ~{,i'~~~':j:<::".;:<J•·~~~'::~~,:~- ,·- .~ ,_ 
+FIGURE 15. A hackled block from the blocky joint system which has fallen and 
+tumbled from its position in the overhanging ledge to the floor of the Mil-
+lington quarry. It was battered by a steel ball dropped from a crane boom. 
+Such blocks arc used as jetty stone. Other large blocks may be seen near the 
+base of the wall. 
+FIGURE 16. Weathered blocky jointed trap. Roadcut near Blackberry Lane and 
+James Street, New Vernon trap sheet near Morristown. 
+The geologist is standing on the columnar zone of the 
+lower flow unit; behind him the base of the curvilinear zone 
+of the upper flow unit can be seen. The columns of the lower 
+flow unit have a larger diameter (25 inches l ) than the 
+FIGURE 17. Glacial pavement developed on basalt of the blocky zone. This 
+glacially polished outcrop is on the north side of Chapel Hill Road and 
+Highland Street, Hook Mountain, near Lincoln Park , N.J. 
+columns occurring under the pahoehoe tops of the upper 
+flow units in Third Watchung Mountain. The vesicular base 
+of the upper flow unit and the top of lower flow unit are 
+covered. At a locality nearby the base of the curvilinear zone 
+and the vesicular base of the upper flow unit could be seen. 
+Evidence of the blocky and columnar zones of the upper flow 
+unit were observed as blocks and columns lying at the foot of 
+the cliff. 
+Columnar jointing in the vast fissure eruptions of the 
+Columbia River Basalt Group is a well-known phenom-
+enon. The abundance, size, and arrangement of the joints in 
+tiers has been described by Mackin ( 1961 ), Bond ( 1963), and 
+Bingham and Grolier ( 1966 ). My visit to the Columbia River 
+Basalt Group was limited to a very small area in the vicinity 
+of the Grand Coulee, Wash., and there I saw, in addition to 
+the excellent columns, areas where blocky and curvilinear 
+joints were well developed. 
+At the Hoher Meissner, in Nordhessen, Germany, the 
+basalt plateau overlies brown coal beds. Here a thick zone of 
+very well developed curvilinear joints occurs above a thin 
+vesicular base which in turn overlies a baked brown coal 
+layer. In the very large central type volcano, the Vogelsberg, 
+in West Germany I have observed some very large helicoidal 
+surfaces. Some of these surfaces appeared to be oblique heli-
+coids. 
+In Iceland I have seen many examples, in the tops of flows, 
+of the type of columnar jointing observed in the Watchungs, 
+short columns 4 to I 0 feet ( 1.2-3.1 m) long and 0.5 to I foot 
+( 15-30 em) wide. These columns lie beneath a thin vesicular 
+top, and their attitude is determined by the curvature of the 
+tumuli surface. Curvilinear joints were observed at Detti-
+
+
+===== PAGE 27 (621x792 pt) =====
+.JOINT SYSTEMS 
+Bl9 
+FIGURE 18. Blocks of trap di slodged from their position at the top of the ridge. These were naturally quarried by alternate freezing and thawing which disrupted the 
+jointed ledge and produced a jumble of blocks. When di slodged sufficiently or undermined, they tumble down the scarp slope. Northeast of the intersection of 
+Pine Brook Road and Passaic Avenue Road, Lincoln Park, N.J. 
+foss, MyYatn, Thingvellir, and elsewhere. Observations in 
+Iceland suggest that if the flow units are thin the blocky zone 
+is absent and the sequence becomes- thin vesicular zone, 
+vesicular grading into the columnar zone, curvilinear zone, 
+and vesicular base. 
+These observations were made at widely separated out-
+crops in other basaltic provinces. The identity of the cooling 
+joint systems in the flows of fissure eruptions, wherever 
+observed, with those in the Watchung Basalt flows is signifi-
+cant. It supports my opinion that more detailed studies in 
+these areas will reveal similar patterns and sequences with 
+those in the Watchungs. 
+TECTONIC JOINTS 
+In order to ascribe the cause of the joints produced in the 
+lava flows by tectonism it is necessary to review briefly that 
+portion of the geologic history of the Newark graben that 
+involved them, Faust ( 1975), and to evaluate the capacity of 
+the several tectonic processes to produce joints. The 
+Watchung lava flows appeared in the Newark graben after 
+the basin was largely filled with sediments. If it is assumed 
+that the Newark Group in New Jersey is II ,800 feet (3,600 m) 
+thick, then the basin would have been nearly 80 percent 
+filled; if the greater thickness of 25,000 feet (7 ,620 m) is 
+assumed, then the basin would have been about 90 percent 
+filled . Over this floor the first eruption from fissures took 
+place. After the completion of the volcanic episode that pro-
+duced the first Watchung Basalt flow, the two flow units 
+cooled down to earth temperatures, and subsequently they 
+were buried by about 600 feet (183m) of sedimentary mate-
+rials. 
+Faust (1975) observed at Oakland, N.J., a fanglomerate 
+bed that underlies the base of the second Watchung Basalt 
+flow. Although the contact relations could not be observed, 
+the fanglomerate at the most is about 50 feet (15m) below the 
+contact, and it could be much closer. Barrell (1915, p. 29) 
+pointed out that the occurrence of the fanglomerate (conglo-
+merate) beds "indicated a re-growth of the mountains" that 
+supplied the sediments to the basin and that this uplift nec-
+essitated a boundary consisting of a fault wall along which 
+renewed movement took place. The presence of the fanglo-
+merate at Oakland, N.J ., indicates that faulting, a tectonic 
+process, that could have produced joints in that part of the 
+underlying basalt of First Mountain close to the fault wall. 
+Similarly, after the extrusion of about 750 feet (229m) of the 
+second Watchung Basalt flow and its solidification and bur-
+ial by 1,500 feet (457 m) of sediment, another fanglomerate 
+
+
+===== PAGE 28 (621x792 pt) =====
+B20 
+ST UDIES ON TH E WATCH UNG BASALT FLOWS OF 
+EW JERSEY 
+- r
+·· -
+/ 
+,, I_,.., 
+I 
+' 
+--
+F IGU RE 19. Curvilinearjoints in trap. " East" wall of the Milli ngton quarry. Note thin layer of the closely jointed blocky zone (upper left hand corner) overlying the 
+curvilinear zone and above this the irregular and hackly broken masses of the blocky zone. 
+appeared and is evidence of another tectonic event. The se-
+quence was again repeated after 300 feet (91 m) of the Third 
+Watchung Basalt flow was extruded, cooled, buried under at 
+least 300 feet (91 m) of sediments and followed by a fanglo-
+merate. These three tectonic events, signalized by the pres-
+ence of the fanglomerates, were small-scale events and could 
+have produced jointing locally near the walls in these buried 
+flows but for the flows as a whole they were of minor impor-
+tance. 
+The deformation of the Newark graben by the tensional 
+forces associated with the drifting apart of the North Ameri-
+can plate from the adjoining parts of Pangaea resulted in · 
+downfaulting of the graben block. This crustal movement 
+created a space problem and the contents of the graben were 
+folded into a regional arch with border synclines in accord 
+with the model developed by Murawski ( 1968). This tectonic 
+event was a major process which resulted in extensive joint-
+ing in parts of the syncline. 
+The tectonic joints are best developed in Second Moun-
+tain, less so in First Mountain, and they are not very promi-
+nent in Third Mountain. In the weathering of the basalt of 
+the Watchung Mountains the tectonic joints are emphasized 
+and their extended planar boundaries tend to overshadow 
+cooling joint boundaries. As a result of this emphasis the 
+eyes of the observer are distracted from other structures in 
+the rocks which are also of a first order of importance. 
+The tectonic joints in the various zones are described in the 
+following sections. 
+VESICULAR TOP 
+The transverse joints in the vesicular zone are tectonic 
+joints. They may occur in conjugate pairs, and they make an 
+angle of about 45° with one another. 
+COLUMNAR ZONE 
+The tectonic joints in the columns are not always clearly 
+developed. In some columns they consist of irregular breaks 
+that cut across the columns. In other columns planar basal 
+joints were formed. 
+BLOCKY ZONE 
+Tectonic joints in the blocky zone are essentially perpen-
+dicular to the surface oft he flow. In some blocks an apparent 
+
+
+===== PAGE 29 (621x792 pt) =====
+JOINT SYSTEMS 
+82 1 
+F IGURE 20. A close- up view of curvi linear joints in an old quarry wall. "South" 
+wall Millington quarry. Note that the blocks that have dropped out from the 
+wall are shield shaped and wedge shaped. 
+single joint may consist of a series of discontinuous parts 
+which form an interrupted linear trace. 
+At the base of the blocky zone appears what is termed a 
+seam or a layer by the quarrymen, figure 31. It has a thick-
+ness of approximately 2 feet and serves as a marker in the 
+Millington quarry. From a distance it has the appearance of 
+a fissile shale and has been thought by some to be a shaly 
+interbed, see figure 32. A careful examination of the bottom 
+of the blocky zone shows clearly the origin of this subunit, 
+for fine hairlike joints at the base can be traced into the sepa-
+rated joint platelets. The presence of this shear zone is an 
+indication of thrust faulting, and in the Millington quarry 
+the blocky zone jointed at its base as it moved over the curvil-
+inear jointed basalt below it. A similar type of jointing is 
+called a Deckensohle by Cloos (1936, p. 245). 
+CU RVILI NEAR ZONE 
+Three types of tectonic joints are observed in the curvili-
+near zone-the first, and most prominent, are the pseudoco-
+lumnar joints which may extend from the top to the bottom 
+of the zone and are essentially normal to the surface of the 
+flow; the second type are the platy-prismatic joints which are 
+found near the base of the Second Mountain flow, and their 
+abundance is related to the geometry of the syncline; and the 
+third type- the basal platy joints- form very close to the 
+base of the flow ,just above the vesicular base and the contact 
+with the Brunswick Formation. 
+PSEUDOCOLUMNAR JOINTS (TYPE I) 
+When one looks at the curvilinear joints from certain 
+directions, they have a distinct columnar aspect. As a result 
+this vertical system of tectonic joints has conveyed to most 
+geologists the impression of a columnar type of jointing. 
+Consequently it has caused confusion in the identification of 
+the cooling joints and has led to the misinterpretation of the 
+jointing. Because of its columnar aspect it is termed here 
+pseudocolumnar jointing. This aspect is produced by a 
+combination of one of the cooling joint systems and a set of 
+parallel planar vertical tectonic joints. These joints have 
+appeared on some of the previous figures, but an attempt 
+was made to select photographs taken to deemphasize this 
+aspect. A photograph typical of the pseudocolumnar joints 
+as seen in older quarries, roadcuts, and power-shovel 
+bumped exposures is shown in figure 33. In contrast the 
+appearance in a freshly blasted exposure is shown in figure 
+34. Compare figure 34 with figure 22. 
+PSEUDOCOLUMNAR J OI NTS (TYPE 2)-
+PLATY-PRISMATIC JOINTS (FRACTU RE CLEAVAGE) 
+Pseudocolumnar joints of a second type were observed by 
+early workers in the Watchungs, who included them in the 
+general classification of columnar joints. These joints are 
+here designated platy-prismatic joints, and their close spac-
+ing shows that they are; in fact, a fracture cleavage. Joints of 
+this type have not been observed on Third Mountain proper, 
+but they have been observed in the axis of the syncline com-
+posing the New Germantown trap sheet, and they are quite 
+abundant on the scarp slope side of Second Watchung 
+Mountain. 
+A typical example of this variety of pseudocolumnar habit 
+can be observed in Alward's quarry at the intersection of Pill 
+Hill road and Meeker road about 2V4 miles west of Basking 
+Ridge, see figure 35. An examination of these 
+pseudocolumns shows that they are made up of a fracture 
+cleavage superimposed on the preexisting cooling joints of 
+the curvilinear zone. Well-developed curvilinear joints may 
+be seen about 10 feet above the top of the pseudocolumns 
+shown in this photograph. According to Hartmann's Law 
+(see Nevin, 1931 , p. 23-24), the acute angle of the fracture 
+
+
+===== PAGE 30 (792x621 pt) =====
+FIG U RE 21 . Excellently developed curvilinear joints in the trap. The roadcut is approximately per pcndicula r to the strike. The joints across the face of the curved planes are sheetingjoints and are 
+not cooling joints. Roadcut on Bloomfield Avenue near its intersection with Hook Mountain Road, Pine Brook, N.J. 
+o:l 
+N 
+N 
+(/] 
+-1 
+c: 
+0 
+rn 
+(/] 
+0 z 
+-1 
+:c 
+rn 
+:E > 
+-1 
+() 
+::t:: c: 
+2 
+0 
+o:l > 
+(/] > 
+r -1 
+.,., 
+r 0 
+:E 
+(/] 
+0 .,., 
+2 rn 
+:E 
+'-rn 
+;::l 
+(/] 
+rn 
+-< 
+
+
+===== PAGE 31 (621x792 pt) =====
+JOINT SYSTEMS 
+B23 
+FIG URE 22. Curvilinear joints in relatively fresh basalt. This rock is very tough 
+and required extra blasting to excavate it. The curvilinear joints are outlined 
+by the shades and shadows. They arc elongate approximately perpendicular to 
+the floor of the excavation. Ncar the surface of the triangular area on the right 
+some checking of the minor joints is apparent. This locality is an excavation at 
+the intersection of U.S. Highway 46 and Hook Mountain Road, Pine Brook, 
+N.J. 
+cleavage is bisected by the axis of maximum stress, and at 
+Alward's quarry this direction is essentially parallel to the 
+southwest limb of the syncline. A top view of the platy-
+prismatic joints, just described, is identical with the 
+prismatic cross section shown in figure 36. In the walls of the 
+quarry these platy-prismatic joints exhibit an eminent cleav-
+age and show little evidence of the curvilinear joints arising 
+from the cooling of the sheets. A careful study of the talus 
+pile reveals the curved surfaces on the longer broken prisms, 
+see figure 36. The loose prism shown in this picture was pho-
+tographed so as to emphasize the curvature of the joints on 
+the sides. 
+A type of platy-prismatic jointing, a fracture cleavage, 
+similar to the aforementioned jointing, except that the 
+prisms are curved plates, is found in or near the axial plane of 
+a tightly folded syncline which constitutes the New German-
+town trap sheet. These joints were exposed by quarrying. 
+FIG URE 23. A strongly blasted mass of curvilinear jointed trap preserving its 
+characteristic morphology. The picture represents a portion of the " north 
+wall" at the Millington quarry, Millington, N.J. 
+FIG URE 24. Weathered curvilinear joint masses having wedge shapes. This rock 
+is similar to that in figure 22 except that it is from a strongly weathered zone. 
+Excavation at the intersection ofU .S. Highway46 and Hook Mountain Road , 
+Pine Brook, N.J. 
+
+
+===== PAGE 32 (621x792 pt) =====
+824 
+STU DI ES ON T HE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+FIGURE 25. Curvilinear joints in the trap of Second Watchung Mountain. 
+Geologists' hammer indicates the position of the trace of the helical path of the 
+curvilinear joint. Gallo's quarry, Mt. Bethel, N.J. 
+They have an eminent cleavage and are very smooth; in fact, 
+they appear at a short distance from the outcrop to be pol-
+ished. A view of the platy surface is seen in figure 37; the side 
+view, emphasizing the curvature, is shown in figure 38; and a 
+top view showing the typical prismatic cross section is shown 
+in figure 39. 
+The frequency of tectonic joints increases in relation to the 
+geometry of the syncline. Along the limbs the tectonic joints 
+are abundant, but their frequency is greatest in the vicinity of 
+the nose of the syncline, figure 40. 
+BASAL PLATY JOINTS 
+On the limbs of the syncline, away from the nose, basal 
+platy joints are commonly developed just above the contact 
+with the underlying Brunswick Formation. They may occur 
+\ 
+FIGURE 26. Two right helicoids with parallel but displaced directrices (helicoi-
+dal axes), with generators of slightly different length , with equal pitches and 
+out of phase by about 155°. The dotted line is the intersection edge . Such 
+edges are similar to those seen in some outcrops. 
+in a zone of about 10 feet (3 m) in height above the base, see · 
+figure 41. They are generally spaced about 10 to 12 inches (25 
+to 30 em). They may extend for many tens of feet (many m). 
+It is suggested here that they formed concurrently with the 
+syncline. The interpretation, proposed here, is that the base 
+of the flow and the hornfelsized zone welded to it attempted 
+to behave elastically as a single unit. These joints are devel-
+oped at the base of Second Mountain. 
+
+
+===== PAGE 33 (621x792 pt) =====
+JOI NT SYSTEMS 
+825 
+FIG URE 27. Portions of two steep right helicoids, moved parallel to one another 
+graphically, until they intersect. 
+SHEETING .JOINTS 
+Sheeting joints are a set of parallel, generally closely 
+spaced joints which divide the rock into layers called sheets. 
+These sheets are developed in essential conformity with the 
+topography and where the ground surface is flat or nearly so 
+they are horizontal. Sheeting joints generally form as a result 
+of physical weathering which removes the superimposed 
+load from the rock it exposes, Oilier ( 1969, p. 5-9). This rem-
+oval of overburden permits the rock to dissipate its stored 
+strain energy chiefly in the formation of cracks oriented 
+parallel to the ground surface. In this discussion sheeting 
+joints are classified separately from weathering phenomena 
+solely to differentiate these joints from other types of hori-
+zontal joints. 
+At a late stage in the geologic history of the Newark basin 
+the North American ice sheet covered its northern part and 
+FIGURE 28. Curvilinear jointed trap overlying the vesicular base of the upper 
+flow unit in the Millington quarry. The hammer handle rests on the contact of 
+the two zones. The quarry face in this photograph is nearly perpendicular to 
+the quarry face shown in figure 4. 
+loaded the rocks below it with ice. Retreat of this glacier 
+unloaded the rocks but left them strained. Strain relief was 
+accomplished by sheet jointing. In the area north of the 
+terminal moraine, which extends from Summit to Morris-
+town, sheeting has been developed in the basalt. This sheet-
+ing conforms to the topography. 
+Two fine examples of sheet jointing on Hook Mountain 
+are shown in figures 42 and 43. The outcrop shown in figure 
+42 is at the southern end of Hook Mountain at Pine Brook. 
+The wall is approximately west-east, and it is a section 
+normal to the strike and cutting through the dip slope. The 
+quarry shown in figure 43 is at the northern end of Hook 
+Mountain near Mountain View. The quarry was opened and 
+excavated in the dip slope, and the photograph is taken in a 
+nearly east-west direction. 
+The flat, steplike surfaces of the trap in the zone of sheet 
+
+
+===== PAGE 34 (621x792 pt) =====
+l:l26 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+FIGURE 29 . Outcrop of tlow breccia on south side of Oakland Valley Road, 
+approximately abreast the dam , Packanack Mountain, at Pompton, N.J. This 
+relatively thin layer of flow breccia lies just under the curvilinear jointed lava 
+at the base of the flow. 
+FIGURE 31. Tension jointed base of the blocky zone (so-called seam) , overlying 
+the curvilinear joint system. Excavation on Northfield Avenue below Valley 
+Road, West Orange, N.J. 
+FIGURE 30. Curvilinear joints in the basaltic lava flow exposed on the Bay of Fundy at Canada Creek , near Black Rock Lighthouse , Nova Scotia. The geologist is 
+standing on the columnar top of the lower flow unit. 
+
+
+===== PAGE 35 (621x792 pt) =====
+JOINT SYSTEMS 
+B27 
+FIGURE 32. Detailed view of the tension jointed base of the blocky layer overlying the curvilinear zone. "East" wall , of the Millington quarry. 
+joints is well shown in figure 43, which is a photograph that 
+was taken looking down on the upper surface of the sheet 
+joints. A similar stairlike morphology, developed by erosion 
+on rocks in Sweden gave rise to the name trap from the 
+Swedish "Trappar" (= steps) (Rosenbusch, 1923, p. 440; 
+Kemp, 1929, p. 286). 
+Curvilinear joints in the quarry at Millington, which is 
+south of the terminal moraine, do not show these planar 
+joints cutting across the curvilinear surfaces. (See figs. 20 
+and 28.) 
+WEATHERING JOINTS AND ASSOCIATED PHENOMENA 
+S PH ERO IDAL JOINTS 
+In the upper portion of the columnar zone, in places where 
+weathering has been thorough, a "spheroidal jointing" is 
+commonly observed. I have found zones of spheroidal 
+weathering only below the surface. The symmetry of the 
+weathering pattern, one in which the edges and corners of the 
+columns have been completely destroyed leaving a sequence 
+of concentric shells in successive stages of disintegration sur-
+rounding a hard central core, strongly suggests that the alter-
+ation process is not surficial but takes place below the sur-
+face. I have also observed spheroidal weathering in 
+weathered shear zones made up of jointed blocks a foot or so 
+wide and a foot or two long and weathering at a depth of 20 
+feet(±) below the surface. This observation suggests that the 
+symmetry of the joint block may exert a control on the rate 
+of disintegration. 
+In unworked sections of a quarry where spheroidal weath-
+ering can be seen exposed in the walls, "exfoliation boul-
+ders," the firmest remnants, may be observed in the talus 
+pile. These consist of the concentric spheroidal layers about 
+a central core. Such "exfoliation boulders" are also observed 
+in shallow excavations. Eventually these concentric layers 
+peel off leaving a spheroidal corestone. These residual 
+spheroids range in size from 2 to 6 inches in diameter. 
+Locally, they have mistakenly been considered by some 
+people to be spent cannon balls from the Revolutionary 
+War. Such remanants of weathering may be relatively fresh 
+on the inside, see figure 44. 
+Sosman ( 1916, p. 229) does not believe that spheroidal 
+weathering is due solely to the rounding off of joint blocks 
+but that some original structure within the columns is also 
+
+
+===== PAGE 36 (621x792 pt) =====
+1328 
+STUDIES ON THE WATCHUNG BASA LT FLOWS OF NEW J ERSEY 
+FIGURE 33. Typical pseudocolumnar appearance in the curvilinear zone produced by the superimposition of tectonic planar vertical joints on the curvilinear system. 
+Excavation on Northfield Avenue, below Valley Road, West Orange, N.J. 
+exerting an influence in determining the shape. This opinion 
+is probably based on the observations of the shells which 
+make up the so-called "spherical joints" described by Lewis 
+(1909) fr9m an occurrence in a quarry, at Stirling, in Second 
+Mountain, shown in figure 45. 
+LAT E STAGE, UNLOADING "PLATY JOI TS" 
+A second set of "platy" joints, approximately horizontal, 
+oriented parallel to the present surface are noticed through-
+out the Watchung flows. These joints are commonly barely 
+visible, and only become so as weathering proceeds, or exca-
+vating and quarrying are done. In relatively fresh outcrops 
+many of these joints are probably blind.J In some excavated 
+roadcuts and quarries they are, however, well developed 
+near the surface. This system of joints is of a lower order of 
+magnitude than the previously described basal platy joints of 
+tectonic origin occurring near the base of the flow. They are 
+' They <H C discontinuous and stop abruptly. 
+FIGURE 34. Pseudocolumnar joints produced by the superimposition of tectonic 
+joints on the curvilinear jointing system in the north wall of the Millington 
+quarry, Millington,N.J. The tectonic joints arc very rare in the overhanging 
+ledge of the blocky systems, in this photograph . This is the appearance of the 
+pseudocolumns in a fresh ly blasted exposure. 
+
+
+===== PAGE 37 (621x792 pt) =====
+JOINT SYSTEMS 
+829 
+FIGURE 35. Platy-prismatic joints (fracture cleavage) in Second Watchung 
+Mountain. Alward's quarry at the intersection of Pill Hill Road and Meeker 
+Road about 2\4 miles west of Basking Ridge, N.J. These joints are close to the 
+contact with the Triassic sedimentary rocks below. 
+characteristically short in length, very thin, and some may be 
+slightly curved. Generally they are not as well developed as 
+the typical tectonic joints. Observations, made over a period 
+of years, suggest that many of these approximately hori-
+zontal joints were incipient joints. That is they represented 
+areas which had long been in a state of stress. Some of these 
+stresses could have originated totally, or in part, as a result of 
+the local faulting which took place along the walls of the 
+horst at the time the border syncline was formed. When the 
+basalt was exposed by weathering the areas in a state of stress 
+altered more rapidly than the unstressed areas, and this dis-
+equilibrium permitted the rocks to separate along planar 
+surfaces to relieve the accumulated stress. 
+In quarries or in zones of excavation, the removal of the 
+overburden involving much scraping, by power shovels, bul-
+ldozers, and other heavy machinery may add additional 
+stress to the already stressed areas near the surface and thus 
+may aid in the formation of these approximately horizontal 
+joints. Blasting and bumping of the quarry walls by the 
+power shovels may also be significant contributory factors in 
+producing or emphasizing these joints. On the "north wall" 
+of the quarry at Millington, N.J., near the surface there are 
+some approximately horizontal joints of this type, figure46. 
+Their short length is apparent. 
+SOLIFLUCTION , A DISTORTING AGENT 
+OF JOINTING PATTERNS 
+Early in this study of jointing it was noticed that a distor-
+tion of the joint systems was sometimes observed on the 
+scarp slope of Third Mountain. Close inspection showed, 
+however, that a supposed change in attitude of the joint 
+prisms on these slopes was unreal and arose from the creep of 
+FIGURE 36. A view of the zone of the platy-prismatic tectonic joints on Second 
+Watchung Mountain. Musialowski's quarry on Washington Valley Road, 
+northwest of Martinsville, N.J. Note the curvature of the sides, of the back 
+joint face, in profile. The fracture cleavage here shown in the walls of the 
+quarry has its acute angle bisected by a line parallel to the axis of the major 
+syncline. 
+the mantle down the steep slope. Such a gradual movement 
+was accomplished by (1) alternate freezing and thawing, (2) 
+alternate wetting and drying, and (3) by a slow movement of 
+the whole system, of joint "blocks," interstitial mud, and 
+water behaving more or less as a unit, down the slope. This 
+type of movement, called solifluction or hill-wash, contrasts 
+with that sometimes observed in quarries along the steep 
+faces especially in areas recently artificially disturbed at the 
+top. Here (I) the rainfall and drainage wash out much ofthe 
+finer materials in the disturbed top (2) drying conditions 
+remove most of the water and dry out the remaining mud 
+and loose materials which served as an adhesive between the 
+joint "blocks," and (3) the whole loose mass suddenly col-
+lapses and tumbles to form a conical pile at the quarry bot-
+tom. 
+In some roadcuts or excavations where small faults, of 
+
+
+===== PAGE 38 (621x792 pt) =====
+B30 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+FIGURE 37. The platy surface of the curved platy-prismatic joints (fracture 
+cleavage) developed in or ncar to the axial plane of the tightly folded syncline 
+in the New Germantown trap sheet, I .2 miles southwest of Oldwick, N.J. 
+postglacial age, appear in the unconsolidated sediments on 
+the scarp slopes which overlie the separated joint blocks, the 
+smaller joint "blocks" were observed to have moved out of 
+their primary alinement. All of these occurrences were easily 
+recognized by close inspection at the outcrop to be distor-
+tions of the true relationships. 
+Solifluction probably was enhanced on Third Mountain 
+at the close of the glacial period when the North American 
+ice sheet began to melt and Lake Passaic formed. At this time 
+the waters began to spill over the sides of the scarp slope. 
+To determine whether the joints on the scarp slope of 
+FIGURE 38. Side view of the curved platy-prismatic joints (fracture cleavage). 
+New Getmantown trap sheet, 1.2 miles southwest of Oldwick, N.J. 
+FIGURE 39. Top view, showing the prismatic cross section of the curved, 
+platy-prismatic joints (fracture cleavage). New Germantown trap sheet, 1.2 
+miles southwest of Oldwick , N.J. 
+Second Mountain are disturbed is a more subtle and per-
+plexing problem to the observer. These joints can be mis-
+leading, they look very natural in exposures on a slope in 
+which only a few feet in depth are seen, and they resemble 
+closely certain aspects of true radial columnar joints as those 
+shown in figures 9 and 10. Close examination of the 
+exposures on the scarp slope, which are limited in depth, 
+discloses a much wider separation of the joint prism than is 
+normally observed, and the presence of finer material in the 
+openings. These criteria suggest movement. The best evi-
+dence of movement is seen in an undisturbed wall of a 
+quarry, pit, or excavation, essentially normal to the strike, 
+where the tilting of the columns and their movement "en 
+masse" down the slope is clearly apparent; such a slope is 
+shown in figure 47. 
+A JOINTING MISCELLANY 
+FEATHER-FRACTURE (PLUMOSE FRACTURE) AND 
+OTHER SURFACE PATTERNS ON JOINTS 
+Feather-fracture, so-named because of its barb like or plu-
+mose structure, was amongst the earliest type of surface fea-
+ture of joints described in the rocks of Eastern North Amer-
+ica. Woodworth (1896, p. 178) in an excellent paper on joint 
+surfaces, particularly their macroscopic features, describes 
+in detail feather-fracture occurring on the joints in the trap of 
+the Somerville quarry at Somerville, Mass. Woodworth 
+(1896, p. 165) defined these fractures as follows: The granu-
+lations of the surface of a joint-plane when organized take on 
+the form which I have been accustomed in fieldwork to call 
+"feather-fractures" [he states further] Feather-fracture is not 
+limited to true joint-planes, but is traceable on the surfaces of 
+other divisional planes as I shall show below. On the typical 
+
+
+===== PAGE 39 (621x792 pt) =====
+JOINT SYSTEMS 
+831 
+FIGURE 40. Very abundant platy-prismatic joints on Second Mountain. The conjugate set of tectonic joints are so abundant that it is difficult to recognize the cooling 
+joints. This section was formerly exposed in the cut for U.S. Highway No. 78 near Pluckemin, N.J. The outcrop is just above the contact with the underlying 
+Brunswick Formation. 
+joint-planes of the Mystic quarry district,4 feather-fracture is 
+a delicate tracery of feathery lines diverging from a roughly 
+outlined axis which traverses the face of the joint-block in a 
+plane parallel with the stratification. When the axis of the 
+feather-fracture departs from this plane, it becomes sinuous. 
+In the massive rocks, it is characteristically sinuous. Wood-
+worth also described discoidal joints and percussion rays 
+appearing on specimens of argillite. 
+Sosman (1916, p. 230) noted the presence of feather patt-
+erns on some basalt prisms and suggested that they might be 
+due to contraction. Feather fracture and other surface patt-
+erns have recently aroused interest amongst students of rock 
+jointing, and papers by Roberts(1961)and Hodgson(1961) 
+have modified and developed the approach of Woodworth 
+(1896). Price (1966, p. 120-126) and Bankwitz (1965, 1966) 
+give further data and interpretation. 
+I have seen excellently developed feather fractures in the 
+curvilinear layer of the upper flow unit of Third Mountain at 
+l Cambrian slates. 
+Pine Brook, N.J. , and in both the upper and lower flow units 
+of Second Mountain at many localities. The fractures are 
+commonly 2 square feet or more in area. A fine example is 
+shown in figure 48. Here the axis of the fracture was oriented 
+vertically. 
+Other types of surface patterns are occasionally observed, 
+but most were too incomplete to describe. A particularly 
+well-developed surface pattern on a curvilinear surface was 
+found on a joint wedge at the floor of the Millington quarry 
+after a wall had been blasted down. It is shown in figure 49. 
+This specimen was part of a larger joint surface, and it was 
+not possible to trace its former position in the quarry wall, so 
+that there is no knowledge of its orientation and location 
+except that it came from the zone of curvilinear joints. A de-
+scription of this rather large individual is given here because 
+of the unusual clarity of its details. The fracture surface occu-
+pies an area of 17 x 25 em. It is a warped surface, best de-
+scribed as billowy. The surface itself is contained in a vol-
+ume, roughly a parallelepiped of 17 x 25 x 2 em. Its whorls 
+
+
+===== PAGE 40 (621x792 pt) =====
+l:l32 
+STUDIES ON THE WATC HUNG l:lASAL T FLOWS OF NEW .JERS EY 
+FIGURE 41. Basal platy joints at the base of the curvilinear layer, just above the contact with the hornfelsized Brunswick Fonnation. In cut, in Second Watchung 
+Mountain, on U .S. Highway No. 280 at its intersection with Pleasant Valley Way, West Orange, N.J. 
+widen counterclockwise so that its direction of obliquity is 
+sinistral. The widest whorl increases from a few millimeters 
+on the left to nearly 2 em on the right. If the lowermost por-
+tion of the specimen, where there is a decided change in 
+slope, is taken as the shoulder, then the b-planes (border-
+planes) of Woodworth and the c-planes (cross fractures) of 
+Woodworth (1896) can be seen at the lower left-hand side of 
+figure 49. The b-planes (called F-joints by Hodgson, 1961) 
+make an angle of about 5° with the shoulder. The whole sur-
+face pattern has a general conchoidal appearance. Wood-
+worth in discussing discoidal joints describes a surface that 
+resembles this one as "The warped surface thus formed may 
+in some specimens be likened to the rim of a soft hat curled 
+up behind and pulled down in front." The whole surface is 
+covered with a brownish patina showing that it represents a 
+former part of an old quarry wall. 
+Despite the size of this surface, there is not a sufficient 
+amount of critical detail, particularly the presence or ab-
+sence of a bulb of percussion, to decide whether this repre-
+sents ( 1) a type of discoidal joint or (2) a percussion figure de-
+veloped in the older method of quarrying using bars and 
+sledges, or by blasting. From observations of similar surfa-
+ces on the old walls of quarries the evidence given here sug-
+gests that this surface may be a part of a percussion ray. 
+WIDTH OF JOI NT OPEN INGS 
+The width of joint openings is of interest to geologists 
+studying the fracture characteristics of rocks. Such measure-
+ments are most significant when the effects of a single pro-
+cess such as the cooling of a lava flow or the effects of a single 
+tectonic event can be evaluated. The width of openings of 
+cooling joints is best made on recent lava flows. The Wat-
+chung Basalt flows are of Late Triassic age and have been 
+subjected to some metamorphism-at least to the zeolite 
+facies and possibly to the green schist facies. The cooling 
+joint openings were disturbed by the tectonic deformation of 
+the graben. Some cooling joints were reactivated as tectonic 
+
+
+===== PAGE 41 (621x792 pt) =====
+JOINT SYSTEMS 
+B33 
+FtGURE 42. Sheeting joints in the transition zone between the blocky and the 
+curvilinear zone of the basalt flow of Hook Mountain. This figure represents a 
+view showing a section essentially at right angles to the strike. The roadcut, 
+on Bloomfield Avenue in Pine Brook, is roughly east-west. 
+joints. As a result the present-day width of the coolingjoints 
+bears little relation to their original width. 
+To gain some idea of the order of magnitude of cooling 
+joint widths in a relatively recent lava flow (8,000 years ±) 
+measurements were made, in 1971, on the fault wall of the 
+flow at Thingvellir, Iceland.s A mechanics gage with a 
+~ Agt data- Written communication from Dr. Gudmundur Sigvaldason, Feb. 22. 1974. 
+FIGURE 43 . Sheeting joints in the blocky and curvilinear jointed trap of Hook 
+Mountain. The steplike aspect is clearly evident. Quarry near the northern end 
+of Hook Mountain near Mountain View, N.J. 
+FIGURE 44. Spherical balls found in the deeply weathered columns of trap, near 
+the surface. A ba113 inches, 7.5 em, in diameter was cut and polished to show 
+the "fresh" character of the minerals. 
+minimum thickness of 0.0015 inch (0.0381 mm) was used to 
+make the measurements. Good quality joints, I II in all, were 
+measured. A group of 54 joints were found that were smaller 
+than the smallest element of the mechanics gage-0.00 15 
+inches (0.0381 mm). These joints ranged from those just 
+thinner than 0.0015 inch (0.0381 mm) down to those very 
+thin joints that were closed by a thin film of altered material. 
+A total of 57 joints were found to be in the range of(+) 0.0015 
+inch (0.0381 mm) up to those having a width of 0.0240 inch 
+(0.61 0 mm). If we assume that the distribution of joints less 
+than 0.0015 but greater than zero is similar to the distribu-
+tion of the joints between 0.0015 and 0.0240 (0.61 0 mm), 
+then an inspection of these data suggests that the joint 
+openings yield a flat symmetrical curve with a nearly perfect 
+assortment of joint widths. This distribution curve was 
+unexpected. The sample may be too small and the inclusion 
+FIGURE 45. "Spherical jointing" in basalt produced by weathering. Quarry 2'/z 
+miles south of Stirling, Second Mountain. Taken from Lewis ( 1908, pl. 38, 
+fig. 1). 
+
+
+===== PAGE 42 (621x792 pt) =====
+B34 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+FIGURE 46. Late stage, unloading joints, probably developed in prestressed areas close to the surface of the earth. Their development may have been aided by 
+weathering processes relieving stress, by man induced stresses inherent in blasting, excavating, and machine scraping or bumping operations. "North wall ," 
+Millington quarry and plant of the Houdaille Industries, Inc . 
+of the weathered closed joints may have biased the interpre-
+tation. Nevertheless, these data do suggest the order of 
+magnitude of the pristine joint widths. 
+The measurements of the cooling joints at the Thingvellir 
+in Iceland suggest the probable order· of magnitude of the 
+openings of the cooling joints in the Watchungs. In the Wat-
+chungs many of these joints which now appear tight were 
+actually once open but water percolating along them has 
+altered them and closed them. It is commonly possible to see 
+some evidence of alteration indicated by a border zone of a 
+different color and frequently a bleached appearance. 
+The width of opening of the tectonic joints reached larger 
+values up to one-half inch (1.2 em). Good evidence of the 
+width of opening of tectonic joints is to be observed in the 
+widths of the mineralized veins that fill them. Detailed mea-
+surements on these veins have been made in all three of the 
+Watchung basalt flows. 
+The width of opening of weathering joints is generally 
+much larger than that of the other types of joints. In weather-
+ing zones alternate freezing and thawing in the winter season 
+and heating and cooling in the summer season spring apart 
+the joint blocks producing ever wider gaps. 
+Geologists, hydrologists, geological engineers, and civil 
+engineers are interested in the width of joint openings as they 
+exist at the time of the "joint survey." Such measurements 
+may give valuable information on the permeability of a rock 
+and on the stability of rock slopes. 
+QUASI-GEOLOGIC JOINTS AND NONGEOLOGIC 
+PSEUDOJOI NTS AND FRACTURES 
+The rocks close to the surface of the earth are commonly in 
+some state of stress, Hast (1967), Voight (1966, 1969a, b). 
+Hooker and Johnson (1967) measured the "in situ" stress in 
+several distant parts of the Newark graben particularly in the 
+Triassic diabase at Nyack, N.Y., St. Peters, Pa., and Rapi-
+dan, Va., at depths of0.5 feet (15 em) to 4.9 feet (1.5 m) and 
+
+
+===== PAGE 43 (621x792 pt) =====
+JOINT SYSTEMS 
+835 
+FIGURE 47. Effects of soliOuction are shown in the wall , wh ich is essentially 
+normal to the strike. This is shown in Tullo's quarry on Washington Valley 
+Road, near Martinsville, N .1 . The creep of the mantle down the slope has 
+tilted the pseudocolumns, from their normal position shown at the base, to 
+head downslope. 
+found secondary stresses that are compressive with values of 
+173 psi (12.2 kgf/ cm2) to I ,660 psi ( 117 kgf/ cm2). The exist-
+ence of stress in the Triassic sandstones of Connecticut was 
+dramatically demonstrated in the early development of the 
+""" •' 
+. 
+_' --:: - ' l. 
+FIGURE 48. Feather fracture developed on a curv ilinear joint surface. Upper flow 
+unit, Hook Mountain of Third Mountain, Pine Brook, N.J. The sharp end of 
+the hammer is at the basal point of the feather. 
+Fracture pattern on a joint wedge broken out of the curvilinear zone 
+at the Millington quarry (Houdaille Industries, Inc.), Millington, N.J. The 
+scale is I 0 em long. 
+"Brownstone" quarrying operations in Portland. Johnston 
+( 1854, p. 285, 286) describes the instantaneous release of the 
+stress as follows: 
+The first instance observed occurred some two or three years ago, and 
+occasio ned some alarm among the workmen. The excavation had then 
+reached the depth perha ps of one hundred and twenty feet from the original 
+surface of the ground; and a beginning was to be made in the stratum then 
+constituting the bottom of the cavity that had been formed. For this purpose 
+the workmen were directed to cut with their picks a channel or groove, a 
+foot or more wide, quite through the stratum, and some fifty or eighty feet in 
+length. To facilitate the operation, the work was begun by the side of one of 
+the natural joints or seams that occur at intervals, crossing the strata nearly 
+at right angles; and as several workmen commenced upon it at the same 
+time, all along the line it was made to sink with about the same rapidity, the 
+loose fragments being thrown out as they were separated by the instrument. 
+The stratum was found to be about six or seven feet in thickness, and it hap-
+pened that the channel or groove was cut in an east and west direction. 
+When the channel ;lad been sunk to within about nine or twelve inches of the 
+bottom of the stratum, suddenly the remaining stone at the bottom was 
+crushed to fragments with a loud report by an enormous lateral pressure, 
+and the men in alarm leaped from the excavation they had made. By exam-
+ination it was found that the walls of the groove or canal just made had 
+approached each other about three fourths of an inch, the stratum through 
+which they had cut having on one side slidden this distance in its ancient 
+bed! 
+These observations in the rocks of the Triassic basins indi-
+cate that the rocks are in a state of stress above that to be 
+expected from the lateral component of stress associated 
+with gravitational loading. The magnitude of this stress is, by 
+itself, incapable of producing joints but it may produce 
+regions of incipience. 
+The application of stress by various engineering opera-
+tions may provide the small amount of energy necessary to 
+climb over an energy barrier and thus open up the incipient 
+joints in these rocks. These joints may be very difficult to rec-
+ognize in very shallow cuts but in somewhat deeper cuts 
+these joints may be-visible, and it may be possible to observe 
+a reduction in the frequency with an increase in depth in the 
+
+
+===== PAGE 44 (621x792 pt) =====
+H36 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+section, and this observation may permit an evaluation of 
+the effect. I have observed such differences in quarries. 
+In making frequency counts it is necessary to discriminate 
+between joints arising from geologic processes and those 
+caused by the works of man. Incipient joints opened up by 
+the works of man I classify as quasi-geologic joints.6 Since 
+some of these joints develop in a large volume of rock and are 
+not limited to the surface of the outcrop they must be formed 
+as a result of the application of a significant stress acting 
+throughout a large volume. Such a stress could be generated 
+in blasting operations. 
+Nongeologic pseudojoints and fractures are produced, in 
+response to stresses developed generally from sudden shock, 
+in the course of engineering, mining, quarrying, and 
+construction operations. They may be produced by the 
+action of percussion machinery- pneumatic drills and 
+hammers, or the accidental dropping of the buckets of power 
+shovels, etc. They may also be produced by the crushing and 
+abrasion occasioned by the movement of heavy excavating 
+equipment over the exposed rock or by its brushing against 
+the walls. These pseudojoints and fractures are commonly 
+short in length, a few inches (a few centimeters), and they 
+may fade out into hairline cracks. They may radiate out from 
+a burred area where the concentrated force was applied. A 
+grouping of several fractures may produce a local hackly 
+appearance. These pseudojoints and fractures are all con-
+fined to a thin surface layer, and in this respect they differ 
+completely from the quasi-geologic joints. They should be 
+tallied separately from the other joints in a joint survey. 
+Piteau ( 1973) has presented methods of characterizing joints 
+for joint surveys in engineering practice and discusses errors 
+in measurement and gives an extensive interpretation of the 
+data. 
+FREQUENCY OF COO LING AND TECTONIC JOINTS 
+IN ONE OF TI-lE LEAST DEFORMED PARTS OF THE 
+BORDER SYNCLINE 
+The roadcut for U.S. Highway No. 80 at Pine Brook 
+passes through the lower end of Hook Mountain, a part of 
+Third Watchung Mountain. The roadcut for U.S. Highway 
+No. 280 passes through the Second Watchung Mountain in 
+the vicinity of Livingston, and through First Watchung 
+Mountain at West Orange. These three cuts lie on a line that 
+is nearly perpendicular to the strike of the Watchungs and at 
+a position that is near the center of the syncline and nearly 
+parallel to its minor axis (see figure 2, note line extends from 
+Pine Brook to West Orange). 
+The joint frequencies measured along the walls of the 
+roadcuts, for 50 feet intervals, are contained in table I. Most 
+of the values are averages. All of the joints recorded are the 
+result of geologic processes. The frequencies of the cooling 
+r. In !he disci pline of Rock Mechanics stresses developed as a result of geologic processes an: 
+referred to as .. virgin stresses," whereas those developed as a result of engineering operations arc 
+n:krn:d to as ''induced stresses·• (Oliveira. 1971). 
+joints are not significantly different for the several joint sys-
+tems within the three Watchung Mountains. The tectonic 
+joints on the other hand show that the frequency of the tec-
+tonic joints in Second Mountain is a different order of mag-
+nitude from the frequency values in Third and First Moun-
+tains. 
+These data give a quantitative estimate of the frequencies 
+of cooling and tectonic jointing. They are only a part of a 
+more complete collection of data obtained on Third and 
+Second Mountains and of a more limited set on First 
+Mountain. When the study of First Mountain is completed, 
+these data will be used in interpreting the structural relations 
+in the border syncline. 
+It should further be noted that the frequency of the cooling 
+joints in the curvilinear zone of the lower flow unit of Second 
+Mountain is relatively constant except close to the base of 
+the flow, near the contact, where incipient curvilinear joints 
+were emphasized by the tectonic deformation. 
+SUMMARY OF THE GEOMETRY OF THE COOLING JOINT 
+SYSTEMS 
+The cooling joint system of the vesicular zone consists of 
+widely spaced basal joints and short rectangular prisms. This 
+combination gives rise to a platy or tabular aspect. The prism 
+joints are commonly a foot (0.3 m) apart, and the basal 
+joints, in the longest direction, are of 4 to 10 times, or more, 
+the spacing of the prismatic joints. The basal surfaces tend to 
+be rectangular and not square. 
+The cooling joint system of the columnar zone, in Third 
+Watchung Mountain, consists of a set of prismatic joints, 
+commonly six or five sided together with capping basal 
+joints which terminate the prisms. Many of the joints resem-
+ble hexagonal and pentagonal right prisms, but some are 
+tapered and then seem almost pyramidal in aspect. The 
+dimensions of the columns are variable, but they range from 
+8 to I 0 feet (2.4 to 3.0 m) high and 6 inches to 1 foot ( 15 to 30 
+em) wide. 
+The blocky joints are so-called because of their shape as 
+rectangular parallelepipeds. In size they tend to be greater 
+than 4 x 5 x 10 feet (1.2 x 1.5 x 3.0 m). In some exposures 
+they were as large as I 0 x I 0 x several tens of feet long (3.0 x 
+3.0 x many tens of meters). 
+The curvilinear joints are quite variable in shape, but they 
+all have curved faces. These curved faces are warped surfa-
+ces. They are here interpreted as helicoidal surfaces. When 
+the large helicoidal surfaces are broken, they break up into 
+shieldlike, wedge-shaped, and sphenoidal volumes, whose 
+faces are curvilinear polygons. These curvilinear surfaces 
+may vary from a few feet(± meter) to 20 or more feet (6.1 m) 
+in height and 5 feet ( 1.5 m) in breadth. 
+In making joint frequency counts it is necessary to be able 
+to rapidly identify the type of joints being counted. One of 
+the complicating problems arises in excavated cuts for high-
+ways, and it is important to point out these modifications 
+introduced by the works of man. The columnar zone 
+
+
+===== PAGE 45 (792x622 pt) =====
+TABLE I.-Joint frequencies in the Watchung Mountains along a line nearly normal to the strike and extending from Pine Brook on Third 
+Watchung Mountain to near West Orange on First Watchung Mountain 
+Flow unit 
+Upper 
+Lower __________ _ 
+Lower -----------
+Lower 
+Blocky zone 
+Curvilinear zone ___ top to middle -------------
+--- do ------ middle to base ---------------
+Ve~cu~rba~ ---------------------------
+Vesicular top ----------------------------
+Columnar zone 
+Curvilinear zone ___ top 
+___ do------ middle --------------------
+--- do ______ near the base ----------------
+--- do ______ zone of basal platy 
+___ do------ joints ---------------------
+Shale and sandstone of the Brunswick 
+Formation below Second Mountain. 
+"Blocky zone" ( Massive)2 
+Columnar zone -----· 
+Curvilinear zone ___ top to middle 
+___ do ______ middle to bottom -------------
+Vesicular base ---------------------------
+Cooling joints 
+Third Mountain 
+6 joints in 50 feet (6/15 m) 
+72 joints in 50 feet (72/15 m) 
+56 joints in 50 feet (56/15 m) 
+a few indistinct joints 
+a few indistinct joints 
+20 columns in 19 feet (20/5.8 m) 
+Second Mountain 
+45 joints in 50 feet (45/15 m) 
+25 joints in 50 feet (25/15 m) 
+73 joints in 50 feet (73/15 m) 
+First Mountain 
+3 joints in 100 feet (3/30 m) 
+62 columns in 50 feet (62/15 m) ___ _ 
+57 joints in 50 feet (57/15m) 
+72 joints in 50 feet (72/15 m) 
+a few indistinct joints 
+1The>e are cut by joints nearly normal to them, and this normal set is about 18-20 inches apart. 
+ketonic joints 
+9 joints in 50 feet (9/15 m) _______ 
+16 joints in 50 feet (16/15 m) -----
+3 joints in 50 feet (3/15 m) -------
+a few indistinct joints ----------
+14 joints in 50 feet (14/15 m) -----
+91 joints in 50 feet (91/15 m) -----
+150 joints in 50 feet (150/15 m) ____ 
+-------------------------
+lOjointsin 12feet(l0/3.7m)l _____ 
+7 to 10 joints in 50 feet (7-10/15 m) _ 
+lOjoints in 50 feet (10/15 m) 
+(3) 
+2 joints in 50 feet (2/15 m) 
+5 joints in 50 feet (5/15 m) 
+'This zone was much disturbed. It contained in addition 125 sigmoidal shears in 260 feet (125/79 m), equivalent to 24 per 50 feet (24/15 m). 
+'Slipping along columns probably took place during the period of tectonic deformation. 
+L~ngth of traverse 
+Feet 
+Meters 
+213 
+175 
+60 
+21 
+19 
+400 
+~00 
+450 
+12 
+100 
+260 
+1091 
+780 
+365 
+65 
+53 
+18 
+6+ 
+6 
+122 
+244 
+137 
+37 
+30.5 
+79 
+333 
+238 
+Ill 
+'-
+0 z 
+-1 
+r:/l 
+.....:: 
+r:/l 
+-1 
+m s: 
+r:/l 
+co 
+w 
+-..1 
+
+
+===== PAGE 46 (622x792 pt) =====
+838 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+although infrequently observed is almost always easy to 
+identify. The chief difficulty arises in the distinction between 
+the blocky and curvilinear zones. 
+The recognition of the blocky zone is usually an easy task, 
+but its identification may be complicated by weathering, by 
+glacial processes, by tectonic deformation, or by quarrying 
+and excavation. Weathering may remove the sharp edges 
+and give rise to some rounding of edges, and it may accentu-
+ate the joints; but the general rectangular pattern, the pres-
+ence of few curved joints, and the presence of well-defined 
+parallel joints usually leave no doubt as to zonal identity. It 
+tends to preserve its massive character to a remarkable 
+degree. When blocky joints are bumped and gouged by 
+heavy buckets of power shovels, they usually develop a pseu-
+docolumnar structure, for this operation tends to emphasize 
+the tectonic joints, many of which are incipient in character. 
+The blocky zone is, however, very hard to excavate, and it 
+tends to jut out beyond the curvilinear zone below it. 
+Further, the fact that the internal structure of the blocks 
+resembles an assemblage of closely packed elongate 
+polyhedra is a very helpful criterion in making a decision. 
+These estimated sizes for the joints are only average values 
+and in some areas they may be larger and smaller. In Second 
+Mountain huge curvilinear joints as much as 15 x20feet(4.6 
+to 6.1 m) were observed. 
+SUMMARY OF THE GEOMETRY OF THE TECTONIC JOINT 
+SYSTEMS-
+WITH A CONTRAST OF THE TWO TYPES 
+The tectonic joints consist principally of (1) systems of 
+parallel joints occurring in bands from a few inches (few cen-
+timeters) to 10 or more feet (3m or more) apart and usually 
+oriented normal to the surface of the flow, (2) sigmoidal 
+joints (S-shaped)7 which may be quite long and oriented nor-
+mally or transversely to the surface of the flow, (3) a conju-
+gate set of closely spaced joints which appear near the base of 
+the flow and are oriented normally or nearly so, and (4) a set 
+of basal platy joints which are developed as a zone 10 to 12 
+feet (3-4m) thick, parallel to and at the base of the flow just 
+above the vesicular zone. These basal platy joints may be dif-
+ficult to see in weathered exposures where slumping has 
+occurred. 
+The occurrence of cooling joint systems and tectonic joint 
+systems differ in the following ways: 
+1. cooling joints are always present whereas the occur-
+rence of tectonic joints varies in any particular outcrop from 
+very rare to extremely abundant; 
+2. the cooling joints are limited to certain zones in the flow 
+and appear in a definite sequence; 
+3. the frequency of cooling joints does not change as the 
+structure of the sheet changes, except for the quasi-geologic 
+joints, whereas the abundance of the tectonic joints is 
+directly related to the stress trajectories; see table 1; 
+7 For a discussion of the use of the term sigmoidal jointing, particularly applied to sedimentary 
+rocks, see Engels (1956). 
+4. some of the tectonic joint systems., having been pro-
+duced by the deformation of the graben during arching when 
+the border synclines were formed, are characterized by a 
+pronounced conjugate relationship, (as for example the 
+pseudocolumnar joints (type 2)); 
+5. some of the tectonic joint systems consist of planes 
+extending without interruption from the top to the base of a 
+zone and having a uniform attitude, (as for example the 
+pseudocolumnar joints (type 1)). 
+A NOTE ON THE PAUCITY OF ZEOLITE DEPOSITS 
+IN THE TRAP FLOWS OF THIRD WATCHUNG MOUNTAIN 
+The field study of Third Mountain has shown that the 
+occurrence of zeolites and other minerals of the same or sim-
+ilar paragenesis is rather local in areal extent and relatively 
+small in quantity. It is observed chiefly in the following 
+modes of deposition: 
+1. mineralized veins 
+2. mineralized joint surfaces 
+3. breccia zones 
+4. cavities-generally located near the top of the flow (these 
+cavities were formerly occupied by gases). 
+This field study has not disclosed any pillow lavas in Third 
+Mountain and this confirms the earlier findings of Lewis 
+(1915). The normal vesiculated bottom is only rarely miner-
+alized and the chief mineral species appears to be calcite. The 
+vesiculated base of Third Mountain thus does not show the 
+great mineralization observed in First Mountain. These 
+observations support Fenner's (1908) theory for the relation-
+ship of the large zeolite zones with extrusion of lava flows 
+into shallow bodies of water, chiefly playa lakes, forming pil-
+low lavas in which the mineralization took place. 
+Schaller (1932, p. 8, 9) also contrasted the behavior of the 
+lavas flows that poured over ordinary sediments with those 
+that flowed over lake beds and commented on the condition 
+and appearance of a "lava flow that came to rest quietly over 
+dry sediments and crystallized to a normal compact basalt" 
+with that of a lava that "flowed into water and acquired a 
+spheroidal or boulder like structure." (Pillow lava). His 
+study of the crystal cavities of the zeolite region in First W at-
+chung Mountain showed that "the crystal cavities appear 
+only in the lower spheroidal phase." (That is the pillow 
+lavas). 
+Joints in the basalt were of minor importance compared to 
+pillow lavas as sites for deposition of the zeolite mineral 
+association. 
+SUPPLEMENTARY TOPICS 
+Implied in some of the descriptions of joint systems are 
+some geometric concepts that may not be familiar to all read-
+ers of this paper, and they have been added here for those 
+who wish to read them. In order that the usage given or 
+implied herein will be clear a section entitled "Glossary of 
+terms and definitions," and a section on "The character of 
+
+
+===== PAGE 47 (622x792 pt) =====
+JOINT SYSTEMS 
+B39 
+helicoidal surfaces" have been subjoined. In addition Pres-
+ton's ( 1904) classic description of "Isothermal surfaces and 
+lines," and a section on "The phenomenological evidence for 
+isothermal surfaces and the direction of heat flow" have been 
+included. 
+GLOSSARY OF TERMS AND DEFINITIONS 
+A system is anything which we wish to isolate for purposes 
+of study. 
+A bounded system is a system which is closed by a single 
+surface, such as a sphere, or by the intersection of several sur-
+faces such as a parallelepiped. All points in a bounded sys-
+tem are described by the restrictions on the analytical expres-
+sions of the surfaces. Thus, for a sphere every point xyz, on 
+or within it is described by the family of equations x2 + y2 + z2 
+= a2 and for a bounded system a2 < r2, where r is the radius of 
+the sphere. 
+A closed form encloses space and examples are a sphere, a 
+cube, or a parallelepiped. 
+Open forms cannot by themselves enclose space since they 
+extend to infinity. Examples of open forms are the cylinder, 
+a prism, or a cone. Open forms may be terminated by other 
+open forms. Thus, a cylinder may be terminated by basal 
+planes. 
+A surface may be defined as a boundary, real or imagined, 
+that separates two contiguous volumes. A single equation 
+such as F(x, y, z) = 0 represents a surface. 
+A plane is defined as a surface which meets the require-
+ment that any straight line joining any two points in it lies 
+entirely in the surface. 
+A curved surface fails to meet the above relation and 
+therefore no part of it is a planar surface. Familiar examples 
+of curvilinear surfaces, i.e. those that consist of curved lines, 
+are the cylinder, cone and sphere. 
+Curvilinear polygons are polygons whose sides are curved 
+lines and whose surfaces are curved. Note this definition 
+excludes planar surfaces with curved sides. 
+A quadric surface is any surface defined by an equation of 
+the second degree in x, y, z, Osgood and Graustein (1921, p. 
+548). 
+The sphere and the quadric cylinders, cones, and surfaces 
+of revolution are special types of quadric surfaces, Osgood 
+and Graustein (1921, p. 548). 
+General types of quadric surfaces are ellipsoids, hyperbo-
+loids, and paraboloids. 
+Ruled surfaces are those on which straight lines may be 
+drawn. "There are three classes of ruled surfaces: I, Planes; 
+II, Single curved surfaces; III, Warped surfaces" Schumann 
+(1946, p. 223). 
+"A warped surface is one generated by a straight line mov-
+ing so that no two consecutive positions lie in the same 
+plane," Schumann ( 1946, p. 264). 
+Warped surfaces are not developable surfaces, because 
+they cannot be unrolled into a plane. 
+I 
+CHARACTER OF HELICOIDAL SURFACES 
+Helicoids are geometric surfaces that are rarely described 
+in modern texts on analytical geometry and so are not too 
+well known. For this reason several definitions are given 
+here, and references to the pertinent literature have been 
+added. Helicoids are defined in slightly different ways by 
+mathematicians (differential geometers) and engineers (de-
+scriptive geometers), but their operations generate identical 
+surfaces. The mathematician is interested in an analytical 
+treatment of the surfaces; the descriptive geometer is con-
+cerned with the accurate graphical representation of 
+geometric objects and with the solution of problems relating 
+to the shape of objects and their disposition in space. The 
+mathematician Frost (1886, p. 218) defines a helicoid as fol-
+lows: 
+The helicoid is a scroll generated by the motion of a straight line which 
+intersects at right angles a fixed axis, about which it twists with an angular 
+velocity which varies as the velocity of the point of intersection with the axis. 
+Schumann ( 1946, p. 223, 282-289) gives an especially clear 
+presentation of the approach to these surfaces from descrip-
+tive geometry. The following definitions are taken from his 
+text: 
+A surface is generated by the continuous motion of a line (straight or 
+curved) called the generatrix, having a relationship to a fixed line called the 
+directrix. The consecutive positions of the generatrix are elements of the 
+surface. A surface is not a solid but is a boundary of a solid. 
+The helicoid is a warped surface generated by a straight line moving so that 
+it constantly touches a helix and its axis and makes a constant angle with 
+that axis. 
+When the generatrix makes an angle of90° with the axis the helicoid is right. 
+This surface is also a surface of two nappes. 
+When the generatrix makes an angle with the axis other than 90°, the 
+helicoid is oblique. It' consists of two nappes*** [See figure 50A.] 
+A nappe is a surface, or a portion of a surface, forming a continuous sheet. 
+[See figure 50B.] 
+The general analytical expression for a helix and a helicoid 
+provide a means of grasping the significance of their proper-
+ties. The following discussion is based on the treatment of 
+Eisenhart (1909) and Graustein (1935). The parametric 
+equations defining a helix are: x = uCosv, y = uSinv and z = av 
+where z is the axis of a right cylinder, x andy the coordinate 
+axes, vis the angle between the radius of the right cylinder to 
+a point P and the positive x axis, and a is a constant. The 
+pitch of the helix, h, is equal to 2 ·7T' a, and the tangent of the . 
+helical angle is tan(]'= _h_ . The tangent relation shows 
+2 7TU 
+that as the angle of the helix increases the pitch, h, increases. 
+The parametric equations for the helicoid are commonly 
+referred to the orientation with z as the axis of rotation and 
+the meridians defined as the planes through the z axis, then 
+the equation of the helicoidal surface is: 
+x = uCosv, y = uSinv, and z = cp (u) + av 
+
+
+===== PAGE 48 (622x792 pt) =====
+840 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+FIGURE 50. A, A string model of Oblique Helicoid prepared by Olivier of Paris. ''A helix and its axis as directrices; elements making an acute angle with the axis.'' 
+B, A string model of Right Helicoid. "A helix and its axis as directrices; elements making a right angle with the axis." From Schumann (1946) (Published by 
+permission of D. Van Nostrand Co., Inc.) 
+where 
+z 
+= cp (u) is the generating curve; 
+u 
+=the perpendicular distance of a point from the z 
+axis; 
+v 
+= the angle of the meridian plane through the point 
+to the ZX plane; 
+a 
+= constant, the parameter of helicoidal motion; and 
+2-rra = the pitch of the helicoidal motion. 
+In these equations it can be noted that: 
+l. if cp (u) =constant, then the curves v =constant are straight 
+lines (rulings) perpendicular to z and the surface is a right 
+helicoid. 
+2. if a= 0, then the equations define a surface of revolution. 
+3. from the method of construction it follows that the curves 
+v = constant are the rulings and curves u =constant are 
+circular helicies on the helicoids. 
+4. if the pitch, h, is variable or the length of the generatrix is 
+variable more general types of helicoids are generated. 
+Wellman (1948, p. 219) points out that in such cases "the 
+angle between the generatrix and the axis is also variable." 
+From these definitions we may further observe that heli-
+coids can be right-handed or left-handed depending on 
+whether they twist to the right or to the left, see figures 50 and 
+51. A right-handed helicoid advances away from the end of 
+the helical directrix in a clockwise direction and a left-
+handed helicoid advances in a counterclockwise direction. 
+Helicoids are warped surfaces because successive positions 
+of the generatrix do not lie in the same plane and if the sur-
+face is unrolled onto a plane it will not lie flat but will have a 
+warp in it. Helicoids have also been called screw surfaces 
+because of their obvious relations to these objects. 
+For an analytic treatment of helicoids the reader is 
+referred to the works of Eisenhart (1909), Frost (1886), 
+Graustein (1935), Hilbert and Cohn-Vossen (1932), and 
+Scheffers (190 1, 1902). For a descriptive geometric approach 
+reference is made to the treatments of Schumann ( 1946), 
+Von Sanden (1960), Watts and Rule (1946), and Wellman 
+(1948). 
+ISOTHERMAL SURFACES AND LINES 
+According to Preston (1904, p. 663), 
+In the general case the temperature at any point of a body will be a function 
+
+
+===== PAGE 49 (622x792 pt) =====
+JOINT SYSTEMS 
+841 
+z Directrix (axis) 
+A : 
+FIGURE 51. Two left-hand, right helicoids. The vertical distance 27rq is the pitch 
+of one helicoid where q equals a constant and it represents the vertical distance 
+traversed in one complete revolution (360°) of the generatrix. Scheffers 
+(1902, v. 2, p. 60-61). 
+of the co-ordinates, x, y, z, of the point and of the time t, so that the general 
+expression for 0 at any point will be of the form 
+0= f(x,y,z,t). 
+Hence, if we write 
+f(x,y,z,t) =a, 
+where a is a constant, we obtain the locus of all the points at which the 
+temperature has the same value a at the time t. These points lie on a surface, 
+determined by the function/, and named an isothermal surface because it is 
+one of equal temperature. When the flow has become steady the tempera-
+ture at any point remains steady, and therefore does not involve the time. In 
+this case, then, the isothermal surfaces are fixed in shape and position, each 
+separating those parts of the body which are hotter than a certain tempera-
+ture from those which are colder. In the variable state, on the other hand, 
+the shape and position of an isothermal surface corresponding to a definite 
+temperature will in general vary with the time. 
+If a system of such surfaces be supposed drawn within the body, the 
+temperature of each differing, by 1 o suppose, from that which immediately 
+precedes or follows it, the whole body will then be divided into a system of 
+layers or shells such that the temperature of one face of each layer exceeds 
+that of the other by 1 o, and a flow of heat will proceed through the shell from 
+the hotter face to the colder. The direction of the flow at each face will also 
+be perpendicular to the surface, for since the temperature is constant all over 
+each isothermal, it follows that there can be no flow along such a surface. 
+It follows then that the direction of the resultant flow at any point of a 
+body is along the normal to the isothermal surface passing through that 
+point, so that if a line be drawn cutting the whole system of surfaces orthog-
+onally, the direction of the flow at every point of this line will be along the 
+line. For this reason a line drawn so as to cut each of the system of surfaces at 
+right angles is termed a line of flow. 
+The whole body may thus be imagined to be divided into a system of infi-
+nitely thin shells by a system of isothermal surfaces, and the infinite system 
+of lines which can be drawn cutting these shells orthogonally are the lines of 
+flow. 
+One property of these systems is that no two isothermal surfaces, or no 
+two lines of flow, can intersect each other, for no point can possess two dif-
+ferent temperatures at the same time, nor can the flow at any point be at 
+once in two different directions. 
+THE PHENOMENOLOGICAL EVIDENCE FOR ISOTHERMAL 
+SURFACES AND THE DIRECTION OF HEAT FLOW 
+Geologists established long ago the relation of the colum-
+nar joint systems in lava flows and dikes and observed that in 
+vertical dikes the columnar joints were horizontal whereas in 
+flat-lying lava flows the joints were vertical. They further 
+observed that in curved contacts with the country rock that 
+the joints tilted to conform to a normal position to the con-
+tact. They also noted that in pahoehoe tops and other curved 
+surfaces in lava tops that the joints tilted in conformity with 
+the surface. From this they concluded that the isothermal 
+surfaces were parallel to the tops of flows and the walls of 
+dikes and that the direction of heat flow was normal to the 
+isothermal surfaces. Their conclusion was reinforced by the 
+observations in the furnace practices of their day. 
+Iddings (1886; 1909, v. 1, p. 320-322) studied the columnar 
+jointing in the famous O'Rourke quarry at West Orange, 
+N.J. He made a theoretical study of the heat flow relations 
+and jointing in which he assumed that the joints formed in 
+the cooling lava along surfaces perpendicular to the isother-
+mal planes. Tomkeieff (1940, p. 121-135) worked out the 
+cooling relations and formation of joints for his study of 
+basalt of the Giant's Causeway district of Northern Ireland. 
+He defined (p. 129) the fracture isotherm as that particular 
+isotherm at which fracture takes place and suggested "that 
+the rate of advance of the fracture isotherm will determine 
+the nature of the jointing, while, the amount of accumulated 
+stress will determine its magnitude." 
+These model studies of heat transfer relations, by conduc-
+tion, to the geometry ofthe jointing produced in a solidifying 
+lava sheet have been calculated for only very simple cases. 
+The calculation of the heat conduction relations, including 
+the corner and edge corrections of Langmuir, Adams, and 
+Meikle (1913) can only be made for simple solids. For more 
+complex shapes the mathematical solutions become formid-
+able, and a graphical method, based on geometrical 
+principles was developed by Awbery and Schofield (1929) 
+and Schofield (1930). It has been found very useful by Inger-
+soll, Zobel, and Ingersoll (1954, p. 200-203) in analyzing 
+"steady-state heat conduction in two dimensions, involving 
+the construction of an isotherm and flow-line diagram." 
+Numerical methods used in conjunction with a computer 
+may yield solutions for yet even more general problems, 
+Myers (1971). 
+ACKNOWLEDGMENTS 
+Richard C. Erd, U.S. Geological Survey, worked closely 
+with me in the mapping of much ofThird Watchung Moun-
+tain, and I am indebted to him in many ways in the testing of 
+the ideas regarding the jointing patterns in the trap flows. 
+The late Theodore Woodward, John R. Houston, and the 
+late Charles Minard, former members ofthe U.S. Geological 
+
+
+===== PAGE 50 (622x792 pt) =====
+B42 
+STUDIES ON THE WATCHUNG BASALT FLOWS OF NEW JERSEY 
+Survey, served as assistants in the field studies on Third Wat-
+chung Mountain. Many of the photographs were specially 
+taken for this study by John P. Marble, Jr., formerly of the 
+U.S. Geological Survey and Dr. Gudmunder E. Sigvalda-
+son, then of the Dept. of Industrial Testing and Research, 
+Reykjavik, Iceland, who from 1959 to 1961 was a visiting 
+research scientist at the U. S. Geological Survey under spon-
+sorship of the National Academy of Sciences. I am also 
+indebted to the many property owners, quarry companies, 
+and quarry managers in the area. The standard reference 
+section for Third Watchung Mountain was set up in the Mil-
+lington quarry and accordingly, I am particularly grateful to 
+the late Thomas J. Stewart, former superintendent, of the 
+Millington Plant of Houdaille Industries, who aided me in 
+many ways and who constantly encouraged me. 
+The names given to the abandoned quarries were obtained 
+in part from former owners and in part from local residents. 
+The late Clyde L. Wolfe of Bernardsville was knowledge-
+able and helpful on this subject. 
+In order to gain a knowledge of jointing in other basaltic 
+provinces and to make comparisons, brief field excursions 
+were made to them with geologists familiar with the areas. 
+This provided the opportunity to study the possible influ-
+ence of the nature of the underlying rocks on the character of 
+the jointing in the basalt flows above them. I wish to thank 
+the following colleagues who are members of the U.S. Geo-
+logical Survey for showing me jointing phenomena in the 
+basaltic rocks of the areas of study-Henry R. Cornwall and 
+Walter S. White in the Michigan copper district, Albert E. 
+Weissenborn in the flows of the Columbia River Basalt 
+Group south of Spokane, Wash., and John K. Adams in the 
+Table Mountain basalt near Golden, Colo. In Europe I was 
+shown jointing in the basalt flows of Iceland at Thingvellir 
+and elsewhere by the late Professor Tomas Tryggvason of 
+the University Research Institute of Reykjavik, in the 
+Vogelsberg Mountains in Hesse, Germany, by Professor 
+Hans Hentschel of the Hessische Landesamt fur Bodenfor-
+schung in Wiesbaden, Germany. Professor K. Hans Wede-
+pohl of Gottingen University, showed me the basaltic plugs 
+in the vicinity of the University and Professor Sigmund 
+Koritnig took me to the "Bhiue Kuppe"' bei Eschwege and to 
+the Roher Meissner. The later flow was famous in the con-
+troversy of the Neptunists and the Vulcanists, Johannsen 
+(1937, p. 264). The late Professor Sergei I. Tomkeieff of 
+King's College, University of Durham, showed me the Whin 
+Sill and discussed his jointing studies on the Giant's Cause-
+way district, Northern Ireland. Niels Oskarsson, of the Uni-
+versity of Iceland assisted me in the measurement of joint 
+widths at the fault wall at Thingvellir and for which help I 
+thank him. 
+My colleague Howard T. Evans very kindly prepared the 
+complex illustrations of the geometrical models of the var-
+ious helicoidal surfaces. Dallas L. Peck and Thomas L. 
+Wright discussed related problems in the lavas of Hawaii 
+and the Columbia River flows. 
+An early version of this manuscript was critic~lly reviewed 
+by my colleagues Gudmunder E. Sigvaldason, Harry W. 
+Smedes, and Robert L. Smith, and this version by Rosalind 
+L. Helz, Ray E. Wilcox, and David R. Wones, all of the U.S. 
+Geological Survey. 
+LITERATURE CITED 
+Awbery, James H. and Schofield, Francis H., 1929, Effect of shape on heat-
+loss through insulation: Congress on Refrigeration, 5th Internat. 
+Proc., 1928, pt. 3, p. 591-596. 
+Bankwitz, Peter, 1965, Uber Kliifte-1. Beobachtungen im Thiiringischen 
+Schiefergebirge: Geologie, Zeitschr. fiir das Gesamtgebiet der Geologi-
+schen Wissenschaften, Jahrg. 14, p. 241-253. 
+__ 1966, Uber Kliifte-11. Die Bildung der Kluftflache und seine Syste-
+matik ihrer strukturen: Geologie Zeitschr. fur das Gesamtgebiet der 
+Geologischen Wissenschaften, Jahrg. 15, p. 896-941. 
+Barrell, Joseph, 1915, Central Connecticut in the geologic past: Connecti-
+cut Geol. and Nat. History Survey Bull. 23, 44 p. 
+Bingham, James W., and Grolier, Maurice J., 1966, The Yakima Basalt and 
+Ellensburg Formation of south-central Washington: U.S. Geol. 
+Survey Bull. 1224-G, p. G1-Gl5. 
+Bond, John G., 1963, Geology of the Clearwater embayment: Idaho Bur. 
+Mines and Geology Pamph. No. 128, 83 p. 
+Bucher, Walter H., and Kerr, Paul F., 1948, Excursion to the First Wat-
+chung Basalt at Paterson, New Jersey: Geol. Soc. America Guidebook 
+of Excursions, 6lst Ann. Mtg., New York, N.Y., 1948, p. 109-119. 
+Cloos, Hans, 1936, Einfiihrung in die Geologie: Lehrbuch der inneren 
+Dynamik: Berlin, Verlag Gebriider Borntraeger, p. XII+ 515. 
+Eisenhart, Luther P., 1909, A treatise on the differential geometry of curves 
+and surfaces: New York, Ginn and Company, p. xiv + 474. Reprinted 
+by Dover Publications, Inc., N.Y., 1960. 
+Engels, Bruno, 1956, Zur Deutung der Querplattung (Sigmoidalkliiftung): 
+Hamburg geol. Staatsinst. Mitt. Heft 25, p. 5-25. 
+Faust, George T., 1975, A review and interpretation of the geologic setting 
+of the Watchung Basalt flows, New Jersey: U.S. Geol. Survey 
+Professional Paper 864-A, 42 p. 
+Fenner, Clarence N., 1908, Features indicative ofphysiographicconditions 
+prevailing at the time of the trap extrusions in New Jersey: Jour. Geol-
+ogy, 16,p. 299-327. 
+Frost, Percival, 1886, Solid geometry: London, Macmillan and Company, 
+3d edition, p. xxiv + 408. 
+Geike, Archibald, 1893, Textbook of geology: London, Macmillan and Co., 
+3d ed., rev., p. xvi + 1147. 
+Graustein, William C., 1935, Differential geometry: New York, Macmillan 
+and Company, p. xi + 230. 
+Hast, Nils, 1967, The state of stress in the upper part of the earth's crust: 
+Eng. Geology, v. 2, no. 1, p. 1-17. 
+Hilbert, David, and Cohn-Vossen, Stephen, 1932, Anschauliche Geome-
+trie: Berlin, Julius Springer, 254 p. Translated by Nemenyi, P., 1952, 
+Geometry and the Imagination, New York, Chelsea Pub. Co., p. ix + 
+357. 
+Hodgson, Robert A., 1961, Classification of structures on joint surfaces: 
+Am. Jour. Sci., v. 259, p. 493-502. 
+Hooker, Verne E., and Johnson, Charles F., 1967, In situ stresses along the 
+Appalachian Piedmont: Proc. 4th Rock Mechanics Symposium, 
+Ottawa, p. 137-154. 
+Iddings, Joseph P., 1886, The columnar structure in the igneous rocks of 
+Orange Mountain, New Jersey: Am. Jour. Sci., ser. 3, 31, p. 321-331. 
+__ 
+1909, Igneous Rocks: New York, N.Y.,John Wiley and Sons, v.1,p. 
+xi+ 464. 
+Ingersoll, Leonard R., Zobel, Otto J., and Ingersoll, Alfred C., 1954, Heat 
+conduction with engineering, geological and other applications: Madi-
+son, Wisconsin, Univ. Wisconsin Press, p. xiii + 325. 
+
+
+===== PAGE 51 (622x792 pt) =====
+JOINT SYSTEMS 
+B43 
+Jaeger, John C., 1968, Cooling and solidification of igneous rocks: in Hess, 
+Harry H., and Poldervaart, Arie, Basalts-The Poldervaart Treatise on 
+rocks of basaltic composition: New York, N.Y., Interscience, v. 2, p. 
+503-536. 
+Johannsen, Albert, 1937, A descriptive petrography of the igneous rocks: 
+Chicago, The University of Chicago Press, v. Ill, p. xiv + 360. 
+Johnston, John, 1854(1855), Notice on some spontaneous movements occa-
+sionally observed in the sandstone strata in one of the quarries at Por-
+tland, Connecticut: Amer. Assoc. Adv. Sci. Proc., v. 8, p. 283-286. 
+Kemp, James F., 1929, A handbook of rocks: New York, N.Y., D. VanNos-
+trand Co., Inc., p. xi + 300. 
+Krynine, Paul D., 1950, Petrology, stratigraphy, and origin of the Triassic 
+sedimentary rocks of Connecticut: Connecticut Geol. and Nat. History 
+Survey Bull. 73, 239 p. 
+Langmuir, Irving, Adams, Elliot Q., and Meikle, GeorgeS., 1913, Flow of 
+heat through furnace walls: The shape factor: Am. Electrochem. Soc. 
+Trans., v. 24, p. 53-84. 
+Lewis, J. Volney, 1908, Petrography of the Newark igneous rocks of New 
+Jersey: Geol. Survey New Jersey, Ann. Rept. State Geologist for 1907, 
+p. 99-167. 
+___ 1909, Building stones of New Jersey: New Jersey Geol. Survey Ann. 
+Rept. for 1908, p. 53-124. 
+___ 1915, The pillow lavas of the Watchung Mountains: New Jersey 
+Geol. Survey Bull. 16, Ann. Adm. Rept. State Geologist of N.J. for 
+1914, p. 51-56. 
+Mackin, J. Hoover, 1961, A stratigraphic section in the Yakima Basalt and 
+the Ellensburg Formation in south-central Washington: Washington 
+Div. Mines and Geol. Rept. Inv. no. 19, 45 p. 
+Murawski, Hans, 1968, Tektonik, a chapter in "Yom Erdkern bis zur Mag-
+netosphere": Frankfurt am Main, Germany, Umschau Verlag, p. 67-
+83. 
+Myers, Glen E., 1971, Analytical methods in conduction and heat transfer: 
+New York, McGraw Hill Book Co., p. xvii + 508. 
+Nevin, Charles M., 1931, Principles of structural geology: New York, John 
+Wiley and Sons, Inc., p. xii + 303. 
+Oliveira, R. A.M., 1971, Nature of stresses: Internat. Symposium on the 
+detm. of stresses in rock masses, Lisbon, 1969, Proc. vol., p. 34-36. 
+Oilier, Clifford D., 1969, Weathering: New York, American Elsevier Pub. 
+Company, Inc., p. vii+ 304. 
+Osgood, William F., and Graustein, William C., 1921, Plane and solid ana-
+lytic geometry: New York, The Macmillan Company, p. xvii + 614. 
+Piteau, Douglas R., 1973, Characterizing and extrapolating rock joint 
+properties in engineering practice: Rock Mechanics, Supplementum 2, 
+p. 5-31. 
+Preston, Frank W ., 1930, Ball and socket jointing in basalt· prisms: Royal 
+Soc. London, Proc. pt. b, v. 106, p. 87-93. 
+Preston, Thomas, 1904, The Theory of Heat [2d ed., revised by J. Rogerson 
+Cotter]: London, Macmillan and Co., Ltd., p. xix + 838. 
+Price, Neville J., 1966, Fault and joint development in brittle and semi-
+brittle rock: Oxford, England, Pergamon Press, p. x + 176. 
+Roberts, John C., 1961, Feather fracture, and the mechanics of rock 
+jointing: Am. Jour. Sci., v. 259, p. 481-492. 
+Rosen busch, Harry, 1923, Elemente der Gesteinslehre: Stuttgart, Germany, 
+E. Schweizerbart'sche Verlag, p. x + 779. 
+Salisbury, Rollin D., Kummel, Henry B., Peet, Charles E., and Knapp, 
+George N., 1902, The glacial geology of New Jersey: Final Rept. State 
+Geologist, 5, p. xxvii + 802. 
+Schaller, Waldemar T., 1932, The crystal cavities of the New Jersey zeolite 
+region: U.S. Geol. Survey Bull. 823, p. vii+ 90. 
+Scheffers, Georg, 1901, Einfiihrung in die Theorie der Curven in der Ebene 
+und in Raume: Leipzig, Verlag von Veit and Company, v. 1, p. x + 360: 
+1902, Einfiihrung in die Theorie der Flachen: v. 2, p. x + 518. 
+Schofield, Francis H., 1930, The heat-loss from a plate embedded in an 
+insulating wall: Phil. Mag., ser. 7, v. 10, p. 480-500. 
+Schumann, Charles H., Jr., 1946, Descriptive geometry: New York, D. Van 
+Nostrand Company, Inc., 4th ed., p. xi+ 338. 
+Sosman, Robert B., 1916, Types of prismatic structure in igneous rocks: 
+Jour. Geology, v. 24, p. 215-234. 
+Spry, Alan, 1962, The origin of columnar jointing, particularly in basalt 
+flows: Geol. Soc. Australia Jour., v. 8, pt. 2, p. 191-216. 
+Tomkeieff, Sergi 1., 1940, The basalt lavas of the Giant's Causeway district 
+of Northern Ireland: Bulletin Volcano!., ser. II, Tome VI, p. 89-143. 
+U.S. Geological Survey, 1961, Geological Survey Research 1961-Synopsis 
+of geologic and hydrologic results: U.S. Geol. Survey Prof. Paper424-
+A, p. A77-Al94. 
+___ 1972, Geological Survey Research 1972: U.S. Geol. Survey Prof. 
+Paper 800-A, p. A27. 
+___ 1973, Geological Survey Research 1973: U.S. Geol. Survey Prof. 
+Paper 850, p. 36. 
+Voight, Barry, 1966, Interpretation of in situ stress measurements: Internat. 
+Soc. Rock Mechanics, Proc. Int. Cong., v. 3, p. 332-348. 
+___ l969a, A discussion-The state of stresses in the upper parts of the 
+earth's crust: Eng. Geology, v. 3, p. 335-339. 
+___ l969b, Evolution of North Atlantic Ocean: Relevance of rock-
+pressure measurements: Amer. Assoc. Petroleum Geologists Mem. 12, 
+p. 955-962. 
+Von Sanden, Horst, 1960, Darstellende Geometrie: Stuttgart, B. G. 
+Teubner Verlag, p. 115 + 42 Abbildungen. 
+Watts, Earle F., and Rule, John T., 1946, Descriptive Geometry: New York, 
+Prentice-Hall, Inc., p. viii+ 501. 
+Wellman, B. Leighton, 1948, Technical descriptive geometry: New York, 
+McGraw Hill Book Company, Inc., 1st ed., p. xii + 508. 
+Woodworth, Jay B., 1896, On the fracture system of joints with remarks on 
+certain great fractures: Boston Soc. Nat. History, Proc. v. 27, p. 163-
+183. 
+
+
+===== PAGE 52 (622x792 pt) =====
+
+
+===== PAGE 53 (622x792 pt) =====
+A 
+Abstract ------------------------------- B I 
+Acknowledgments------------------------- 41 
+/\dams, Elliot Q -------------------------- 41 
+Adams, John K -------------------------- 42 
+Alward's quarry -------------------------- 23 
+Amydaloidal minerals ----------------------- 5 
+·\wbery, James H ________________________ 2, 41 
+B 
+' Ball and socket jointing --------------------- 10 
+Bankwitz, Peter -------------------------- 31 
+Barrell, Joseph. quoted --------------------- 19 
+Bingham, James W ------------------------ 18 
+Bond. John G --------------------------- 18 
+Brownstone ------------------------------ 5 
+Brunswick Formation ------------------ 5, 16, 21 
+Bu-:her, Walter H. quoted--------------------- 3 
+c 
+Cloos, Hans, cited------------------------- 21 
+quokd ------------------------------4 
+Cohn-Vossen, Stephen---------------------- 40 
+Columbia River Group ___________________ 18, 42 
+Cooling joints, blocky zone ------------------- 11 
+columnar zone _______________________ 9, 14 
+curvilinear zone ----------------------- U 
+in other basaltic provinces----------------- 17 
+rectangular joint systems ------------------ 5 
+Cnnnecticut Triassic Basin -----------------~- 17 
+Cornwall, Henry R ------------------------ 42 
+D 
+Oeckcnsohle ---------------------------- 21 
+Dimt:nsion stone-------------------------- 16 
+E 
+Eisenhart. Luther P ----------------------39, 40 
+Engels. Bruno --------------------------- 38 
+England: 
+Whin Sill --------------------------- 42 
+Erd, Richard C --------------------------- 41 
+Evans. Howard T ----------------------- 15,42 
+F 
+Falls\, George T _________________________ 2, 19 
+feather fracture ------------------------ 30, 31 
+Fenner, Clarence N ____________________ 3, 17, 38 
+Flow. breccias --------------------------- 16 
+Fracture isotherm ________________________ 2, 41 
+Frost, Percival, cited ----------------------- 40 
+quoted ----------------------------- 39 
+G 
+Geike. Archibald, quoted --------------------- 4 
+Geometry, cooling joint systems ---------------- 36 
+tectonic joint systems-------------------- 38 
+Germany: 
+Blaue Kuppe ------------------------- 42 
+Gottingen --------------------------- 42 
+Hoher Meissner _____________________ 18, 42 
+Vogelsberg ------------------------ 18,42 
+Glacial pavement ------------------------- 12 
+Glossary of terms ------------------------- 39 
+Graustein, William C. cited ------------------- 40 
+quoted ----------------------------- 39 
+Grolier, Maurice J ------------------------ 18 
+INDEX 
+[Italic page numbers indicate major references] 
+H 
+Hast, Nils ----------------------------- B34 
+Hawkins, Alfred C -------------------------2 
+Helicoidal surfaces ------------------------ 39 
+Hdicoide ------------------------------ 14 
+Hcl7. Rosalind --------------------------- 42 
+Hentschel, Hans -------------------------- 42 
+Hilbert, David --------------------------- 40 
+Hodgson, Robert A---------------------- 31, 32 
+Hooker, Verne E ------------------------- 34 
+Hornfels zone _____________ 5, 24 
+Houston. John R 
+41 
+Iceland: 
+Dettifoss -------------------------- 18. 42 
+Myvatn -------------------------- 19, 42 
+Thingvellir ------------------- 19, 33, 34, 42 
+Iddings, Joseph P ____________________ 2, 3, 10, 41 
+Ingersoll, Alfred C ------------------------ 41 
+Ingersoll, Leonard R ----------------------- 41 
+lntertrappean layer -------------------------5 
+Introduction ----------------------------- 1 
+Isothermal surfaces ------------------------ 40 
+Jaeger, John C ---------------------------- 2 
+Johannsen. Albert------------------------- 42 
+Johnson, Charles F ------------------------ 34 
+J,)hnston, John, quoted --------------------- 35 
+Joints, cooling __________________________ 4, 36 
+miscellany --------------------------- 30 
+sheeting ---------------------------- :!5 
+tectonic -------------------------- 19, 38 
+weathering -------------------------- :!7 
+K 
+Kemp, James F -------------------------- 27 
+KIT~Pa~F ---------------------------~-3 
+Knapp, George N ------------------------- 12 
+Koritnig, Sigmund ------------------------ 42 
+Krynine, Paul D -------------------------- 17 
+Kummel, Henry B ------------------------- 12 
+L 
+Langmuir, Irving ------------------------- 41 
+I ava flow unit zones, blocky zone -------------- 11 
+columnar zone ------------------------- 7 
+curvilinear zone ----------------------- 1:! 
+vesicular base------------------------- 15 
+vesicular top -------------------------- 5 
+Lewis, J. Volney-------------------- 3, 17, 28, 38 
+Literature cited--------------------------- 41 
+M 
+Mackin, J. Hoover ------------------------ 18 
+Marble, John P -------------------------- 42 
+Meikle, GeorgeS ------------------------- 41 
+\·lillington quarry -------------------------- 3 
+Minard, Charles-------------------------- 41 
+Murawski, Hans-------------------------- 20 
+Myers, Glen E --------------------------- 41 
+N 
+Nevin, Charles M ------------------------- 21 
+:-.lew Germantown trap sheet ------------ 7, 21, 23,24 
+:-.le\~ark graben, geologic history---------------- 19 
+:'-Jewark Group. thickness -------------------- 19 
+:\ova Scotia-Bay of Fundy ----------------- 17, 18 
+0 
+Oliveira, R. A. M., quoted ------------------ B36 
+Oilier, Clifford D ------------------------- 25 
+O'Rourke quarry -------------------------- 2 
+Osgood, William F., quoted ------------------ 39 
+Oskarsson, Niels-------------------------- 42 
+p 
+Pahoehoe 5urface ------------------ 4, 5, 9, 16, 41 
+Peck. Dallas ---------------------------- 42 
+Peet, Charles E --------------------------- 12 
+Pillow lavas------------------------- 3, 16, 38 
+Pitcau, Douglas R _________________________ 36 
+Preston. Frank W ------------------------- 10 
+Preston. Thomas. quoted -------------------- 39 
+Previous studies ---------------------------_2 
+Price, :'-Jeville, J -------------------------- 31 
+R 
+R iprap -------------------------------- 17 
+Road metal ----------------------------- 17 
+Roberts, John C -------------------------- 31 
+Rosenbusch, Harry ------------------------ 27 
+Rule, .John T ---------------------------- 40 
+s 
+Salisbury, Rollin D ------------------------ 12 
+Schaller, Waldemar T ---------------------- 38 
+Scheffers, Georg -------------------------- 40 
+Schofield, Francis H ______________________ 2, 41 
+Schraubenflache -------------------------- 14 
+Schumann, Charles H., cited ------------------ 40 
+quokd ----------------------------- 39 
+Sheeting joints ------------------------- 14, 25 
+Sig\aldason, Gudmunder -------------------- 42 
+Smcdes, Harry W ------------------------- 42 
+Smith, Robert L -------------------------- 42 
+Sosman, Robert B _____________________ 3, 27,31 
+Spry, Alan ____________________________ 2, 10 
+Stewart. Thomas J _______________________ 4, 42 
+T 
+r ectonic joints, basal platy 
+joints. vesicular base -------------------- 24 
+perpendicular joints, blocky zone ------------ 20 
+planar basal joints, 
+columnar zone ------------------ ____ 20 
+pseudocolumnar joints, curvilinear 
+zone ------------------------- 5, 14, 21 
+shear wne, blocky zone ------------------ 21 
+transverse joints, vesicular 
+~P-----------------------------~20 
+T omkeieff, Sergi ! _________________ 2, 3, 10, 41, 42 
+Tryggvason, Tomas------------------------ 42 
+U, V,Z, W 
+li.S. Geological Survey ----------------------2 
+Voight, Barry---------------------------- 34 
+VonSande~Hor~------------------------40 
+w 
+Watchung Basalt flows, sequence of 
+?ones in each unit ----------------------- 5 
+Watts, Earle F --------------------------- 40 
+Weathering joints. late stage, 
+unloading "platy joints" ------------------ 28 
+solifluction, a distorting agent 
+of jointing patterns-------------------- :!9 
+845 
+
+
+===== PAGE 54 (622x792 pt) =====
+B46 
+Weathering joints~Con. 
+spheroidal joints---------------------- B27 
+Wedepohl. K. Hans------------------------ 42 
+Weissenborn, Albert E ---------------------- 42 
+Wellman, B. Leighton ____________________ IS, 40 
+White, WalterS -------------------------- 42 
+INDEX 
+, Wilcox, Ray E --------------------------- 42 
+1 Width of joint openings -------------------- 833 
+Wolfe, Clyde L --------------------------- 42 
+Wones, David R -------------------------- 42 
+Woodward, Theodore ---------------------- 41 
+Woodworth. Jay B ____________________ 29, 31, 32 
+Wright, Thomas L ------------------------ 42 
+z 
+Zeolite deposits in the trap 
+flows of Third mountain----------------- 838 
+Zobel, Otto J ---------------------------- 41 
+i:I U.S. Government Printing Office: 1977-261·221/146 

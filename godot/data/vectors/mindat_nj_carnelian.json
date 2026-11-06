@@ -1,0 +1,122 @@
+{
+ "fetched": "2026-11-06",
+ "query": "localities with txt 'New Jersey' listing Carnelian (Mindat id 9333); study area = the app's terrain bbox",
+ "study_bbox_lonlat": [
+  -74.53131995223295,
+  -74.34481851988802,
+  40.58951187837723,
+  40.71841768599656
+ ],
+ "localities": [
+  {
+   "mindat_id": 23780,
+   "name": "Bergen County, New Jersey, USA",
+   "lat": 40.9596718,
+   "lon": -74.0742256,
+   "level": 2,
+   "in_study_area": false,
+   "url": "https://www.mindat.org/loc-23780.html",
+   "modified": "2020-04-03"
+  },
+  {
+   "mindat_id": 175647,
+   "name": "Berkeley Heights, Union County, New Jersey, USA",
+   "lat": 40.6641666667,
+   "lon": -74.4336111111,
+   "level": 3,
+   "in_study_area": true,
+   "url": "https://www.mindat.org/loc-175647.html",
+   "modified": "2023-11-22"
+  },
+  {
+   "mindat_id": 233622,
+   "name": "Cory's Brook, Warren Township, Somerset County, New Jersey, USA",
+   "lat": 0.0,
+   "lon": 0.0,
+   "level": 4,
+   "in_study_area": false,
+   "url": "https://www.mindat.org/loc-233622.html",
+   "modified": "2012-02-22"
+  },
+  {
+   "mindat_id": 437482,
+   "name": "Green Brook, Berkeley Heights, Union County, New Jersey, USA",
+   "lat": 40.666666666667,
+   "lon": -74.424722222222,
+   "level": 4,
+   "in_study_area": true,
+   "url": "https://www.mindat.org/loc-437482.html",
+   "modified": "2023-11-22"
+  },
+  {
+   "mindat_id": 17427,
+   "name": "Morris County, New Jersey, USA",
+   "lat": 0.0,
+   "lon": 0.0,
+   "level": 2,
+   "in_study_area": false,
+   "url": "https://www.mindat.org/loc-17427.html",
+   "modified": "2020-10-26"
+  },
+  {
+   "mindat_id": 14024,
+   "name": "New Jersey, USA",
+   "lat": 0.0,
+   "lon": 0.0,
+   "level": 1,
+   "in_study_area": false,
+   "url": "https://www.mindat.org/loc-14024.html",
+   "modified": "2023-11-22"
+  },
+  {
+   "mindat_id": 18561,
+   "name": "Somerset County, New Jersey, USA",
+   "lat": 40.5687141,
+   "lon": -74.60988,
+   "level": 2,
+   "in_study_area": false,
+   "url": "https://www.mindat.org/loc-18561.html",
+   "modified": "2020-02-07"
+  },
+  {
+   "mindat_id": 12185,
+   "name": "Stirling Brook (\"Carnelian Creek\"), Warren Township, Somerset County, New Jersey, USA",
+   "lat": 40.6436627958,
+   "lon": -74.4741702067,
+   "level": 4,
+   "in_study_area": true,
+   "url": "https://www.mindat.org/loc-12185.html",
+   "modified": "2023-09-25"
+  },
+  {
+   "mindat_id": 20642,
+   "name": "Union County, New Jersey, USA",
+   "lat": 0.0,
+   "lon": 0.0,
+   "level": 2,
+   "in_study_area": false,
+   "url": "https://www.mindat.org/loc-20642.html",
+   "modified": "2019-04-15"
+  },
+  {
+   "mindat_id": 280332,
+   "name": "Warren Township, Somerset County, New Jersey, USA",
+   "lat": 40.6322514,
+   "lon": -74.5148261,
+   "level": 3,
+   "in_study_area": true,
+   "url": "https://www.mindat.org/loc-280332.html",
+   "modified": "2023-11-22"
+  },
+  {
+   "mindat_id": 156348,
+   "name": "Watchung, Somerset County, New Jersey, USA",
+   "lat": 40.6378801,
+   "lon": -74.4509863,
+   "level": 3,
+   "in_study_area": true,
+   "url": "https://www.mindat.org/loc-156348.html",
+   "modified": "2023-11-22"
+  }
+ ]
+}

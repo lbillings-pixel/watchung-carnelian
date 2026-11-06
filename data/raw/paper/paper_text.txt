@@ -1,0 +1,1575 @@
+
+
+===== PAGE 1 =====
+Citation: Volkert, R.A.; Gorring, M.L.;
+Peck, W.H.; Stanford, S.D.
+Characterization and Origin of
+Basalt-Derived Carnelian in the
+Mesozoic Newark Basin, New Jersey,
+USA. Minerals 2023, 13, 1249.
+https://doi.org/10.3390/
+min13101249
+Academic Editors: Iuliu Bobos and
+Franck Bourdelle
+Received: 30 August 2023
+Revised: 20 September 2023
+Accepted: 22 September 2023
+Published: 24 September 2023
+Copyright:
+© 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+minerals
+Article
+Characterization and Origin of Basalt-Derived Carnelian in the
+Mesozoic Newark Basin, New Jersey, USA
+Richard A. Volkert 1,*, Matthew L. Gorring 2, William H. Peck 3
+and Scott D. Stanford 1
+1
+New Jersey Geological and Water Survey (Retired), Trenton, NJ 08625, USA; scott.stanford@dep.nj.gov
+2
+Department of Earth and Environmental Studies, Montclair State University, Upper Montclair, NJ 07043, USA;
+gorringm@montclair.edu
+3
+Department of Geology, Colgate University, Hamilton, NY 13346, USA; wpeck@colgate.edu
+*
+Correspondence: rvolkert@comcast.net
+Abstract: Carnelian occurs locally in New Jersey in the Newark basin as medium- to coarse-size peb-
+bles in ﬂuvial gravel and alluvium and colluvium formed from erosion of Lower Jurassic Preakness
+Basalt. Vesicles and molds of glauberite are preserved on lower surfaces and botryoidal textures
+on the upper surfaces of some pieces. The microstructure consists of length-fast chalcedony char-
+acterized by parallel ﬁbrous bundles overlain by repetitive, wavy extinction bands. Only peaks
+of α-quartz and minor moganite are recognized in X-ray diffraction patterns. Carnelian contains
+97–98 wt.% SiO2, ~1.0 wt.% Fe2O3, and 1.0–1.4 wt.% LOI; other major elements are <0.1 wt.%. Trace
+element abundances are low except for Y, Nb, Ta, W, Th, and U. Rare earth element (REE) patterns
+display heavy REE enrichment and large negative Eu anomalies. Most trace elements were mobilized
+from Proterozoic sources, whereas Si was likely derived from the alteration of basaltic glass in the
+Preakness. Carnelian δ18OVSMOW values are high and range from +18.3 to +31.2‰, comparable to
+global occurrences of volcanic rock-derived chalcedony. We propose that carnelian precipitated in the
+ﬁrst Preakness ﬂow from the mixing of hydrothermal ﬂuid with meteoric water under conditions of
+low temperature (20–80 ◦C) and neutral to slightly alkaline pH.
+Keywords: carnelian; moganite; Mesozoic Newark basin; Preakness Basalt; oxygen isotopes
+1. Introduction
+Carnelian is a variety of silica (SiO2) that is mainly colored in some shade of red or
+orange. It is classiﬁed as chalcedony on the basis of its microcrystallinity and its ﬁbrous
+texture (https://www.gemdat.org; accessed on 24 October 2022). The absence of banding
+in carnelian distinguishes it from agate. Because carnelian is a semiprecious gemstone
+that was prized by early civilizations, the focus of many studies has been mainly from an
+archaeological perspective, e.g., [1–3]. Some regional geological reports mention carnelians
+brieﬂy [4,5]; however, studies that focus strictly on the mineralogical and geological char-
+acterization of carnelians [6,7] are scarce, especially compared to the numerous studies of
+other types of microcrystalline silica such as agate, opal, and chert.
+A review of the archaeological and geologic literature and the mineral website Mindat
+(https://www.mindat.org; accessed on 24 October 2022) reveals that globally carnelian
+occurs most commonly in weakly to unmetamorphosed volcanic rocks, with a large number
+of occurrences in basalt of varying geologic ages. Carnelian is also present in sedimentary
+rocks, such as the Miocene conglomerate of the Babaguru Formation in India [4] and the
+Proterozoic Salmi Formation in Karelia, Russia [8], which is composed of material eroded
+from the underlying Deccan and Priozersk basalts, respectively, and also in stream gravels
+derived from erosion of these host rocks.
+Carnelian in New Jersey is present only in the central part of the Mesozoic Newark rift
+basin (Figure 1) at a few closely spaced locations mainly along Green Brook and Stirling
+Brook (Figure 2). Information is lacking on the ﬁrst ﬁnd of carnelian in the study area,
+Minerals 2023, 13, 1249. https://doi.org/10.3390/min13101249
+https://www.mdpi.com/journal/minerals
+
+
+===== PAGE 2 =====
+Minerals 2023, 13, 1249
+2 of 22
+or on the early history of its collection there, beyond a brief mention of its occurrence in
+mineral collecting guides from the middle 1900s [9,10]. Varieties of quartz reported from
+the Newark basin in New Jersey include amethyst, smoky quartz, clear quartz crystals, pale-
+colored chalcedony, and agate in the Jurassic basalt formations [11], and amethyst, milky
+quartz, clear quartz crystals, pale-colored chalcedony, and opal in Jurassic diabase and
+references therein [12]. No reference is made to carnelian or other synonymous names such
+as cornelian, red chalcedony, or sard in any of the New Jersey mineral inventories [13–15]
+or studies on the occurrence and diversity of zeolites and associated secondary minerals in
+basalt and diabase in the Newark basin [11,12,16–21].
+We are unaware of any prior scientiﬁc inquiries undertaken to study carnelians in
+New Jersey, and this paper presents the results of the ﬁrst detailed study of samples
+collected from locations at Green Brook and Stirling Brook (Figure 2). This study was
+designed to characterize carnelian in the context of the ﬁeld relationships of host bedrock
+and surﬁcial lithologies, in combination with results from optical petrographic microscopy,
+X-ray diffraction (XRD) analysis, major and trace element geochemistry, and oxygen isotope
+analysis. Collectively, these data provide important constraints on the provenance of the
+carnelian, as well as the characteristics and source of the mineralizing ﬂuid from which
+it precipitated. Although carnelian has not been recognized in situ in bedrock in the
+study area, the results of this study provide adequate information from which reasonable
+interpretations regarding its origin may be made. We refer to the samples of this study as
+carnelian because of their predominant red color, although we recognize they could also
+correctly be termed a red-colored variety of chalcedony.
+2. Geologic Setting
+The Mesozoic Newark basin in northern and central New Jersey is a northeast-trending
+half-graben formed during Triassic and Jurassic rifting of the eastern North American
+margin. It is in fault contact on the west with Mesoproterozoic rocks of the New Jersey
+Highlands and is unconformably overlain on the east by Cretaceous sediments of the
+Atlantic Coastal Plain (Figure 1). The Newark basin contains a succession of west-dipping,
+interbedded terrestrial sedimentary formations, and maﬁc igneous rocks. These include
+Upper Triassic to Lower Jurassic conglomerate, sandstone, siltstone, and shale of ﬂuvial
+and lacustrine origin, three Lower Jurassic continental ﬂood basalt formations (Orange
+Mountain Basalt, Preakness Basalt, and Hook Mountain Basalt), and several Lower Jurassic
+diabase bodies, the largest of which is the Palisades sill (Figure 1).
+Bedrock formations in the area of the carnelian locations include the sedimentary
+Feltville Formation and the overlying Preakness Basalt (Figure 2). The 145 m thick Feltville
+Formation consists of reddish-brown or light-grayish-red, ﬁne- to coarse-grained sandstone,
+siltstone, and silty shale composed of varied amounts of quartz, white mica, and feldspar
+that was deposited in a ﬂuvial environment [22,23]. Near the base of the Feltville are
+two 3 m thick sequences of dark gray to black, carbonaceous shale, light-gray limestone,
+calcareous siltstone, and gray or olive shale deposited in a shallow- to deep-water lacustrine
+setting [22–24]. About 0.5 m of the uppermost beds of the formation are thermally altered
+along the contact with the Preakness Basalt.
+The 315 m thick Preakness Basalt has a geochemical composition that corresponds to
+high-iron, quartz-normative tholeiitic basalt (Table 1). It consists of at least three ﬂows of
+subaerially erupted dark greenish-gray to black, generally ﬁne-grained basalt that yield
+a zircon U-Pb crystallization age of 201 ± 0.03 Ma [25]. It contains (modal%) 45%–51%
+andesine or labradorite, 38%–44% augite, 4%–6% Fe-Ti oxides, and 3%–6% mesostasis
+composed of ﬁne-grained intergrown plagioclase, K-feldspar, Fe-Ti oxides, apatite, quartz,
+and altered clinopyroxene [26]. Zeolites are rare in the Preakness compared to their
+abundance in the stratigraphically overlying Hook Mountain Basalt and the underlying
+Orange Mountain Basalt. The base of the 125 to 145 m thick Preakness ﬁrst ﬂow contains
+vertical, slender, and prismatic columnar joints up to 0.5 m wide and 6 m long [27] that rest
+on the contact with the Feltville Formation. At several locations, including the study area,
+
+
+===== PAGE 3 =====
+Minerals 2023, 13, 1249
+3 of 22
+the base of the ﬁrst ﬂow is pillowed and vesicular [22,28,29], indicating a local subaqueous
+eruption. Where present, pillows are as much as 0.6–0.9 m in diameter and occur over a
+3- to 10- m- thick interval [28,29]. They are in contact with an intercalated layer of gray or
+brown basaltic glass as much as 2.5 cm thick [30]. The pillowed intervals are overlain by
+slender columnar jointed basalt that elsewhere deﬁnes the base of the ﬁrst ﬂow.
+Figure 1. (a) Distribution of Mesozoic-age rift basins (green) in eastern North America. Small inset
+maps locate New Jersey (asterisk) in the United States and the Newark basin in northern New Jersey.
+(b) Simpliﬁed bedrock geologic map of igneous (gray) and sedimentary formations (red) in the
+northern and central parts of the Newark basin modiﬁed from [31]. Symbols: Jd, Palisades diabase;
+Tru, undivided Triassic sedimentary formations; Jo, Orange Mountain Basalt; Jf, Feltville Formation;
+Jp, Preakness Basalt; Jt, Towaco Formation; Jh, Hook Mountain Basalt; Jb, Boonton Formation; Yu,
+undivided Mesoproterozoic rocks. U and D show normal movement sense on the Mesozoic border
+fault separating Mesoproterozoic rocks and Mesozoic rocks in the Newark basin.
+
+
+===== PAGE 4 =====
+Minerals 2023, 13, 1249
+4 of 22
+Coarse-grained gabbroid (Figure 3a) forms concordant layers that are as much as
+80 m thick within the middle and upper parts of the ﬁrst ﬂow (Figure 2). Gabbroid
+layers have sharp upper contacts and gradational lower contacts with the host basalt from
+which it was formed through fractionation [26]. The geochemical composition of gabbroid
+and intercalated glass-rich gabbroid is given in Table 1. The mineralogy of gabbroid is
+comparable to that of ﬁne-grained host basalt except for the coarse grain size in which
+clinopyroxene and plagioclase attain lengths of up to 2 cm. Gabbroid layers 12–36 m
+beneath the top of the ﬁrst ﬂow contain dark red or black vitreous glass (Figure 3b). The
+uppermost part of the ﬁrst ﬂow consists of blocky and massive basalt overlain at the top by
+a highly vesicular and amygdaloidal layer ~2.5 m thick (Figure 3c).
+Table 1. Geochemical composition of lithologies in the Preakness Basalt.
+Basalt;
+First Flow
+Base
+(n = 4)
+Basalt;
+20–75 m
+above Base
+(n = 17)
+Gabbroid;
+85–130 m
+above Base
+(n = 5)
+Glass-Rich
+Gabbroid
+(n = 2)
+Vesicular
+Gabbroid
+140 m
+above Base
+(n = 2)
+Basalt;
+25 m above
+Gabbroid
+(n = 2)
+Basalt;
+Top of
+First Flow
+(n = 2)
+Basalt;
+Second
+Flow
+Base
+(n = 1)
+SiO2
+51.59
+52.43
+53.35
+53.48
+53.93
+52.72
+50.30
+52.75
+TiO2
+1.05
+0.91
+1.38
+1.15
+1.74
+1.05
+1.06
+1.09
+Al2O3
+14.35
+14.42
+12.18
+10.62
+10.58
+13.91
+12.97
+13.95
+Fe2O3t
+13.19
+11.81
+14.63
+15.34
+16.66
+13.59
+13.65
+13.19
+MnO
+0.21
+0.20
+0.22
+0.23
+0.25
+0.21
+0.24
+0.22
+MgO
+5.54
+6.33
+4.75
+3.41
+3.92
+5.48
+8.01
+6.04
+CaO
+10.90
+9.50
+7.05
+7.88
+5.72
+8.52
+6.79
+10.05
+Na2O
+2.98
+3.03
+3.69
+4.51
+2.77
+3.54
+3.97
+2.49
+K2O
+0.62
+0.69
+0.46
+0.06
+1.10
+0.79
+0.37
+0.62
+P2O5
+0.14
+0.17
+0.20
+0.63
+0.33
+0.13
+0.18
+0.14
+LOI
+0.72
+0.89
+1.77
+2.33
+2.46
+0.85
+2.29
+n.d.
+Rb
+18
+24
+28
+n.d.
+n.d.
+25
+n.d.
+20
+Sr
+151
+143
+114
+69
+108
+152
+137
+132
+Y
+27
+27
+40
+n.d.
+n.d.
+27
+27
+26
+Zr
+87
+83
+122
+207
+168
+87
+93
+86
+Nb
+4.5
+3.8
+7.1
+n.d.
+n.d.
+4.3
+3.9
+4.7
+Hf
+2.3
+2.1
+3.8
+n.d.
+n.d.
+2.3
+2.1
+2.4
+Ta
+0.30
+0.34
+0.58
+n.d.
+n.d.
+0.34
+0.33
+0.40
+Pb
+6.0
+6.0
+5.3
+n.d.
+n.d.
+4.0
+7.0
+6.0
+Th
+2.0
+2.0
+4.0
+n.d.
+n.d.
+2.0
+2.0
+2.0
+Major elements in wt.%; trace elements in ppm; Fe2O3t, total iron as Fe2O3; LOI, loss on ignition; n, number of
+samples; n.d., not determined. Data sources: [26,32].
+The ﬁrst and second Preakness ﬂows are separated by ~2–3 m of thin-bedded, reddish-
+brown, fluvial siltstone and shale (Jps1) deposited on the top of the first flow (Figures 2 and 3c).
+The base of the 70 m thick second ﬂow typically consists of massive basalt containing pipe
+vesicles overlain by widely spaced, blocky, columnar joints. The rest of the second ﬂow is
+composed of relatively massive basalt intercalated with a few very thin gabbroid layers.
+3. Methods
+Three samples of carnelian from Green Brook, two red and one reddish-orange, and
+two samples from Stirling Brook, one reddish-orange and one yellow, were analyzed at
+Montclair State University on a Philips X’Pert MPD X-ray diffractometer. Samples were wet
+ground in a porcelain mortar in acetone and powdered to ≤200 mesh. They were analyzed
+using CuKα radiation, with runs between 5◦and 75◦2θ at 45 kV and 40 mA at a step size of
+0.02◦and a scan rate of 1.2◦/min. The crystallite size of the 101 quartz peak was calculated
+using the Scherrer equation Kλ/(βcosθ), in which K is a dimensionless shape factor = 0.94,
+λ is the wavelength in Å of CuKα = 1.5418, β is the full width at half maximum (FWHM)
+◦2θ, and θ is 1
+2 of the 101 peak position ◦2θ. The lattice microstrain was calculated using
+the equation β/4tanθ, in which β is the FWHM ◦2θ and θ is the 101 peak position in ◦2θ.
+
+
+===== PAGE 5 =====
+Minerals 2023, 13, 1249
+5 of 22
+Because of insufﬁcient sample material from Stirling Brook, three samples of red
+carnelian from Green Brook were analyzed for major, trace element, and REE abundances
+at Activation Laboratories in Ontario, Canada. The samples were pulverized to 95%
+200 mesh in a mild steel mill. Powders underwent lithium metaborate/tetraborate fusion
+followed by rapid digestion in a weak nitric acid solution. Whole-rock analysis of major
+elements, Sc, V, Sr, and Ba, was determined by inductively coupled plasma (ICP) optical
+emission spectrometry. All other trace elements and REE were analyzed by ICP mass
+spectrometry. Loss on ignition was determined by gravimetric analysis.
+ 
+Figure 2. Bedrock geologic relationships in the study area modiﬁed from [33]. Carnelian sample
+locations (shown as asterisks) are labeled GBR (Green Brook) and SGB (Stirling Brook) and are keyed
+to samples in Tables 2–4. Jpg, gabbroid bodies; Jps1, the sedimentary layer deposited on top of the
+ﬁrst Preakness ﬂow. Other symbols as in Figure 1.
+Six samples of carnelian from Green Brook, three red, one reddish-orange, and two yel-
+low, were analyzed for oxygen isotope ratios at the Stable Isotope Laboratory at Northern
+Illinois University. Carnelian separates weighing 1.0–1.5 mg were heated with a PhotonMa-
+chines Fusions 10.6µm CO2 laser in the presence of 10 kPa of BrF5 to generate O2 gas [34].
+Oxygen was transferred cryogenically by adsorption on a zeolite trap to a Thermo MAT253
+isotope ratio mass spectrometer for analysis. δ18O is reported in conventional per mil
+values relative to Vienna Standard Mean Ocean Water (VSMOW) and calibrated to IAEA
+quartz standard NBS-28 (δ18O = 9.6‰) and an internal quartz standard (δ18O = 18.2‰).
+
+
+===== PAGE 6 =====
+Minerals 2023, 13, 1249
+6 of 22
+Five out of the six samples analyzed were duplicated or triplicated. On the day of analysis,
+NBS-28 had an average precision (1σ) of ±0.11‰ (n = 4), and the internal standard had an
+average precision of ±0.10‰ (n = 3).
+4. Carnelian
+4.1. Field Relationships
+Carnelian in the study area is recognized from only a few closely spaced locations that
+are underlain by the Preakness Basalt, and more speciﬁcally by coarse-grained gabbroid
+in the upper part of the ﬁrst ﬂow (Figure 2). Gabbroid is intermittently exposed at these
+locations as small outcrops along stream banks or pavement outcrops in stream beds
+(Figure 3d). Gabbroid attains a calculated thickness of about 82 m at Green Brook and 49 m
+at Stirling Brook, the former being one of the thickest bodies recorded in the Preakness in
+the Newark basin. The trend of the carnelian locations falls along a prominent northeast-
+striking valley that is bordered by ridges to the northwest and southeast. These ridges
+are underlain by the Preakness and are concordant to the strike of outcropping bedrock
+formations (Figure 2). The western ridge is underlain by the second ﬂow and the eastern
+ridge by the ﬁrst ﬂow and intercalated gabbroid layers. The western part of the valley
+between the ridge crests marks the eroded top of the ﬁrst ﬂow that was subaerially exposed
+at 201 Ma long enough for ~2 m of sediment to have been deposited on the vesicular ﬂow
+top (Figure 3c) prior to the eruption of the second ﬂow.
+Much of the bedrock in the study area is covered by a veneer of weathered basalt and
+colluvium as much as 18 m thick composed of angular to subangular basalt pebbles and
+cobbles with a clayey silt to clayey sand matrix [35]. On gentle footslopes and ﬂoodplains,
+colluvium and weathered basalt are overlain by up to 3 m of alluvium composed of silty
+sand to clayey silt [35]. Carnelian is found principally in ﬂuvial gravel bars deposited
+on gabbroid in Green Brook (Figure 3d) and Stirling Brook. Gravel bars at the carnelian
+locations are composed entirely of Preakness Basalt and gabbroid (Figure 3e). Absent in the
+gravel is reddish-brown sediment eroded from the Feltville Formation or the thin layer of
+sediment that separates the ﬁrst and second Preakness ﬂows. At Stirling Brook, carnelian is
+also present in ﬁne-grained alluvium and slope wash deposited on a gentle terrace adjacent
+to the stream (Figure 3f).
+It is particularly noteworthy that the carnelian locations are present south of the
+Wisconsinan terminal moraine and occur outside the basins of glacial lakes. The Stirling
+Brook location (SGB in Figure 2) is south of the limit of an early Pleistocene glaciation,
+and no glacial erratics have been observed in its drainage basin. The headwaters of the
+northeastern tributary of Green Brook (northeast of GBR in Figure 2) are within the early
+Pleistocene glacial limit because there is an occurrence of till of this glaciation there [35].
+However, carnelian has not been observed nor reported in this till. The southwestern
+tributary of Green Brook (on which GBR is located in Figure 2) drains from unglaciated
+terrain, and no erratic material occurs in its basin. These observations indicate that carnelian
+was derived from a local source and that it was not glacially eroded and transported from
+Mesozoic or older bedrock lithologies that crop out to the north or west.
+4.2. Provenance of New Jersey Carnelian
+Because carnelian has not been observed in situ in bedrock outcrops in the study area,
+it was necessary to evaluate a number of potential sources. Parts of the Newark basin in
+New Jersey were inhabited historically by Lenni Lenape Indigenous peoples, so we ﬁrst
+considered that carnelian may have been imported to the study area through trade from
+outside of the region. This seems unlikely for several reasons. If carnelian was introduced
+as a product of trade, then it should be found over a more widespread area and not conﬁned
+to the very small area of this study. Furthermore, none of the pieces of carnelian collected
+show evidence of having been worked, suggesting that smaller pieces are naturally sized
+and shaped and do not represent debitage. The archaeological literature for New Jersey
+mentions chert, ﬂint, and jasper but does not indicate that carnelian or red chalcedony
+
+
+===== PAGE 7 =====
+Minerals 2023, 13, 1249
+7 of 22
+were worked as lithic material by the Lenape [36]. We thus conclude that carnelian was not
+imported from outside of the study area.
+ 
+Figure 3. (a) Outcrop photograph of Preakness gabbroid from the study area representative of
+bedrock beneath the carnelian locations. The pencil is 14 cm. (b) Hand sample of glass-rich gabbroid
+from the study area. The coin is 19 mm. (c) Vesicular and amygdaloidal top of the Preakness ﬁrst
+ﬂow overlain above hammer by reddish-brown shale and shaly siltstone. (d) Preakness gabbroid
+along Green Brook in stream bank and stream bed. Angular to subangular gabbroid boulders in the
+channel were eroded from nearby outcrops. Small gravel bars are deposited on pavement outcrops
+of gabbroid in stream beds and between the boulders. (e) Fluvial gravel bar along Green Brook
+composed of mainly cobble- to coarse-gravel-size alluvium of Preakness Basalt and gabbroid. Finer
+gravel has been winnowed out and transported downstream during times of stream ﬂooding. (f) Pits
+dug by collectors into alluvium and colluvium deposited near the base of the slope along Stirling
+Brook (visible in the top center of the photo). Carnelian is also found in gravel bars in the stream bed.
+Carnelian may have formed as a silica-rich layer or part of a clast population within a
+sedimentary formation in, or near, the study area. However, the available evidence does
+not support a sedimentary provenance on the basis of the following. Carnelian has not been
+
+
+===== PAGE 8 =====
+Minerals 2023, 13, 1249
+8 of 22
+recognized in nodules or siliceous layers in sedimentary formations of the Newark basin,
+either in outcrop or in drill-core samples that have penetrated their entire thickness [24,31].
+More speciﬁcally, it is not recognized in sedimentary formations in the study area [33].
+Therefore, the siliciﬁcation of carbonate-rich beds or the complete replacement of carbonate
+nodules by silica in a manner described by [37] is not supported by geologic relationships.
+Furthermore, carnelian or red chalcedony is not a lithologic component of clasts in any of
+the conglomerates or pebbly sandstones in the Newark basin. Finally, eroded remnants
+of sedimentary rock that occur stratigraphically above, beneath, or within the Preakness
+Basalt are absent in the stream gravels in which carnelian is found.
+The Orange Mountain Basalt (Figure 2) contains abundant zeolite and secondary
+silica mineralization in vesicles, vugs, and interstices between pillows. The ﬁrst ﬂow
+has undergone locally extensive hydrothermal alteration [38], and glauberite casts are
+recognized in pillowed intervals in the upper part of the basalt [11,19,21,22]. It is tempting to
+invoke the Orange Mountain as the source of carnelian, but there are fundamental problems
+in doing so. Carnelian is not recognized in Orange Mountain Basalt despite excellent
+exposure of the entire thickness of the basalt formation in a quarry <2 km southeast of the
+study area. Additionally, the development of the deep valley between Orange Mountain
+and Preakness Basalt that is underlain by the Feltville Formation preceded the formation of
+the valleys in which carnelian is present because they are drained by headwater tributaries
+of the streams in the intermontaine valleys (Figure 2). This would have prevented any river
+ﬂow or material eroded from Orange Mountain and Feltville from entering the valleys of
+the study area. This is evidenced by the fact that the basalt colluvium mixed with carnelian
+is representative of the Preakness but not Orange Mountain or Feltville Formation.
+We conclude that Preakness Basalt is the source of the carnelian based on the available
+evidence. Streams in the valley in which carnelian is found have historically received
+bedrock eroded from outcrops of the Preakness ﬁrst and second ﬂows (Figure 2). The loca-
+tion of carnelian occurrences in ﬂuvial gravel deposited on pavement outcrops of Preakness
+gabbroid and also at the foot of hillslopes underlain by the Preakness in unglaciated terrain
+strongly suggest that carnelian originated from this basalt formation. Neogene ﬂuvial grav-
+els, containing rounded pebbles of quartz, quartzite, and chert, in upland settings in central
+New Jersey south of the study area (and south of the Lower Jurassic basalt formations),
+indicate that a regional river drained southward across northeastern New Jersey in the
+middle to late Miocene [39]. This river plain was at, or above, the elevation of the highest
+summits of the basalt ridges and >50 m above the elevation of the carnelian locations. Any
+gravel carried by this river would have been completely eroded during the formation of
+the modern valleys during the Pliocene and Pleistocene, and no Neogene ﬂuvial gravel
+clasts have been observed in the upland areas of the basalt formations. Furthermore, the
+absence of signiﬁcant abrasion and rounding of the carnelian pieces, in combination with
+the preservation of features. such as botryoidal textures and glauberite molds, do not
+support the long-distance ﬂuvial transport of carnelian and are more compatible with its
+derivation from a local source.
+Two different scenarios are advanced to explain the apparent absence of carnelian
+in Preakness Basalt or gabbroid outcrops at the present erosion level. (1) Over time,
+carnelian was largely removed from the bedrock source through erosion, and what remains
+is preserved in gravel bars and ﬂuvial sediments; or (2) carnelian continues to be eroded
+from the bedrock source that is now covered in stream beds by a veneer of alluvium and
+is replenished periodically during times of erosive stream ﬂooding. The second scenario
+seems more likely given that carnelian continues to be found despite decades of robust
+collecting.
+4.3. Physical Characteristics
+Samples of carnelian are massive and compact, translucent, have a waxy luster, and
+are microcrystalline. They are mainly colored red (Figure 4a) and much less commonly
+reddish-orange or yellow. Banding is absent in all pieces collected, and none contain
+
+
+===== PAGE 9 =====
+Minerals 2023, 13, 1249
+9 of 22
+macroscopic quartz crystals. Carnelian pieces are subangular to subrounded (Figure 4a),
+and they vary in diameter from 1.0 to 5.5 cm, corresponding to a medium to very coarse
+pebble gravel. Various features are recognized in the carnelian samples, but these are not
+present in all pieces. A vesicular texture that is convex upward into the carnelian (Figure 4b)
+appears to be an attachment surface to the bedrock, suggesting that it likely precipitated
+over an amygdaloidal layer. Some pieces display a botryoidal texture (Figure 4c) presumed
+to have formed on upper surfaces. Molds of dissolved glauberite crystals as much as 4 mm
+wide and 1.5 cm long (Figure 4d) around which the carnelian formed are preserved on some
+surfaces. The identiﬁcation of glauberite was made through comparison with images of
+similar glauberite crystals from the Newark basin featured in previous publications [11,40].
+ 
+Figure 4. Representative features preserved on surfaces of carnelian from Green Brook. (a) Char-
+acteristic pieces of reddish-brown to red, subangular to subrounded, pebble gravel. (b) The lower
+surface displays a spheroidal, convex-upward texture presumed to have formed along an attachment
+surface on amygdaloidal basalt. (c) Botryoidal texture preserved on upper surfaces. (d) Lower surface
+displaying molds of glauberite.
+4.4. Optical Petrographic Microscopy and X-ray Diffractometry
+A representative sample of red carnelian from Green Brook was examined by optical
+petrographic microscopy, and the micrographs are presented in Figure 5. The sample is
+composed of microcrystalline quartz in which individual parallel ﬁbrous bundles nucleate
+from an attachment surface and display elongated growth that intersects adjacent bundles
+(Figure 5a). These ﬁber bundles are optically length fast. They are in contact along the
+direction of elongation with repetitive extinction bands that have a zig-zag appearance due
+
+
+===== PAGE 10 =====
+Minerals 2023, 13, 1249
+10 of 22
+to twisting around the ﬁber axis (Figure 5b). The thickness, or twist period, remains fairly
+uniform along the entire ﬁber length.
+ 
+Figure 5. Optical photomicrographs in cross-polarized light showing the microstructure of carnelian
+from Green Brook (sample GBR 1). (a) Length-fast parallel ﬁbrous bundles nucleating from a thin
+band of microcrystalline quartz presumed to be an attachment surface to basalt. The ﬁber elongation
+direction is toward the upper right. (b) Parallel aggregates of twisted ﬁbers showing rhythmic
+extinction bands (wrinkle bands). The direction of elongation is toward the bottom. The horizontal
+ﬁeld of view is 2 mm in both photomicrographs.
+XRD patterns of all carnelian sampled from the Green Brook and Stirling Brook loca-
+tions are similar and are dominated by major peaks of α-quartz at 3.34–3.32 Å, 4.25–4.23 Å,
+and 1.81 Å (Figure 6). Also observed are minor peaks at 4.45 Å, 4.38 Å, 3.09 Å, and 2.88 Å
+that correspond to the length-slow silica polymorph moganite [41,42]. Between about 20◦
+and 60◦, 2θ all of the XRD patterns display additional small peaks that also correspond to
+moganite (Figure 6). Especially signiﬁcant is the fact that none of the forms of opal (C, CT,
+or A), cristobalite, or calcite were identiﬁed in the XRD patterns.
+Quantiﬁcation of the moganite content in the carnelian sampled was not performed
+but must be at least 5% because at contents less than that moganite peaks are unable to
+be resolved from quartz peaks [43]. The recognition of moganite in association with the
+sampled carnelian is noteworthy because to the best of our knowledge moganite has not
+been reported previously in New Jersey. However, a carnelian/moganite association is not
+unique and has been identiﬁed in carnelian analyzed from Libya that contains between
+3 and 20% moganite [6]. Moganite is also reported as a common component in global
+occurrences of agate [43].
+The crystallite size of carnelian was calculated from the 101 quartz peak using the
+Scherrer equation (see the Methods section) that yielded values of 434–542 Å for samples
+from Stirling Brook and 228–333 Å from Green Brook (Table 2). Calculation of the crystal
+microstrain (lattice dislocations and point defects; see the Methods section) reveals a similar
+variation between the two locations, with lower values of 0.078–0.098 in samples from
+Stirling Brook compared to values of 0.126–0.184 in samples from Green Brook (Table 2).
+Variation in the crystallite size between the Stirling Brook and Green Brook samples is
+not due to differences in the temperature or pH of the mineralizing ﬂuid or the age
+of the samples because the geochemical data indicate that precipitation occurred under
+comparable conditions, and the ﬁeld relationships imply that their formation was roughly
+contemporaneous. We interpret variation in the crystallite size of the samples as a result
+of the moganite content and amount of lattice microstrain. Moganite is metastable and
+transforms into a more stable α-quartz through dissolution and loss of internal water as it
+recrystallizes [43]. Its transformation is also enhanced by decreases in the amount of silica
+in the ﬂuid and in the amount of lattice defects present [44]. All carnelian samples have
+similar values of SiO2, so this is probably not a factor, but samples from Green Brook have a
+higher percent of lattice microstrain (Table 2). A correlation between the broadening of the
+
+
+===== PAGE 11 =====
+Minerals 2023, 13, 1249
+11 of 22
+100 quartz peak at ~20◦2θ and the increased amount of moganite was found by [45]. Peak
+broadening in all varieties of microﬁbrous quartz is also attributed to small crystallite size
+and increased lattice microstrain [46]. Carnelian from Green Brook displays a broadened
+peak width (Figure 6) that is consistent with higher amounts of moganite and lattice
+microstrain compared to the samples from Stirling Brook.
+Figure 6. X-ray diffraction patterns of carnelian from New Jersey. (a) Sample GBR 1 from Green
+Brook. (b) Sample SGB 1 from Stirling Brook. The principal index peaks of quartz (Q) are shown in
+blue and moganite (M) is shown in green.
+
+
+===== PAGE 12 =====
+Minerals 2023, 13, 1249
+12 of 22
+Table 2. Characterization of crystallite size and microstrain from the 101 peaks of the carnelian
+samples from Green Brook (GBR) and Stirling Brook (SGB).
+Sample
+Position ◦2θ
+FWHM ◦2θ
+C(s) Å
+Lattice Strain %
+GBR-1
+26.638
+0.3346
+255
+0.165
+GBR-2
+26.805
+0.2558
+333
+0.126
+GBR-3
+26.644
+0.3739
+228
+0.184
+SGB-1
+26.635
+0.1968
+434
+0.098
+SGB-2
+26.633
+0.1574
+542
+0.078
+FWHM, full width at half maximum of the peak; C(s), crystallite size.
+4.5. Geochemistry
+The geochemical analyses of the carnelian samples are provided in Table 3. Major ele-
+ments are dominated by SiO2 and Fe2O3, which average 97.51 ± 0.31 and 1.09 ± 0.07 wt.%,
+respectively. Loss on ignition (LOI) is also high and averages 1.27 ± 0.21 wt.%. Elements
+such as Al2O3 and TiO2 that readily substitute for Si in the quartz structure are quite
+low, averaging <0.2 and <0.01 wt.%, respectively, as are the rest of the major elements
+that are present in amounts <0.07 wt.% (Figure 7). Abundances of transition elements
+all fall below the analytical detection limits. Values of most other trace elements are low
+except for Y (5–94 ppm), Nb (68–260 ppm), Ta (14–51 ppm), W (5–19 ppm), Th (8–48 ppm),
+and U (14–77 ppm). The REE are present in amounts above detection limits, and total
+REE abundances (ΣREE) range from 15 to 85 ppm. Chondrite-normalized REE patterns
+are parallel and display a progressive increase from La to Lu that differs markedly from
+average Preakness Basalt and gabbroid (Figure 8a). All of the samples are signiﬁcantly
+enriched in heavy REE (HREE) relative to light REE (LREE) (Figure 8a) and have (La/Yb)N
+of 0.01–0.02, (La/Sm)N of 0.05–0.12, and a (Gd/Yb)N of 0.11–0.60, normalized to chondrite.
+The samples have large negative Eu anomalies of 0.020–0.026 and nominal Ce anomalies of
+0.87–1.01 (Table 3). Yttrium is fractionated from Ho in all samples and displays negative
+anomalies in two samples (Y/Ho = 3.9–7.9) and a small positive anomaly in the third
+(Y/Ho = 29.4) compared to chondrite and MORB that have Y/Ho of 27.7 [47]. Abundances
+of incompatible elements normalized to the upper continental crust display similar patterns
+that are characterized by negative anomalies of Rb, Ba, La, Sr, and Ti and positive anomalies
+of Th, U, Nb, and Ta (Figure 8b). The very low values of CaO and Sr in the carnelian are
+consistent with the absence of associated carbonate minerals.
+Numerous investigations have shown that the red color of chalcedony, and by ex-
+tension carnelian, is attributed to inclusions of Fe-oxide/hydroxide minerals [48,49], and
+more speciﬁcally to hematite [44,50]. Studies involving spectroscopic analysis of agate
+reveal a correlation between increased hematite concentrations in layers colored red or
+reddish-orange and increased goethite concentrations in those colored yellow [44]. We
+propose that the presence of hematite and/or goethite are responsible for the predominant
+red and less common yellow color, respectively, in the New Jersey carnelian. The presence
+of rutile is dismissed because of the extremely low values of TiO2 (Table 3).
+
+
+===== PAGE 13 =====
+Minerals 2023, 13, 1249
+13 of 22
+Table 3. Major and trace element concentrations of the carnelian samples from Green Brook.
+Sample
+GBR-02-1
+GBR-02-2
+GBR-02-3
+Sample
+GBR-02-1
+GBR-02-2
+GBR-02-3
+SiO2 (wt.%)
+97.86
+97.37
+97.29
+La
+0.76
+0.35
+0.09
+TiO2
+0.012
+0.006
+0.005
+Ce
+3.65
+2.02
+0.58
+Al2O3
+0.18
+0.15
+0.10
+Pr
+0.82
+0.57
+0.14
+Fe2O3
+1.06
+1.18
+1.04
+Nd
+4.69
+4.46
+0.71
+MnO
+0.013
+0.014
+0.012
+Sm
+3.90
+4.64
+0.67
+MgO
+0.01
+0.01
+0.01
+Eu
+0.033
+0.04
+0.005
+CaO
+0.07
+0.04
+0.03
+Gd
+3.82
+7.92
+0.68
+Na2O
+0.05
+0.07
+0.07
+Tb
+1.69
+2.06
+0.28
+K2O
+0.02
+0.03
+0.03
+Dy
+15.60
+15.30
+2.64
+P2O5
+0.01
+0.01
+0.01
+Ho
+3.74
+3.19
+0.59
+LOI
+1.03
+1.36
+1.41
+Er
+14.10
+9.99
+2.47
+Total
+100.31
+100.24
+100.01
+Tm
+3.21
+1.55
+0.556
+Ga (ppm)
+2.0
+1.0
+1.0
+Yb
+25
+10.50
+5.09
+Ge
+0.9
+4.6
+2.9
+Lu
+3.98
+1.44
+0.768
+Rb
+1.0
+1.0
+1.0
+Hf
+1.5
+0.2
+0.3
+Sr
+4.0
+3.0
+3.0
+Ta
+51.1
+41.4
+14.4
+Y
+14.6
+93.9
+4.7
+W
+18.7
+5.1
+5.8
+Zr
+19
+4.0
+6.0
+Pb
+15
+32
+<5.0
+Nb
+260
+158
+68.3
+Th
+48.2
+19.9
+7.94
+Sn
+5.0
+1.0
+1.0
+U
+76.6
+30.9
+13.7
+Sb
+<0.2
+<0.2
+0.2
+ΣREE
+84.99
+64.03
+15.27
+Ba
+19
+12
+11
+Ce/Ce*
+1.00
+0.87
+1.01
+Sr
+4.0
+3.0
+3.0
+Eu/Eu*
+0.026
+0.020
+0.023
+Fe2O3, total iron as Fe2O3; LOI, loss on ignition. Ce/Ce* = 2CeN/(LaN + PrN); Eu/Eu* = EuN/[(SmN + GdN)/2],
+normalized to chondrite values of [51].
+Figure 7. Plots of major element abundances (wt.%) in carnelian from Green Brook. Sample numbers
+are keyed to Table 3.
+
+
+===== PAGE 14 =====
+Minerals 2023, 13, 1249
+14 of 22
+ 
+Figure 8. (a) Chondrite-normalized REE patterns of carnelian from Green Brook (solid circles) com-
+pared to Preakness Basalt (open circles) and Preakness gabbroid (open triangles). REE normalization
+values are from [51]. Basalt and gabbroid data are from [32]. (b) Upper continental crust-normalized
+multielement diagram of carnelian from Green Brook. Normalization values are from [52].
+4.6. Oxygen Isotopes
+Oxygen isotope analyses of carnelian samples yield high δ18OVSMOW values that range
+from +18.3 to +31.2‰ (Table 4), with all but one sample having an δ18O of +27.9 to +31.2‰.
+The analytical precision (1σ) is ±0.06‰ in two samples and ±0.21 to 0.64‰ in the other
+four (Table 4)O compared to ±0.1‰ for the standards, indicating isotopic heterogeneity,
+particularly in GBR-3 and GBR-4. The reasons for this heterogeneity between the samples
+are discussed later in this paper (see Section 5.3). It is noteworthy that no correlation was
+observed between the δ18O of the samples and their geographic location or their color.
+Our data fall within the range of oxygen isotope values of chalcedony hosted by
+volcanic rocks globally (Figure 9). Because of the paucity of published mineralogical
+studies of carnelian, it was necessary to compare our δ18O data to global occurrences of
+basalt-hosted chalcedony and/or agate, examples of which include the following. δ18O
+values of +22.1 to +28.8‰ are reported from agate in Jurassic quartz latite in Namibia [53].
+Chalcedony from the Jurassic Karoo basalt in South Africa yielded δ18O values of +20.1
+to +21.2‰ [54]. Agate hosted by Eocene to Miocene volcanic rocks in Iran provided δ18O
+values of +23.8 to +26.6‰ [55]. δ18O values of +24.5 to +30.3‰ are reported from agate
+in the Cretaceous Paraná basalt in Brazil [56], similar to δ18O of +21.2 to +31.1‰ from
+amethyst geodes in the same basalt in Uruguay [57], with early formed chalcedony typically
+occupying the upper end of this range. δ18O values of +16.4 to +33.4‰ were obtained from
+agate occurrences globally in a variety of felsic and maﬁc host rocks [47,58]. The variation
+of ~10‰ in the δ18O values of our study is, therefore, not unusual compared to the similar
+range of values of other studies.
+Table 4. Oxygen isotope results of carnelian from Green Brook.
+Sample
+(# of Analyses)
+Color
+δ18O
+(‰ VSMOW)
+Std. Dev.
+(1σ)
+Meteoric
+Water (◦C)
+Seawater
+(◦C)
+Magmatic
+Fluid (◦C)
+GBR-1 (n = 1)
+Red
++28.9‰
+--
+28
+50
+100
+GBR-2 (n = 2)
+Red
++31.2‰
+0.21
+19
+39
+82
+GBR-3 (n = 2)
+Red-orange
++29.9‰
+0.56
+24
+45
+92
+GBR-4 (n = 2)
+Red-orange
++27.8‰
+0.64
+32
+56
+108
+GBR-5 (n = 3)
+Yellow
++18.3‰
+0.06
+82
+121
+223
+GBR-6 (n = 3)
+Yellow
++30.5‰
+0.06
+21
+42
+88
+Calculated formation temperatures (◦C) based on δ18O of meteoric water (−5‰), seawater (0‰), and magmatic
+ﬂuid (+8‰). See text for details.
+
+
+===== PAGE 15 =====
+Minerals 2023, 13, 1249
+15 of 22
+ 
+Figure 9. A plot of the δ18O values of New Jersey carnelian compared to global occurrences of
+basalt-hosted chalcedony, agate [48,53,55–57], and carnelian [54].
+5. Discussion
+5.1. Source of Elements in Carnelian
+Most trace elements and REE, with the exception of Ga, Ge, and B, are unable to be
+structurally incorporated into the Si lattice and are incorporated in micro-inclusions in
+quartz or are adsorbed onto its surface [59]. Therefore, concentrations of trace elements
+and REE in the carnelian of this study provide important insights into the source of these
+elements. Nearly all trace elements and REE abundances differ from those in Preakness
+Basalt or gabbroid (Figure 8). In particular, Preakness Basalt and gabbroid contain much
+lower abundances of Th (2.0 ppm), Nb (4.2 ppm), and Ta (0.35 ppm) [33] compared to the
+values in carnelian (Table 3). Also of note are the high values of W and U in the carnelian
+(5–19 ppm and 14–76 ppm, respectively). Although W and U are not reported for maﬁc
+igneous rocks of the Newark basin, these values are typically low in basalt, averaging
+0.01–0.09 ppm W and 0.05–0.18 ppm U in mid-ocean-ridge basalt and 0.56 ppm W and
+1.02 ppm U in ocean island basalt [47].
+In New Jersey, trace element values that are comparable to those in the carnelian are
+found only in granulite to amphibolite facies Mesoproterozoic rocks and/or greenschist fa-
+cies Neoproterozoic rocks of the exposed New Jersey Highlands and their buried segments
+beneath the Newark basin. Widespread and abundant Mesoproterozoic felsic orthogneiss
+and paragneiss have high REE abundances and as much as 214 ppm U, 650 ppm Th,
+100 ppm Nb, 7.0 ppm Ta, and 4.0 ppm W, [60,61], and regionally abundant Mesoproterozoic
+low-Ti magnetite deposits locally contain elevated abundances of U, Th, and REEs [62–64].
+Additionally, Neoproterozoic hematitic ironstone deposits contain as much as 100 ppm
+U, 45 ppm Th, and 300 ppm W [65]. Elevated Fe abundances in the carnelian were likely
+sourced from various Proterozoic lithologies and/or ore deposits that oxidized Fe2+ to
+Fe3+ under near-surface conditions. The leaching of Fe-rich Mesoproterozoic lithologies
+at depth by hydrothermal ﬂuids is shown to be the source of Fe and other metals in the
+Neoproterozoic ironstone deposits in New Jersey [65]. Although high ﬁeld strength ele-
+ments are often considered to be immobile, they are shown to have increased solubility in
+acidic ﬂuids or ﬂuids containing Cl and F [66–68]. Halogens are particularly abundant in
+Mesoproterozoic orthogneiss that contains Cl in amphibole and widespread occurrences of
+scapolite, whereas F is present in ﬂuorapatite, which is commonly found in the numerous
+regional magnetite deposits.
+For these reasons, we interpret Proterozoic rocks to be the likely source for the elevated
+abundance of most elements in the carnelian. This means that during the Jurassic, certain
+physicochemical conditions existed, such as extensional brittle faults that would have
+permitted ascending ﬂuids to egress to the Preakness, as well as deeply circulating heated
+ﬂuids capable of enhancing mineral solubility and mobilizing elements from basement
+
+
+===== PAGE 16 =====
+Minerals 2023, 13, 1249
+16 of 22
+lithologies. The ﬁrst condition is met by the presence of intrabasinal extensional faults that
+were active during the Triassic and Jurassic and references therein [69]. The second condi-
+tion is supported by the downward ﬂow of meteoric water during the Triassic and Jurassic
+along the border fault separating the Proterozoic rocks from the Newark basin (Figure 1),
+followed by convective circulation and ascent as hydrothermal ﬂuid at temperatures of
+150–280 ◦C [70] and 137–232 ◦C [71] from ﬂuid inclusion studies of anhydrite and calcite,
+respectively, and 100–250 ◦C from zircon and apatite ﬁssion-track analysis [72].
+The source of silica in the carnelian is less straightforward, and sources external
+or internal to the Preakness were considered. Silica is a major component of siliceous
+sinters formed in a terrestrial hot spring/geyser environment. However, these deposits are
+mainly composed of some combination of opal-A, opal-CT, opal-C, and macroscopic quartz
+that typically lack an association with chalcedony [73,74] or do not directly precipitate
+chalcedony [75]. Opal is absent in all samples of New Jersey carnelian and features
+consistent with a siliceous sinter, such as those observed in Orange Mountain Basalt [38],
+are not recognized in the Preakness.
+Silica may have been derived through the partial dissolution of detrital quartz grains
+in the underlying Feltville Formation by alkaline ﬂuids. These reddish-brown clastic rocks
+are rich in quartz and contain abundant hematite that coats detrital grains and occurs
+in the rock matrix. A similar interpretation was made for siliciﬁed sand layers at the
+tops of ﬂows in the Paraná continental ﬂood basalt formed from the ﬂuidization of sand
+in the underlying Botucatu Formation that was transported in ~150 ◦C hydrothermal
+ﬂuids [76,77]. The injection of ﬂuidized sand into the Preakness as dikes, sills, or veins
+would have left remnant patches of non-bedded sediment or sediment-ﬁlled fractures in
+the basalt, which are not observed. Alternatively, the dissolution of detrital quartz grains
+may have released silica that reacted to form silicic acid, precipitating carnelian in the
+Preakness as the ﬂuid became silica saturated and leaving no sediment residue. This would
+have taken place under conditions of higher temperature than cool surface water and at
+pH > 4 necessary for the solubility of silica [37,78].
+We favor the devitriﬁcation of abundant glass in the gabbroid of the Preakness ﬁrst
+ﬂow as the source of silica in the carnelian for the following reasons. Silica-saturated
+ﬂuids may readily form through the hydrolysis of highly reactive basaltic glass by acidic
+ﬂuids [37,79]. The breakdown of interstitial glass in the basalt of the Paraná volcanic
+province was posited as the source of silica that ﬁlled large amethyst geodes there [80,81],
+and the alteration of basalt by a heated ﬂuid is interpreted to be the source of silica in
+agate in Cuba [82]. Numerous studies of basaltic glass alteration document initial losses in
+Al2O3, MgO, CaO, Na2O, and K2O [83–86]. Glass-rich gabbroid in the Preakness displays
+comparable depletions of up to 4.0 wt.% Al2O3, 3.0 wt.% MgO, 3.0 wt.% CaO, and 0.7 wt.%
+K2O compared to host Preakness Basalt (Table 1). The fact that carnelian is not found in,
+or associated with, the Preakness elsewhere in the Newark basin demands that unique
+conditions must have existed in the study area. We propose that these conditions are a
+result of the occurrence of the thickest gabbroid bodies recorded in the Preakness that
+contain a considerable volume of basaltic glass available to supply the silica. Although
+gabbroid bodies are recognized in the Preakness at other locations, they are much thinner,
+and the same physicochemical conditions that were present in the study area were not
+duplicated elsewhere in the Newark basin.
+5.2. Movement and Timing of Mineralizing Fluid
+We evaluated pathways in the Preakness that were most likely to have controlled the
+movement of ﬂuid from which carnelian formed. Typical ﬁne-grained basalt in the ﬁrst
+ﬂow is sparsely vesicular, with vesicles comprising <0.2 volume% of the rock [26]. The
+lowest part of this ﬂow is characterized by slender and vertical columnar joints that would
+have permitted ﬂuid to ascend along a subvertical path during the cooling of the ﬂow. Fluid
+inﬁltrating the Preakness may have also utilized intrabasinal extensional faults that were
+active throughout the evolution of the Newark basin [69] and that are common in the study
+
+
+===== PAGE 17 =====
+Minerals 2023, 13, 1249
+17 of 22
+area as steeply dipping (70–90◦), mainly open, and unmineralized brittle faults as wide as
+0.5 m [33]. Although it is possible that silica-saturated ﬂuid utilized these pathways, the
+preservation of vesicle molds on the lower surfaces of some carnelian is not compatible
+with its precipitation along columnar joints or faults, which lack amygdaloidal features.
+Degassing of the volatile phases during the cooling of the Preakness must have been
+fairly rapid because gas bubbles had insufﬁcient time to form vesicles or coalesce into larger
+vugs or openings in the lower or middle parts of the ﬁrst ﬂow. The reduced water–rock
+interaction also likely explains why this part of the ﬁrst ﬂow is relatively unaltered and has
+low values of LOI (Table 1). By contrast, thick gabbroid bodies in the upper part of the ﬁrst
+ﬂow contain 3 m thick intervals in which vesicles with diameters of 2–10 mm comprise as
+much as 19% of the volume of the rock [26], indicating that gabbroid formed a barrier and
+trapped rising gas bubbles. Gabbroid also preserves petrographic and geochemical features
+compatible with hydrothermal alteration, which suggests that it had ample opportunity to
+interact with heated ﬂuid. These include gains in Na2O due to the albitization of plagioclase,
+a loss of CaO and Sr that reﬂect plagioclase alteration, and high values of LOI that range
+from 1.8 to 2.5 wt.% (Table 1), indicative of precipitation of secondary hydrous minerals.
+The evidence for hydrothermal ﬂuid movement in the upper part of the ﬁrst ﬂow is more
+consistent with the ascent of a heated, syn-eruptive ﬂuid than with inﬁltration of the basalt
+by a low-temperature post-eruptive ﬂuid. Thus, we propose that it was in the altered,
+volatile-rich upper part of the ﬁrst ﬂow that carnelian most probably precipitated.
+The absence of any dateable material in the carnelian renders the timing of its forma-
+tion to be a challenge. Therefore, we relied on indirect evidence, such as the presence of
+glauberite molds in some pieces. Studies of the paragenesis of secondary mineralization
+in basalt formations of the Newark basin indicate that crystallization of the basalt and
+precipitation of contemporaneous saline minerals were closely followed in time by the
+albitization of plagioclase and the precipitation of abundant silica [17,21]. The precipitation
+of carnelian in the Preakness ﬁrst ﬂow containing glauberite (Figure 4c) is consistent with
+this paragenetic sequence, suggesting that carnelian may have formed contemporaneously
+with the crystallization of the Preakness at 201 Ma.
+5.3. Characteristics of the Mineralizing Fluid
+Multiple lines of evidence provide insights into the temperature, composition, and pH
+of the ﬂuid from which carnelian formed. One constraint on the syn- to post-depositional
+thermal history of the Newark basin is provided by geochemical analysis of thermally
+mature hydrocarbons in the Feltville Formation from beneath the Preakness Basalt that
+indicate a burial temperature of 90–130 ◦C [87]. Using this ~100 ◦C estimate from burial con-
+straints, carnelian samples with δ18O of +27.9 to +31.1‰ would be in isotopic equilibrium
+with water having δ18O of +7 to +10‰ when calculated using the fractionation factor for
+α-quartz of [88]. If correct, this calculation would indicate that pure magmatic water (δ18O
+of ~+8‰) precipitated these carnelian samples. Although Preakness gabbroid preserves ev-
+idence compatible with hydrothermal alteration, we do not think the oxygen isotope ratios
+reﬂect the formation of the carnelian strictly from a high-temperature (>100 ◦C) magmatic
+ﬂuid because calculations at higher temperatures yield unrealistic water δ18O values, and
+also because higher temperatures are not supported by the extremely low values of Ti in
+our samples. Furthermore, in a cooling volcanic system, magmatic ﬂuid commonly mixes
+with surface water, producing lower ﬂuid δ18O values.
+To explore possible ﬂuid sources, we calculated formation temperatures for the car-
+nelian from end-member ﬂuid compositions (Table 4). Meteoric water for the ~20◦paleolat-
+itude of the Newark basin at about 200 Ma [89] is estimated to have been ca. −5‰ using
+modern latitude versus δ18O relationships [90]. If water with δ18O of −5‰ precipitated
+the higher-δ18O carnelian samples, then the equilibrium formation temperatures would
+have been 19–32 ◦C. The calculated temperatures using a ﬂuid of seawater composition
+(δ18O ≈0‰) are 40–55 ◦C. Seawater may be a viable proxy for a minor component of a
+brine-like ﬂuid that precipitated glauberite in the Preakness ﬁrst ﬂow. The upper range of
+
+
+===== PAGE 18 =====
+Minerals 2023, 13, 1249
+18 of 22
+temperatures calculated using only magmatic ﬂuid with δ18O of +8‰ is 82–108 ◦C. If the
+δ18O of +18.3‰ in the carnelian sample GBR-5 is included, the maximum temperatures
+are higher and range from 82–223 ◦C. The lower δ18O value of GBR-5 more likely reﬂects a
+combination of differences in temperature and different ﬂuid or ﬂuid mixtures compared to
+the other samples. We interpret the formation temperatures for the carnelian in this study
+to fall mainly in the range of 20–80 ◦C based on calculations using meteoric water and
+magmatic (hydrothermal) ﬂuid. A more precise estimate requires knowledge of the propor-
+tion of the different ﬂuids involved in mixing, but even then, the maximum temperature
+would probably not have been much above ~100 ◦C. Regardless, the formation tempera-
+ture would not have remained high for very long because chalcedony precipitates from
+silica-saturated ﬂuids that cool fairly rapidly, with slow cooling favoring the crystallization
+of macrocrystalline quartz [37].
+In terms of the ﬂuid composition, variations in the δ18O values and geochemical
+characteristics of the carnelian are most reasonably explained by the mixing of a deeper,
+higher-temperature hydrothermal ﬂuid and shallower, lower-temperature meteoric water,
+with variations in these parameters due mainly to differences in the ratio of the ﬂuids. This
+interpretation is in agreement with [71], who proposed the mixing of heated basement-
+derived ﬂuid and cooler formational water to be responsible for the precipitation of calcite
+in veins in Triassic sedimentary rocks in the Newark basin. Our results expand the effects
+of ﬂuid mixing to include the Jurassic part of the Newark basin and also account for the
+precipitation of silica mineralization.
+We interpret the deep circulating hydrothermal ﬂuid as having been acidic and respon-
+sible for mobilizing trace elements from the Proterozoic basement. Total REE abundances
+are higher in acidic ﬂuids than alkaline ﬂuids [78], and the mobilization of REE also
+increases when complexed by F- or Cl-rich ﬂuids [66,68]. Such ﬂuids are more strongly en-
+riched in HREE (La/YbN << 1), comparable to the values of our study (La/YbN = 0.01–0.02).
+In contrast, the shallower meteoric ﬂuid was more likely to have been alkaline. Changing
+conditions of pH from acidic to alkaline are evidenced in the carnelian geochemistry of
+samples GBR-02-1 through GBR-02-3. These samples display a progressive decrease in
+ΣREE (85 to 15 ppm), HREE (50 to 9.5 ppm), Nd + Yb (30 to 6 ppm), and Nb, Ta, and W
+(Table 3). Studies show that decreases in these elements are attributed to an increase in
+pH [78,91–93]. The enrichment in HREEs in all of the carnelian samples may result from
+the increased solubility of HREE over LREEs in hydrothermal ﬂuids under conditions of
+a neutral to slightly alkaline pH of 6.3–9 [93,94]. Additionally, the adsorption of HREE
+onto the large surface area of Fe oxide/hydroxide is greater at pH < 8 [93] and is especially
+signiﬁcant at a pH of 6.5–8 [78]. Uranium is mobile as UVI at a neutral to alkaline pH
+of 7–9 and readily adsorbs onto quartz surfaces or in structural sites in quartz [95,96].
+Uranium and Th also readily adsorb onto Fe oxides/hydroxides at a pH of 6–9 [78,92,93,97].
+The presence of moganite in our carnelian samples is also noteworthy because moganite
+precipitates from alkaline ﬂuids containing ferric iron [42]. These results, in combination
+with the data of our study, support the precipitation of carnelian under conditions of a
+neutral to slightly alkaline pH.
+6. Conclusions
+Carnelian in New Jersey is recognized from only a few closely spaced locations
+in the Mesozoic Newark basin. Although carnelian has yet to be observed in situ in
+bedrock outcrops, we present evidence that supports its precipitation in coarse-grained
+gabbroid layers in the Lower Jurassic Preakness Basalt roughly contemporaneous with the
+crystallization of the basalt at 201 Ma. Erosion of the host rock continues to concentrate
+carnelian in proximal deposits of ﬂuvial gravel, colluvium, and alluvium.
+Carnelian is composed of length-fast chalcedony characterized by ﬁbrous bundles
+overlain by wavy extinction bands. XRD patterns exhibit peaks that are characteristic of
+α-quartz and minor moganite (>5%). Major element abundances are dominated by SiO2
+(97.5 ± 0.31 wt.%) and Fe2O3 (1.09 ± 0.07 wt.%); Al2O3 and TiO2 are low, averaging < 0.2
+
+
+===== PAGE 19 =====
+Minerals 2023, 13, 1249
+19 of 22
+and <0.01 wt.%, respectively, and the rest of the major elements are <0.07 wt.%. Silica was
+derived through the devitriﬁcation of abundant volcanic glass in coarse-grained gabbroid
+layers in the upper part of the Preakness ﬁrst ﬂow. Trace element concentrations are low
+except for Y, Nb, Ta, Pb, W, Th, and U. We show that most trace elements were likely
+sourced from Proterozoic lithologies. REE display parallel chondrite-normalized patterns
+that are enriched in HREE relative to LREE and have large negative Eu anomalies (0.02).
+δ18O values of carnelian are high and range from +18.3 to +31.2‰, with all but one sample
+having an δ18O of 29.9 ± 1.3‰.
+The results of this study are consistent with the formation of carnelian mainly from
+a mixture of higher-temperature hydrothermal ﬂuid and shallower, lower-temperature,
+meteoric water. Variations in the δ18O values and geochemical characteristics of carnelian
+are due to differences in the ratio of these ﬂuids. Carnelian precipitated under conditions
+of neutral to slightly alkaline pH and relatively low temperatures of 20–80 ◦C, which is
+comparable to other global occurrences of volcanic rock-derived chalcedony.
+Author Contributions: Conceptualization—R.A.V. and S.D.S.; methodology—M.L.G., W.H.P. and
+R.A.V.; formal analysis—M.L.G. and W.H.P.; writing—original draft, R.A.V. and S.D.S.; writing—
+review and revisions, M.L.G. and W.H.P. All authors have read and agreed to the published version
+of the manuscript.
+Funding: This research received no external funding.
+Data Availability Statement: The data presented in this study are contained within the article.
+Acknowledgments: Justin Dodd and Anna Buczynska are thanked for performing the oxygen isotope
+analyses at Northern Illinois University. We are grateful to the two anonymous reviewers whose
+comments improved the quality of the paper.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1.
+Francis, P., Jr. The stone bead industry of southern India. Beads 2000, 12, 49–62.
+2.
+Brunet, O. Bronze and Iron Age carnelian bead production in the UAE and Armenia: New perspectives. Proc. Semin. Arab. Stud.
+2009, 39, 57–68.
+3.
+Charpentier, V.; Brunet, O.; Méry, S.; Velde, C. Carnelian, agate, and other types of chalcedony: The prehistory of Jebel al-Ma’taradh
+and its semiprecious stones, Emirate of Ra’s al-Khaimah. Arab. Arch. Epig. 2017, 28, 175–189. [CrossRef]
+4.
+Geological Survey of India. Geology and Mineral Resources of Gujarat, Daman and Diu; Miscellaneous Publication 30, Part 14;
+Popular Printers: Jaipur, India, 2012; 85p.
+5.
+Malunga, G.W.P. An Analysis of Mineral Resources of Malawi; Published in Malawi by the author; 2014; 82p.
+6.
+Gliozzo, E.; Mattingly, D.J.; Cole, F.; Artoli, G. In the footsteps of Pliny: Tracing the sources of Garamantian carnelian from Fazzan,
+south-west Libya. J. Archaeol. Sci. 2014, 52, 218–241. [CrossRef]
+7.
+Carter, A.K.; Dussubieux, L. Geologic provenience analysis of agate and carnelian beads using laser ablation-inductively coupled
+plasma-mass spectrometry (LA-ICP-MS): A case study from Iron Age Cambodia and Thailand. J. Archaeol. Sci. Rep. 2016, 6,
+321–331. [CrossRef]
+8.
+Polekhovsky, Y.S.; Punin, Y.O. Agate mineralization in basaltoids of the northeastern Ladoga Region, South Karelia. Geol. Ore
+Depos. 2008, 50, 642–646. [CrossRef]
+9.
+Zodac, P. New Jersey Brook a carnelian locality. Rocks Miner. 1950, 25, 481–483. [CrossRef]
+10.
+Zeitner, J.C. Appalachian Mineral and Gem Trails; Arts and Crafts Press: San Diego, CA, USA, 1968; 134p.
+11.
+Mason, B.H. Trap Rock Minerals of New Jersey; Bulletin 64; Geological Survey of New Jersey: Trenton, NJ, USA, 1960; 51p.
+12.
+Peters, J.J. The minerals of Bergen Hill, New Jersey. In Igneous Rocks of the Newark Basin: Petrology, Mineralogy, Ore Deposits and
+Guide to Field Trip; Puffer, J.H., Ed.; Geological Association of New Jersey Field Conference: Trenton, NJ, USA, 1984; pp. 96–102.
+13.
+Seymour, E. List of minerals in New Jersey. In Geology of New Jersey; Geological Survey of New Jersey: Trenton, NJ, USA, 1868;
+pp. 743–750.
+14.
+Canﬁeld, F.A. Catalogue of minerals found in New Jersey. In Final Report of the State Geologist; Geological Survey of New Jersey:
+Trenton, NJ, USA, 1889; pp. 1–24.
+15.
+Valiant, W.S. New Jersey mineral localities. Min. Coll. 1904, 11, 122–125, 137–141, 150–154.
+16.
+Beck, L.C. Notices of some trappen minerals found in New Jersey and New York. Am. J. Sci. 1843, 44, 54–60.
+17.
+Fenner, C.N. The Watchung Basalt and the paragenesis of its zeolites and other secondary minerals. Ann. N. Y. Acad. Sci. 1910, 20,
+93–187. [CrossRef]
+18.
+Gordon, S.G. A review of the genesis of the zeolite deposits of First Watchung Mountain, N.J.1. Am. Mineral. 1916, 1, 72–80.
+
+
+===== PAGE 20 =====
+Minerals 2023, 13, 1249
+20 of 22
+19.
+Wherry, E.T. The lozenge-shaped cavities in the First Watchung Mountain zeolite deposits. J. Wash. Acad. Sci. 1916, 6, 181–184.
+20.
+Manchester, J.G. The minerals of the Bergen Archways. Am. Mineral. 1919, 4, 107–116.
+21.
+Schaller, W.T. The Crystal Cavities of the New Jersey Zeolite Region; Bulletin 832; U.S. Geological Survey: Reston, VA, USA, 1932; 90p.
+22.
+Manspeizer, W. Rift tectonics inferred from volcanic and clastic structures. In Field Studies of New Jersey Geology and Guide to Field
+Trips; Manspeizer, W., Ed.; Rutgers University: Newark, NJ, USA, 1980; pp. 314–350.
+23.
+Fedosh, M.S.; Smoot, J.P. A cored stratigraphic section through the northern Newark basin, New Jersey. In Studies of the Early
+Mesozoic Basins of the Eastern United States; Froelich, A.J., Robinson, G.R., Jr., Eds.; Bulletin 1776; U.S. Geological Survey: Reston,
+VA, USA, 1988; pp. 19–24.
+24.
+Olsen, P.E.; Kent, D.V.; Cornet, B.; Witte, W.K.; Schlische, R.W. High-resolution stratigraphy of the Newark rift basin (early
+Mesozoic, eastern North America). Geol. Soc. Am. Bull. 1996, 108, 40–77. [CrossRef]
+25.
+Blackburn, T.J.; Olsen, P.E.; Bowring, S.A.; McLean, N.M.; Kent, D.V.; Puffer, J.; McHone, G.; Rasbury, E.T.; Et-Touhami, M.
+Zircon U-Pb geochronology links end-Triassic extinction with the Central Atlantic Magmatic Province. Science 2013, 340, 941–945.
+[CrossRef]
+26.
+Puffer, J.H.; Volkert, R.A. Pegmatoid and gabbroid layers in Jurassic Preakness and Hook Mountain Basalts, Newark Basin,
+New Jersey. J. Geol. 2001, 109, 585–601. [CrossRef]
+27.
+Faust, G.T. Joint Systems in the Watchung Basalt Flows, New Jersey; Professional Paper 864-B; U.S. Geological Survey: Reston, VA,
+USA, 1978; 46p.
+28.
+Kümmel, H.B. The Newark System of New Jersey. In Annual Report of the State Geologist; Geological Survey of New Jersey:
+Trenton, NJ, USA, 1898; pp. 23–159.
+29.
+Lewis, J.V. The pillow lavas of the Watchung Mountains. In Administrative Report of the State Geologist; Bulletin 16; Geological
+Survey of New Jersey: Trenton, NJ, USA, 1915; pp. 51–56.
+30.
+Lewis, J.V. Petrography of the Newark igneous rocks of New Jersey. In Annual Report of the State Geologist; Geological Survey of
+New Jersey: Trenton, NJ, USA, 1908; pp. 97–167.
+31.
+Drake, A.A., Jr.; Volkert, R.A.; Monteverde, D.H.; Herman, G.C.; Houghton, H.F.; Parker, R.A.; Dalton, R.F. Bedrock Geologic Map of
+Northern New Jersey; Misc. Inves. Series Map I-2540-A; U.S. Geological Survey: Reston, VA, USA, 1996.
+32.
+Tollo, R.P.; Hawkins, D.P.; Gottfried, D. Petrographic and Geochemical Data for Jurassic Basalts from Eight Passaic Tunnel Cores, Newark
+Basin, New Jersey; Open-File Report 90-689; U.S. Geological Survey: Reston, VA, USA, 1990; 32p.
+33.
+Monteverde, D.H.; Volkert, R.A. Bedrock Geologic Map of the Chatham Quadrangle, Morris, Union and Somerset Counties, New Jersey;
+GMS 04-02; New Jersey Geological Survey: Ewing Township, NJ, USA, 2005.
+34.
+Sharp, Z.D. A laser-based microanalytical method for the in situ determination of oxygen isotope ratios of silicates and oxides.
+Geochim. Cosmochim. Acta 1990, 54, 1353–1357. [CrossRef]
+35.
+Stanford, S.D. Surﬁcial Geology of the Chatham Quadrangle Morris, Union and Somerset Counties, New Jersey; OFM 69; New Jersey
+Geological Survey: Ewing Township, NJ, USA, 2007.
+36.
+Skinner, A.; Schrabisch, M. A Preliminary Report of the Archaeological Survey of New Jersey. Bulletin 9; New Jersey Geological Survey:
+Ewing Township, NJ, USA, 1913; 94p.
+37.
+Fournier, R.O. The behavior of silica in hydrothermal solutions. Rev. Econ. Geol. 1985, 2, 45–61.
+38.
+Puffer, J.H.; Laskowich, C. Volcanic diapirs in the Orange Mountain ﬂood basalt: New Jersey, USA. J. Volcanol. Geotherm. Res.
+2012, 237–238, 1–9. [CrossRef]
+39.
+Stanford, S.D. Onshore record of Hudson River drainage to the continental shelf from the Late Miocene through the late
+Wisconsinan deglaciation, USA: Synthesis and revision. Boreas 2010, 39, 1–17. [CrossRef]
+40.
+Wherry, E.T. Glauberite crystal-cavities in the Triassic rocks of eastern Pennsylvania. Am. Mineral. 1916, 1, 37–43.
+41.
+Cady, S.L.; Wenk, H.-R.; Sintubin, M. Microﬁbrous quartz varieties: Characterization by quantitative X-ray texture analysis and
+transmission electron microscopy. Contrib. Mineral. Petrol. 1998, 130, 320–335. [CrossRef]
+42.
+Heaney, P.J. Moganite as an indicator for vanished evaporates: A testament reborn? J. Sediment. Res. 1995, A65, 633–638.
+43.
+Moxon, T.; Rios, S. Moganite and water content as a function of age in agate: An XRD and thermogravimetric study. Eur. J.
+Mineral. 2004, 16, 269–278. [CrossRef]
+44.
+Zhang, X.; Ji, L.; He, X. Geomological characteristics and origin of the Zhanguohong agate Beipo, Liaoning Province, China: A
+combined microscopic, X-ray diffraction, and Raman spectroscopic study. Minerals 2020, 10, 401. [CrossRef]
+45.
+Zhang, M.; Moxon, T. Infrared absorption spectroscopy of SiO2-moganite. Am. Mineral. 2014, 99, 671–680. [CrossRef]
+46.
+Graetsch, H.A.; Grünberg, J.M. Microstructure of ﬂint and other chert raw materials. Archaeometry 2012, 54, 18–36. [CrossRef]
+47.
+Sun, S.S.; McDonough, W.F. Chemical and isotopic systematics of oceanic basalts: Implications for mantle composition and
+processes. In Magmatism in the Ocean Basins; Saunders, A.D., Norry, M.J., Eds.; Special Publication 42; Geological Society of
+London: London, UK, 1989; pp. 313–345.
+48.
+Götze, J.; Tichomirowa, M.; Fuchs, H.; Pilot, J.; Sharp, Z. Geochemistry of agates: A trace element and stable isotope study. Chem.
+Geol. 2001, 175, 523–541. [CrossRef]
+49.
+Pršek, J.; Duma´nska-Slowick, M.; Powolny, T.; Natkaniec-Nowak, L.; Tobola, T.; Zych, D.; Skrepnicka, D. Agates from Western
+Atlas (Morocco)—Constraints from mineralogical and microtextural characteristics. Minerals 2020, 10, 198. [CrossRef]
+
+
+===== PAGE 21 =====
+Minerals 2023, 13, 1249
+21 of 22
+50.
+Duma´nska-Slowick, M.; Natkaniec-Nowak, L.; Weselucha-Birczy´nska, A.; Gawel, A.; Lankosz, M.; Wróbel, P. Agates from Sidi
+Rahal, in the Atlas Mountains of Morocco: Geochemical characteristics and proposed origin. Gems Gemol. 2013, 49, 148–159.
+[CrossRef]
+51.
+Masuda, A.; Nakamura, N.; Tanaka, T. Fine structures of mutually normalized rare-earth patterns of chondrites. Geochim.
+Cosmochim. Acta 1973, 37, 239–248. [CrossRef]
+52.
+Rudnick, R.L.; Gao, S. Composition of the continental crust. In Treatise on Geochemistry; Holland, H.D., Turekian, K.K., Eds.;
+Pergamon: Oxford, UK, 2003; pp. 1–64.
+53.
+Harris, C. Oxygen-isotope zonation of agates from Karoo volcanics of the Skeleton Coast, Namibia. Am. Mineral. 1989, 74,
+476–481.
+54.
+Gliozzo, E.; Cairncross, B.; Vennemann, T. A geochemical and micro-textural comparison of basalt-hosted chalcedony from the
+Jurassic Drakensberg and Neoarchean Ventersdorp Supergroup (Vaal River alluvial gravels), South Africa. Int. J. Earth Sci. 2019,
+108, 1857–1877. [CrossRef]
+55.
+Rezaei-Kahkaei, M.; Ansarifar, O.; Ghasemi, H. Geochemistry and oxygen stable isotopes of Reza Abad agates, SE Shahrood,
+Central Iran: An approach to temperature and formation process. J. Econ. Geol. 2019, 11, 525–541. (In Persian)
+56.
+Fallick, A.E.; Jocely, J.; Hamilton, P.J. Oxygen and hydrogen stable isotope systematics in Brazilian agates. In Geochemistry and
+Mineral Formation in the Earth Surface; Rodriguez-Clemente, R., Taedy, Y., Eds.; Centre Nationale de la Recherche Scientiﬁque:
+Paris, France, 1987; pp. 99–117.
+57.
+Duarte, L.C.; Hartmann, L.A.; Ronchi, L.H.; Berner, Z.; Theye, T.; Massonne, H.J. Stable isotope and mineralogical investigation
+of the genesis of amethyst geodes in the Los Catalanes gemological district, Uruguay, southernmost Paraná volcanic province.
+Miner. Depos. 2011, 46, 239–255. [CrossRef]
+58.
+Götze, J.; Möckel, R.; Pan, Y. Mineralogy, Geochemistry and Genesis of Agate—A review. Minerals 2020, 10, 1037. [CrossRef]
+59.
+Götze, J.; Pan, Y.; Müller, A. Mineralogy and mineral chemistry of quartz; A review. Min. Mag. 2021, 85, 639–664. [CrossRef]
+60.
+Volkert, R.A.; Drake, A.A., Jr. Geochemistry and Stratigraphic Relations of Middle Proterozoic Rocks of the New Jersey Highlands;
+Professional Paper 1565-C; U.S. Geological Survey: Reston, VA, USA, 1999; 77p.
+61.
+Volkert, R.A.; Feigenson, M.D.; Patino, L.C.; Delaney, J.S.; Drake, A.A., Jr. Sr and Nd isotopic compositions, age and petrogenesis
+of A-type granitoids of the Vernon Supersuite, New Jersey Highlands, USA. Lithos 2000, 50, 325–347. [CrossRef]
+62.
+Klemic, H.; Heyl, A.V., Jr.; Taylor, A.R.; Stone, J. Radioactive Rare-Earth Deposit at Scrub Oaks Mine, Morris County, New Jersey;
+Bulletin 1082-B; U.S. Geological Survey: Reston, VA, USA, 1959; pp. 29–59.
+63.
+Vassiliou, A.H. Uranium and rare earth mineralization at the Bemco mine near Cranberry Lake, New Jersey. In Field Studies of
+New Jersey Geology and Guide to Field Trips; Manspeizer, W., Ed.; New York State Geological Association: Oswego, NY, USA, 1980;
+pp. 192–199.
+64.
+Baillieul, T.A.; Indelicato, G.J. Uranium in the New Jersey and New York Highlands of the Reading Prong. Econ. Geol. 1981, 76,
+167–171. [CrossRef]
+65.
+Volkert, R.A.; Monteverde, D.H.; Gates, A.E.; Friehauf, K.C.; Dalton, R.F.; Smith, R.C., II. Geochemistry and origin of Neopro-
+terozoic ironstone deposits in the New Jersey Highlands and implications for the Iapetan rifted margin in the north-central
+Appalachians. In From Rodinia to Pangea: The Lithotectonic Record of the Appalachian Region; Tollo, R.P., Bartholomew, M.J., Hibbard,
+J.P., Karabinos, P.M., Eds.; Memoir 206; The Geological Society of America: Boulder, CO, USA, 2010; pp. 283–306.
+66.
+Jiang, S.-Y.; Wang, R.-C.; Wu, X.-S.; Zhao, K.-D. Mobility of high ﬁeld strength elements (HFSE) in magmatic-, metamorphic-, and
+submarine-hydrothermal systems. Phys. Chem. Earth 2005, 30, 1020–1029. [CrossRef]
+67.
+Bobos, I.; Gomes, C. Mineralogy and geochemistry (HFSE and REE) of the present-day acid-sulfate types alteration from the
+active hydrothermal system of Furnas Volcano, São Miguel Island, The Azores Archipelago. Minerals 2021, 11, 335. [CrossRef]
+68.
+Németh, N.; Kristály, F.; Balassa, C. Hydrothermal high ﬁeld strength element enrichment in the Bükk Mts. (NE Hungary). J.
+Geochem. Explor. 2023, 246, 107159. [CrossRef]
+69.
+Withjack, M.O.; Schlische, R.W.; Malinconico, M.L.; Olsen, P.E. Rift-basin development: Lessons from the Triassic-Jurassic Newark
+Basin of eastern North America. In Conjugate Divergent Margins; Mohriak, W.U., Danforth, A., Post, P.J., Brown, D.E., Tari, G.C.,
+Nemˇcok, M., Sonha, S.T., Eds.; Special Publications 369; The Geological Society: London, UK, 2013; pp. 301–321.
+70.
+El-Tabakh, M.; Riccioni, R.; Schreiber, B.C. Evolution of Late Triassic rift basin evapotites (Passaic Formation): Newark basin,
+eastern North America. Sedimentology 1997, 44, 767–790. [CrossRef]
+71.
+Rddad, L.; Kraemer, D.; Walter, B.F.; Darling, R.; Cousens, B. Unraveling the ﬂuid ﬂow evolution and precipitation mechanisms in
+calcite veins in relation to Pangea rifting—Newark Basin, USA. Geochemistry 2022, 82, 125918. [CrossRef]
+72.
+Steckler, M.S.; Omar, G.I.; Karner, G.D.; Kohn, B.P. Pattern of hydrothermal circulation within the Newark basin from ﬁssion-track
+analysis. Geology 1993, 21, 735–738. [CrossRef]
+73.
+Jones, B.; Renaut, R.W. Microstructural changes accompanying the opal-A to opal-CT transition: New evidence from the siliceous
+sinters of Geysir, Haukadalur, Iceland. Sedimentology 2007, 54, 921–948. [CrossRef]
+74.
+Lynne, B.Y.; Campbell, K.A.; James, B.J.; Browne, P.R.L.; Moore, J. Tracking crystallinity in siliceous hot-spring deposits. Am. J. Sci.
+2007, 307, 612–641. [CrossRef]
+75.
+Heaney, P.J. A proposed mechanism for the growth of chalcedony. Contrib. Mineral. Petrol. 1993, 115, 66–74. [CrossRef]
+76.
+Hartmann, L.A.; Antunes, L.M.; Rosenstengel, L.M. Stratigraphy of amethyst geode-bearing lavas and fault-block structures of
+the Entre Rios mining district, Paraná volcanic province, southern Brazil. Ann. Braz. Acad. Sci. 2014, 86, 187–198. [CrossRef]
+
+
+===== PAGE 22 =====
+Minerals 2023, 13, 1249
+22 of 22
+77.
+Baggio, S.B.; Hartmann, L.A.; Andrade, R.H.P.; Rizzotto, G.J.; Duarte, S.K.; Knijnik, D.B.; Simões-Neto, J.A. Basalt stratigraphy
+and silica gossans in Campo Grande and Serra de Maracaju, Mato Grosso do Sul, Paraná Volcanic Province. Ore Geol. Rev. 2015,
+69, 73–87. [CrossRef]
+78.
+Li, B.; Kong, Q.; Wang, G.; Liu, F.; Guo, L.; Liu, C.; Liao, F.; Shi, Z. Controls on the behaviors of rare earth elements in acidic and
+alkaline thermal springs. Appl. Geochem. 2022, 143, 105379. [CrossRef]
+79.
+Gislason, S.R.; Oelkers, E.H. Mechanism, rates, and consequences of basaltic glass dissolution: II. An experimental study of the
+dissolution rates of basaltic glass as a function of pH and temperature. Geochim. Cosmochim. Acta 2003, 67, 3817–3832. [CrossRef]
+80.
+Gilg, H.A.; Morteani, G.; Kostitsyn, Y.; Preinfalk, C.; Gatter, I.; Streider, A.J. Genesis of amethyst geodes in basaltic rocks of the
+Serra Geral Formation (Ametista do Sul, Rio Grande do Sul, Brazil): A ﬂuid inclusion, REE, oxygen, carbon, and Sr isotope study
+on basalt, quartz, and calcite. Miner. Depos. 2003, 38, 1009–1025. [CrossRef]
+81.
+Commin-Fischer, A.; Berger, G.; Polyé, M.; Dubois, M.; Sardini, P.; Beaufort, D.; Formoso, M. Petrography and chemistry of SiO2
+ﬁlling phases in the amethyst geodes from the Serra Geral Formation deposit, Rio Grande do Sul, Brazil. J. South Am. Earth Sci.
+2010, 29, 751–760. [CrossRef]
+82.
+Götze, J.; Stanek, K.; Orozco, G.; Liesegang, M.; Mohr-Westheide, T. Occurrence and distribution of moganite and opal-CT in
+agates from Paleocene/Eocene tuffs, El Picado (Cuba). Minerals 2021, 11, 531. [CrossRef]
+83.
+Franzson, H.; Zierenberg, R.; Schiffman, P. Chemical transport in geothermal systems in Iceland: Evidence from hydrothermal
+alteration. J. Volcanol. Geotherm. Res. 2008, 173, 217–229. [CrossRef]
+84.
+Jeong, G.Y.; Sohn, Y.K. Mineralogy and microtextures of basaltic glass alteration in hyaloclasite, Jeju Island, Korea. J. Anal. Sci.
+Technol. 2011, 2, 13–22. [CrossRef]
+85.
+Ducasse, T.; Gourgiotis, A.; Pringle, E.; Moynier, F.; Frugier, P.; Jollivet, P.; Gin, S. Alteration of basaltic glass in silica saturated
+conditions: Analogy with nuclear glass. Appl. Geochem. 2018, 97, 19–31. [CrossRef]
+86.
+Prause, S.; Weisenberger, T.B.; Kleine, B.I.; Monien, P.; Rispoli, C.; Stefánsson, A. Alteration of basaltic glass within the Surtsey
+hydrothermal system, Iceland—Implication to oceanic crust seawater interaction. J. Volcanol. Geotherm. Res. 2022, 429, 107581.
+[CrossRef]
+87.
+Pratt, L.M.; Shaw, C.A.; Burruss, R.C. Thermal histories of the Hartford and Newark basins inferred from maturation indices of
+organic matter. In Studies of the Early Mesozoic Basins of the Eastern United States; Froelich, A.J., Robinson, G.R., Jr., Eds.; Bulletin
+1776; U.S. Geological Survey: Reston, VA, USA, 1988; pp. 58–63.
+88.
+Clayton, R.N.; O’Neil, J.R.; Mayeda, T.K. Oxygen isotope exchange between quartz and water. J. Geophys. Res. 1972, 77, 3057–3067.
+[CrossRef]
+89.
+Kent, D.V.; Tauxe, L. Corrected Late Triassic latitudes for continents adjacent to the North Atlantic. Science 2005, 307, 240–244.
+[CrossRef]
+90.
+Fricke, H.C.; O’Neil, J.R. The correlation between 18O/16O ratios of meteoric water and surface temperature: Its use in investigat-
+ing terrestrial climate change over geologic time. Earth Planet. Sci. Lett. 1999, 170, 181–196. [CrossRef]
+91.
+Michard, A. Rare earth element systematics in hydrothermal ﬂuids. Geochim. Cosmochim. Acta 1989, 53, 745–750. [CrossRef]
+92.
+Bau, M. Scavenging of dissolved yttrium and rare earths by precipitating iron oxyhydroxide: Experimental evidence for Ce
+oxidation, Y-Ho fractionation, and lanthanide tetrad effect. Geochim. Cosmochim. Acta 1999, 63, 67–77. [CrossRef]
+93.
+Liu, H.; Pourret, O.; Guo, H.; Bonhoure, J. Rare earth elements sorption to iron oxyhydroxide: Model development and application
+to groundwater. Appl. Geochem. 2017, 87, 158–166. [CrossRef]
+94.
+Munemoto, T.; Ohmori, K.; Iwatsuki, T. Rare earth elements (REE) in deep groundwater from granite and fracture-ﬁlling calcite in
+the Tono area, central Japan: Prediction of REE fractionation in paleo- to present-day groundwater. Chem. Geol. 2015, 417, 58–67.
+[CrossRef]
+95.
+Pan, Y.; Li, D.; Feng, R.; Wiens, E.; Chen, N.; Chernikov, R.; Götze, J.; Lin, J. Uranyl binding mechanism in microcrystalline silicas:
+A potential missing link for uranium mineralization by direct uranyl co-precipitation and environmental implications. Geochim.
+Cosmochim. Acta 2021, 292, 518–531. [CrossRef]
+96.
+Smedley, P.L.; Kinniburgh, D.G. Uranium in natural waters and the environment: Distribution, speciation and impact. Appl.
+Geochem. 2023, 148, 105534. [CrossRef]
+97.
+Möller, P.; Dulski, P.; De Lucia, M. REY patterns and their natural anomalies in waters and brines: The correlation of Gd and Y
+anomalies. Hydrology 2021, 8, 116. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

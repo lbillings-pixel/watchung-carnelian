@@ -1,0 +1,26 @@
+[
+ {
+  "mindat_id": 23780,
+  "name": "Bergen County, NJ",
+  "level": "county",
+  "minerals": "Quartz var. Carnelian (among many)",
+  "references": "Ransom (1974)",
+  "url": "https://www.mindat.org/loc-23780.html",
+  "accessed": "2026-11-04",
+  "api_mineral_count": 74,
+  "api_lists_carnelian": true,
+  "api_fetched": "2026-11-06"
+ },
+ {
+  "mindat_id": 17427,
+  "name": "Morris County, NJ",
+  "level": "county",
+  "minerals": "Quartz var. Carnelian, var. Sard, var. Sardonyx (among many)",
+  "references": "Ransom (1974)",
+  "url": "https://www.mindat.org/loc-17427.html",
+  "accessed": "2026-11-04",
+  "api_mineral_count": 129,
+  "api_lists_carnelian": true,
+  "api_fetched": "2026-11-06"
+ }
+]

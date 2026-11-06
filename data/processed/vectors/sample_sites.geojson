@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sample_sites",
+"features": [
+{ "type": "Feature", "properties": { "code": "GBR", "name": "Green Brook sample area", "lon": -74.433, "lat": 40.665, "radius_m": 250, "tier": "observed", "note": "Position read off the Fig. 2 asterisk by graticule interpolation (the figure's scale bar and graticule disagree by ~8 %, so +/-300 m); shown as a zone, not a point. Fig. 2 draws the GBR asterisk at the south-western tip of a gabbroid (Jpg) lens; in the NJGWS DGS15-1 digital map the nearest Jpg polygon begins ~430 m to the north-east, i.e. Fig. 2 (modified from that map by the authors) extends the gabbroid lens farther south-west than the digital data do. The zone follows the paper.", "source": "paper Fig. 2, section 4.1" }, "geometry": { "type": "Point", "coordinates": [ 426.306867484352551, 1224.498776855878532 ] } },
+{ "type": "Feature", "properties": { "code": "SGB", "name": "Stirling Brook sample area", "lon": -74.473, "lat": 40.645, "radius_m": 250, "tier": "observed", "note": "Position read off the Fig. 2 asterisk by graticule interpolation (the figure's scale bar and graticule disagree by ~8 %, so +/-300 m); shown as a zone, not a point.", "source": "paper Fig. 2, section 4.1" }, "geometry": { "type": "Point", "coordinates": [ -2941.448809087509289, -1016.606801921501756 ] } }
+]
+}

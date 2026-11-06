@@ -1,0 +1,77 @@
+ch1 start view: fps=666
+ch1 t=0.5: fps=672
+ch2 start view: fps=868
+ch2 t=0.5: fps=842
+ch3 start view: fps=792
+ch3 t=0.5: fps=423
+ch4 start view: fps=252
+ch4 t=0.5: fps=376
+ch5 start view: fps=187
+ch5 t=0.5: fps=187
+ch6 start view: fps=197
+ch6 t=0.5: fps=253
+ch7 start view: fps=285
+ch7 t=0.5: fps=268
+ch8 start view: fps=1106
+ch8 t=0.5: fps=1090
+tour ch1 beat1: fps=743
+tour ch1 beat2: fps=774
+tour ch1 beat3: fps=608
+tour ch1 beat4: fps=648
+tour ch1 beat5: fps=585
+tour ch2 beat1: fps=841
+tour ch2 beat2: fps=885
+tour ch2 beat3: fps=834
+tour ch2 beat4: fps=826
+tour ch2 beat5: fps=818
+tour ch2 beat6: fps=795
+tour ch3 beat1: fps=320
+tour ch3 beat2: fps=440
+tour ch3 beat3: fps=390
+tour ch3 beat4: fps=298
+tour ch3 beat5: fps=329
+tour ch3 beat6: fps=266
+tour ch3 beat7: fps=273
+tour ch4 beat1: fps=420
+tour ch4 beat2: fps=261
+tour ch4 beat3: fps=244
+tour ch4 beat4: fps=406
+tour ch4 beat5: fps=402
+tour ch4 beat6: fps=867
+tour ch4 beat7: fps=390
+tour ch4 beat8: fps=160
+tour ch5 beat1: fps=197
+tour ch5 beat2: fps=247
+tour ch5 beat3: fps=238
+tour ch5 beat4: fps=164
+tour ch5 beat5: fps=181
+tour ch5 beat6: fps=612
+tour ch6 beat1: fps=384
+tour ch6 beat2: fps=331
+tour ch6 beat3: fps=263
+tour ch6 beat4: fps=236
+tour ch6 beat5: fps=289
+tour ch6 beat6: fps=284
+tour ch7 beat1: fps=286
+tour ch7 beat2: fps=340
+tour ch7 beat3: fps=266
+tour ch7 beat4: fps=612
+tour ch7 beat5: fps=647
+tour ch7 beat6: fps=635
+tour ch7 beat7: fps=643
+tour ch7 beat8: fps=638
+tour ch8 beat1: fps=1246
+tour ch8 beat2: fps=1291
+tour ch8 beat3: fps=1241
+tour ch8 beat4: fps=1213
+tour ch8 beat5: fps=1304
+tour ch8 beat6: fps=751
+tour ch8 beat7: fps=897
+ch1 playing from t=0.3: fps=625 (process 5.6 ms, draw calls 327, primitives 3094456)
+ch2 playing from t=0.3: fps=806 (process 32.5 ms, draw calls 246, primitives 9050021)
+ch3 playing from t=0.3: fps=418 (process 32.3 ms, draw calls 289, primitives 21841657)
+ch4 playing from t=0.3: fps=220 (process 119.3 ms, draw calls 605, primitives 9056561)
+ch5 playing from t=0.3: fps=181 (process 85.8 ms, draw calls 288, primitives 9526283)
+ch6 playing from t=0.3: fps=250 (process 189.3 ms, draw calls 508, primitives 9448686)
+ch7 playing from t=0.3: fps=286 (process 123.8 ms, draw calls 497, primitives 8343712)
+ch8 playing from t=0.3: fps=810 (process 207.4 ms, draw calls 215, primitives 34179)

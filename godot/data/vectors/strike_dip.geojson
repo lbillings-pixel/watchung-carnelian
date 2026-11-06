@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "strike_dip",
+"features": [
+{ "type": "Feature", "properties": { "dip_deg": 11, "dip_dir": "NW", "strike_deg": 45, "unit": "Jt", "lon": -74.4722, "lat": 40.6722, "tier": "observed", "note": "Digitised by eye from paper Fig. 2; position +/-150 m; strike assumed 045 (parallel to the ridges)" }, "geometry": { "type": "Point", "coordinates": [ -2891.929745631758124, 2003.09716328419745 ] } },
+{ "type": "Feature", "properties": { "dip_deg": 15, "dip_dir": "NW", "strike_deg": 45, "unit": "Jt", "lon": -74.4644, "lat": 40.6694, "tier": "observed", "note": "Digitised by eye from paper Fig. 2; position +/-150 m; strike assumed 045 (parallel to the ridges)" }, "geometry": { "type": "Point", "coordinates": [ -2230.80069440510124, 1696.273495489731431 ] } },
+{ "type": "Feature", "properties": { "dip_deg": 11, "dip_dir": "NW", "strike_deg": 45, "unit": "Jo", "lon": -74.4219, "lat": 40.6594, "tier": "observed", "note": "Digitised by eye from paper Fig. 2; position +/-150 m; strike assumed 045 (parallel to the ridges)" }, "geometry": { "type": "Point", "coordinates": [ 1368.638525756890886, 608.987113981507719 ] } },
+{ "type": "Feature", "properties": { "dip_deg": 10, "dip_dir": "NW", "strike_deg": 45, "unit": "Jf", "lon": -74.455, "lat": 40.6407, "tier": "observed", "note": "Digitised by eye from paper Fig. 2; position +/-150 m; strike assumed 045 (parallel to the ridges)" }, "geometry": { "type": "Point", "coordinates": [ -1416.560587702784687, -1484.647038212046027 ] } },
+{ "type": "Feature", "properties": { "dip_deg": 11, "dip_dir": "NW", "strike_deg": 45, "unit": "JTrp", "lon": -74.4263, "lat": 40.6372, "tier": "observed", "note": "Digitised by eye from paper Fig. 2; position +/-150 m; strike assumed 045 (parallel to the ridges)" }, "geometry": { "type": "Point", "coordinates": [ 1012.764562041382305, -1857.727726388722658 ] } },
+{ "type": "Feature", "properties": { "dip_deg": 7, "dip_dir": "NW", "strike_deg": 45, "unit": "JTrp", "lon": -74.4093, "lat": 40.6425, "tier": "observed", "note": "Digitised by eye from paper Fig. 2; position +/-150 m; strike assumed 045 (parallel to the ridges)" }, "geometry": { "type": "Point", "coordinates": [ 2446.362286769435741, -1259.895857512019575 ] } },
+{ "type": "Feature", "properties": { "dip_deg": 8, "dip_dir": "NW", "strike_deg": 45, "unit": "JTrp", "lon": -74.4022, "lat": 40.6393, "tier": "observed", "note": "Digitised by eye from paper Fig. 2; position +/-150 m; strike assumed 045 (parallel to the ridges)" }, "geometry": { "type": "Point", "coordinates": [ 3049.116741454228759, -1611.051305598579347 ] } }
+]
+}

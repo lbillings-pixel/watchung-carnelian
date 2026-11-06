@@ -1,0 +1,22 @@
+{
+  "crs": "EPSG:26918",
+  "bbox_utm": {
+    "west": 540500.0,
+    "east": 554500.0,
+    "south": 4494500.0,
+    "north": 4506500.0
+  },
+  "scene_origin_utm": {
+    "east": 547500.0,
+    "north": 4500500.0
+  },
+  "cell_size_m": 4.0,
+  "width": 3500,
+  "height": 3000,
+  "z_min_m": 13.009122848510742,
+  "z_max_m": 176.1387176513672,
+  "row_order": "north_first",
+  "godot_axes": "x = east - origin.east; z = origin.north - north; y = elevation",
+  "source": "USGS 3DEP 1 m DEM, project NJ_NE6County_B23, tiles USGS_1M_18_x54y450_NJ_NE6County_B23.tif, USGS_1M_18_x54y451_NJ_NE6County_B23.tif, USGS_1M_18_x55y450_NJ_NE6County_B23.tif, USGS_1M_18_x55y451_NJ_NE6County_B23.tif",
+  "resampling": "block average 1 m -> 4 m"
+}

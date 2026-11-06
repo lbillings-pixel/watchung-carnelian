@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "name": "mindat_localities",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "mindat_id": 12185,
+    "name": "Stirling Brook (\"Carnelian Creek\"), Warren Township, Somerset County, NJ",
+    "lon": -74.47417,
+    "lat": 40.64366,
+    "stated_precision": "coordinates given to 1 arc-second (~30 m); the page map shows a point only. Treated as +/-500 m.",
+    "minerals": "Magnetite; Moganite; Opal; Quartz (var. Carnelian, Chalcedony, Citrine, Rock Crystal)",
+    "rock_types": "Basalt; Chert",
+    "references": "Speiser (1978) A Quest for New Jersey Minerals, 10; Volkert et al. (2023) Minerals 13(10) 1249",
+    "tier": "mindat_reported",
+    "accessed": "2026-11-04",
+    "url": "https://www.mindat.org/loc-12185.html",
+    "api_minerals": "Carnelian; Chalcedony; Citrine; Magnetite; Moganite; Opal; Quartz; Rock Crystal",
+    "api_description": "A stream running through the Watchung Mountains.\r\n\r\nThis stream is also known locally as \"Carnelian Creek.\"",
+    "api_lat": 40.6436627958,
+    "api_lon": -74.4741702067,
+    "api_level": 4,
+    "api_modified": "2023-09-25",
+    "api_fetched": "2026-11-06"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3039.485096168588,
+     -1165.9433204000816
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "mindat_id": 437482,
+    "name": "Green Brook, Berkeley Heights, Union County, NJ",
+    "lon": -74.42472,
+    "lat": 40.66667,
+    "stated_precision": "coordinates given to the whole arc-minute of latitude (40 deg 40' 0\" N, 74 deg 25' 28\" W). Treated as +/-1 km.",
+    "minerals": "Moganite; Quartz (var. Carnelian)",
+    "rock_types": "Basalt",
+    "references": "Volkert et al. (2023) Minerals 13(10) 1249",
+    "tier": "mindat_reported",
+    "accessed": "2026-11-04",
+    "url": "https://www.mindat.org/loc-437482.html",
+    "api_minerals": "Carnelian; Moganite; Quartz",
+    "api_description": "The Preakness Basalt is the source of the carnelian based on the available evidence. Streams in the valley in which carnelian is found have historically received bedrock eroded from outcrops of the Preakness first and second flows. The location of carn...",
+    "api_lat": 40.666666666667,
+    "api_lon": -74.424722222222,
+    "api_level": 4,
+    "api_modified": "2023-11-22",
+    "api_fetched": "2026-11-06"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1124.9737300024135,
+     1414.4216200336814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "mindat_id": 233622,
+    "name": "Cory's Brook, Warren Township, Somerset County, NJ",
+    "lon": -74.499,
+    "lat": 40.641,
+    "stated_precision": "Mindat gives only an ESTIMATED position (40 N, 74 W est., margin ~1 km). The marker is placed on the NHD flowline named Corys Brook; treated as +/-1 km.",
+    "minerals": "Quartz (var. Carnelian, var. Chalcedony)",
+    "rock_types": "(none listed)",
+    "references": "No published reference on Mindat (entry credits a collector). Description: 'Another of the many brooks draining the second Watchung mountain known for Carnelian.'",
+    "tier": "mindat_reported",
+    "accessed": "2026-11-04",
+    "url": "https://www.mindat.org/loc-233622.html",
+    "api_minerals": "Carnelian; Chalcedony; Quartz",
+    "api_description": "Another of the many brooks draining the second Watchung mountain known for Carnelian.",
+    "api_lat": 0.0,
+    "api_lon": 0.0,
+    "api_level": 4,
+    "api_modified": "2012-02-22",
+    "api_fetched": "2026-11-06"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5137.263331368798,
+     -1473.466022964567
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "mindat_id": 156348,
+    "name": "Watchung (borough), Somerset County, NJ",
+    "lon": -74.451,
+    "lat": 40.638,
+    "stated_precision": "Town-level entry (coordinates 'taken from the Chatham topo map'); treated as the whole borough, +/-2 km.",
+    "minerals": "Quartz var. Carnelian (listed for the borough as a region)",
+    "rock_types": "(trap rock / aggregates commodity)",
+    "references": "Ransom (1974) Fossils in America / mineral-locality compilation as cited by Mindat",
+    "tier": "mindat_reported",
+    "accessed": "2026-11-04",
+    "url": "https://www.mindat.org/loc-156348.html",
+    "api_minerals": "Agate; Albite; Amethyst; Analcime; Anhydrite; Apophyllite Group; Bornite; Calcite; Carnelian; Chalcedony; Chalcocite; Chalcopyrite; Chlorite Group; Chrysocolla; Citrine; Cuprite; Datolite; Epidote; Fluorapophyllite-(K); Galena; Gmelinite Subgroup; Hematite; Heulandite Subgroup; Malachite; Natrolite; Pectolite; Prehnite; Pumpellyite Subgroup; Pyrite; Quartz; Sardonyx; Stellerite; Stilbite Subgroup",
+    "api_description": "NOTE: The geographic coordinates presented are taken from the Chatham topo map. The USGS GNIS database presents 2 sets of coordinates for this place.",
+    "api_lat": 40.6378801,
+    "api_lon": -74.4509863,
+    "api_level": 3,
+    "api_modified": "2023-11-22",
+    "api_fetched": "2026-11-06"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1076.461495858035,
+     -1782.2527819182724
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "mindat_id": 175647,
+    "name": "Berkeley Heights (township), Union County, NJ",
+    "lon": -74.425,
+    "lat": 40.683,
+    "stated_precision": "Town-level entry; treated as the whole township, +/-2 km.",
+    "minerals": "Quartz var. Carnelian",
+    "rock_types": "(none listed)",
+    "references": "Blyskal (2013), a collector's account on Mindat of finds in Green Brook in the 1960s",
+    "tier": "mindat_reported",
+    "accessed": "2026-11-04",
+    "url": "https://www.mindat.org/loc-175647.html",
+    "api_minerals": "Carnelian; Chalcedony; Moganite; Quartz",
+    "api_description": "I collected this locality in the 1960's when I was in high school. Green Brook ran through a wooded area next to a Catholic cemetery off Plainfield Avenue just north of where Interstate highway 78 runs through the area.  We used to park in the cemetery...",
+    "api_lat": 40.6641666667,
+    "api_lon": -74.4336111111,
+    "api_level": 3,
+    "api_modified": "2023-11-22",
+    "api_fetched": "2026-11-06"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1089.4498468723614,
+     3226.963134514168
+    ]
+   }
+  }
+ ]
+}

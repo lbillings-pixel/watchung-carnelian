@@ -1,0 +1,200 @@
+{
+  "bedrock": {
+    "JTrp": {
+      "id": 1,
+      "name": "Passaic Formation",
+      "color": "#C9A79B"
+    },
+    "Jo": {
+      "id": 2,
+      "name": "Orange Mountain Basalt",
+      "color": "#9A9A9A"
+    },
+    "Jf": {
+      "id": 3,
+      "name": "Feltville Formation",
+      "color": "#E8B4AC"
+    },
+    "Jfw": {
+      "id": 3,
+      "name": "Feltville Formation (Washington Valley Member)",
+      "color": "#E8B4AC"
+    },
+    "Jp": {
+      "id": 4,
+      "name": "Preakness Basalt",
+      "color": "#B9B9B9"
+    },
+    "Jpg": {
+      "id": 5,
+      "name": "Preakness Basalt, gabbroid",
+      "color": "#7E7E7E"
+    },
+    "Jps": {
+      "id": 6,
+      "name": "Preakness Basalt, sedimentary interbed (Jps1)",
+      "color": "#E5C7B8"
+    },
+    "Jt": {
+      "id": 7,
+      "name": "Towaco Formation",
+      "color": "#D8A8A0"
+    },
+    "Jh": {
+      "id": 8,
+      "name": "Hook Mountain Basalt",
+      "color": "#A8A8A8"
+    },
+    "Jb": {
+      "id": 9,
+      "name": "Boonton Formation",
+      "color": "#D4B3B3"
+    }
+  },
+  "surficial": {
+    "weathered_basalt": {
+      "id": 1,
+      "units": [
+        "Qwb",
+        "Qwbt",
+        "Qe/Qwb"
+      ],
+      "name": "Weathered basalt",
+      "color": "#C8B99C"
+    },
+    "basalt_colluvium": {
+      "id": 2,
+      "units": [
+        "Qcb",
+        "Qcbl",
+        "Qe/Qcb",
+        "Qcbl/Qpt"
+      ],
+      "name": "Basalt colluvium",
+      "color": "#B7A27A"
+    },
+    "alluvium": {
+      "id": 3,
+      "units": [
+        "Qal",
+        "Qcal",
+        "Qaf"
+      ],
+      "name": "Alluvium (and alluvium/colluvium undivided)",
+      "color": "#F2E6B3"
+    },
+    "stream_terrace": {
+      "id": 4,
+      "units": [
+        "Qst",
+        "Qstu"
+      ],
+      "name": "Stream terrace deposits",
+      "color": "#EEDFA3"
+    },
+    "swamp": {
+      "id": 5,
+      "units": [
+        "Qs"
+      ],
+      "name": "Swamp and marsh deposits",
+      "color": "#A9C7B5"
+    },
+    "weathered_shale": {
+      "id": 6,
+      "units": [
+        "Qws",
+        "Qe/Qws",
+        "Qcs",
+        "Tp/Qws"
+      ],
+      "name": "Weathered shale / shale colluvium",
+      "color": "#D9B8A8"
+    },
+    "pre_illinoian_till": {
+      "id": 7,
+      "units": [
+        "Qpt"
+      ],
+      "name": "Pre-Illinoian (early Pleistocene) till",
+      "color": "#8FB3D9"
+    },
+    "terminal_moraine": {
+      "id": 8,
+      "units": [
+        "Qtmr"
+      ],
+      "name": "Late Wisconsinan terminal moraine (Rahway till)",
+      "color": "#4C78B5"
+    },
+    "rahway_till": {
+      "id": 9,
+      "units": [
+        "Qr",
+        "Qrt",
+        "Qry"
+      ],
+      "name": "Rahway till (late Wisconsinan)",
+      "color": "#7FA3D1"
+    },
+    "glacial_lake_passaic": {
+      "id": 10,
+      "units": [
+        "Qpml",
+        "Qpmd",
+        "Qpmf",
+        "Qe/Qpml",
+        "Qpc",
+        "Qpg",
+        "Qpf"
+      ],
+      "name": "Glacial Lake Passaic deposits",
+      "color": "#BFD8EE"
+    },
+    "eolian": {
+      "id": 11,
+      "units": [
+        "Qe"
+      ],
+      "name": "Eolian deposits",
+      "color": "#EFE3C8"
+    },
+    "pensauken": {
+      "id": 12,
+      "units": [
+        "Tp"
+      ],
+      "name": "Pensauken Formation (Neogene fluvial)",
+      "color": "#E6C27A"
+    },
+    "talus": {
+      "id": 13,
+      "units": [
+        "Qta"
+      ],
+      "name": "Talus",
+      "color": "#A89F91"
+    },
+    "bedrock_outcrop": {
+      "id": 14,
+      "units": [
+        "r"
+      ],
+      "name": "Extensive bedrock outcrop",
+      "color": "#9C9C9C"
+    }
+  },
+  "grid": {
+    "cell_size_m": 4.0,
+    "bbox_utm": [
+      540500.0,
+      4494500.0,
+      554500.0,
+      4506500.0
+    ],
+    "scene_origin_utm": [
+      547500.0,
+      4500500.0
+    ]
+  }
+}

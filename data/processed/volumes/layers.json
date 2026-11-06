@@ -1,0 +1,537 @@
+{
+  "plane": {
+    "a": 0.09953919707605026,
+    "b": -0.1345195043836842,
+    "c": 143.07083031316918,
+    "dip_deg": 9.5,
+    "dipdir_deg": 323.5,
+    "rms_m": 34.07806659331515,
+    "check_top_plane": {
+      "rms_m": 26.755499178957756,
+      "separation_m": 187.56720922592348,
+      "base_misfit_plane_only_m": 42.567209225923484,
+      "reference": "Jp/Jps plane (top of first flow)"
+    },
+    "attitude_source": "dip 9.5 deg measured on GMS 04-02 cross-section A-A' (scripts/measure_gms_section.py); dip direction fitted to the Jp/Jps (first-flow top) trace, which runs beside both sample reaches (A-G4)"
+  },
+  "fold": {
+    "type": "piecewise_cosine",
+    "control_u_m": [
+      -150.0,
+      -793.4290167495062,
+      -1362.595573561978
+    ],
+    "control_delta_m": [
+      0.0,
+      -43.5,
+      -15.25
+    ],
+    "origin_xy": [
+      426.30686748435255,
+      1224.4987768558785
+    ],
+    "down_dip_unit_xy": [
+      -0.594822786751341,
+      0.8038568606172175
+    ],
+    "formula": "S(x,y) = a x + b y + c + delta(u); u = (p - origin) . down_dip; delta = control_delta[0] for u >= control_u[0]; cosine blend between successive control points; control_delta[-1] below the last. Offset surfaces: S + off / cos(local dip).",
+    "check": {
+      "control_u_m": [
+        -150.0,
+        -793.4290167495062,
+        -1362.595573561978
+      ],
+      "control_delta_m": [
+        0.0,
+        -43.5,
+        -15.25
+      ],
+      "base_median_m": 0.10352801769593611,
+      "base_rms_m": 26.285667088935917,
+      "top_median_m": 0.0,
+      "top_rms_m": 26.755499178957756,
+      "jo_jf_median_m": -0.027003771438039337,
+      "jo_jf_rms_m": 53.93488551808521,
+      "min_dip_deg": 3.499293807298536,
+      "max_dip_deg": 13.782665535245126,
+      "u_sgb_m": 201.68972176840566
+    },
+    "note": "Cylindrical (strike-parallel) flexure fitted so the modelled first-flow base honours the mapped Jf/Jp and Jo/Jf traces as well as the Jp/Jps trace, with the paper's thicknesses; dip 9.5 deg at and NW of GBR (both sample reaches), flattening between the reaches and the Feltville valley, then steepening toward First Watchung as the GMS section draws (A-G4)."
+  },
+  "flat_plane": {
+    "a": 0.0,
+    "b": 0.0,
+    "c": 20.786105029487487,
+    "dip_deg": 0.0,
+    "dipdir_deg": 323.5,
+    "note": "untilted stack for the depositional chapters, levelled on the first-flow base at GBR"
+  },
+  "first_flow_thickness_drawn_m": 145.0,
+  "first_flow_thickness_range_m": [
+    125,
+    145
+  ],
+  "first_flow_thickness_puffer_m": [
+    140,
+    180
+  ],
+  "gabbroid_lens": {
+    "top_offset_m": 140.0,
+    "thick_gbr_m": 82.0,
+    "thick_sgb_m": 49.0,
+    "strike_unit_xy": [
+      0.8038568606172175,
+      0.594822786751341
+    ],
+    "s_gbr": 1071.049474978554,
+    "s_sgb": -2969.2046962886543
+  },
+  "zone_a": {
+    "keys": [
+      "vesicle_sheet_1",
+      "vesicle_sheet_2",
+      "vesicle_sheet_3",
+      "vesicle_sheet_4",
+      "vesicle_sheet_5",
+      "vesicle_sheet_6"
+    ],
+    "top_offset_m": 140.0,
+    "base_offset_m": 106.0,
+    "sheets": [
+      {
+        "key": "vesicle_sheet_1",
+        "depth_below_top_m": 5.0,
+        "thickness_m": 1.0,
+        "vesicle_pct": 15,
+        "note": "Table 1 'vesicular gabbroid' sample height (140 m above the base)"
+      },
+      {
+        "key": "vesicle_sheet_2",
+        "depth_below_top_m": 12.0,
+        "thickness_m": 1.0,
+        "vesicle_pct": 19,
+        "note": "Puffer & Volkert: uppermost sheet, highly vesicular black vitreous glass, ~19 % pore space"
+      },
+      {
+        "key": "vesicle_sheet_3",
+        "depth_below_top_m": 17.0,
+        "thickness_m": 0.5,
+        "vesicle_pct": 14,
+        "note": "thin sheet (typical 5-15 cm; drawn 0.5 m)"
+      },
+      {
+        "key": "vesicle_sheet_4",
+        "depth_below_top_m": 22.0,
+        "thickness_m": 1.0,
+        "vesicle_pct": 10,
+        "note": "mid-envelope sheet"
+      },
+      {
+        "key": "vesicle_sheet_5",
+        "depth_below_top_m": 28.0,
+        "thickness_m": 2.0,
+        "vesicle_pct": 5,
+        "note": "thicker, less vesicular with depth"
+      },
+      {
+        "key": "vesicle_sheet_6",
+        "depth_below_top_m": 36.0,
+        "thickness_m": 3.0,
+        "vesicle_pct": 2,
+        "note": "Puffer & Volkert: deepest layer at 36 m, only slightly vesicular; the 3 m maximum"
+      }
+    ],
+    "source": "Puffer & Volkert 2001 type 1 sheets (1 cm-3 m, upper 40 m, 19 -> 2 % pore space); paper Table 1 (140 m), section 5.2"
+  },
+  "tilt_axis": {
+    "point_xyz_local": [
+      426.30686748435255,
+      1224.4987768558785,
+      20.786105029487487
+    ],
+    "strike_unit_xy": [
+      0.8038568606172175,
+      0.594822786751341
+    ]
+  },
+  "thicken": {
+    "factor": 20.0,
+    "thin_limit_m": 10.0,
+    "note": "thin layers have a pre-thickened tilted copy (file_thick) at display_thickness_m; the flat stack is thickened by an affine transform in the app"
+  },
+  "z_floor": -450.0,
+  "z_ceiling": 450.0,
+  "z_ceiling_flat": 600.0,
+  "layers": [
+    {
+      "key": "passaic",
+      "name": "Passaic Formation (JTrp)",
+      "base_offset_m": -1263.0,
+      "thickness_m": 900.0,
+      "variable": false,
+      "tier": "observed",
+      "color": "#C9A79B",
+      "refs": "paper Fig. 2; GMS 04-02",
+      "note": "Regionally as much as 11,480 ft (GMS 04-02); drawn as a filler to the model floor.",
+      "file": "passaic.glb",
+      "file_flat": "passaic_flat.glb"
+    },
+    {
+      "key": "orange_mountain",
+      "name": "Orange Mountain Basalt (Jo), ~218 m",
+      "base_offset_m": -363.0,
+      "thickness_m": 218.0,
+      "variable": false,
+      "tier": "observed",
+      "color": "#9A9A9A",
+      "refs": "GMS 04-02 unit description; paper Fig. 2, section 4.2",
+      "note": "Thickness about 715 ft (218 m) from the Chatham map text; three flows, not subdivided here.",
+      "file": "orange_mountain.glb",
+      "file_flat": "orange_mountain_flat.glb"
+    },
+    {
+      "key": "feltville",
+      "name": "Feltville Formation (Jf), 145 m",
+      "base_offset_m": -145.0,
+      "thickness_m": 144.5,
+      "variable": false,
+      "tier": "observed",
+      "color": "#E8B4AC",
+      "refs": "paper section 2; GMS 04-02 (450-483 ft)",
+      "note": "Fluvial red sandstone/siltstone; two 3 m lacustrine sequences near the base (shown inside).",
+      "file": "feltville.glb",
+      "file_flat": "feltville_flat.glb"
+    },
+    {
+      "key": "feltville_lacustrine_1",
+      "name": "Feltville lacustrine sequence 1 (3 m)",
+      "base_offset_m": -125.0,
+      "thickness_m": 3.0,
+      "variable": false,
+      "tier": "observed",
+      "color": "#4A4A4A",
+      "refs": "paper section 2; GMS 04-02 (each as much as 10 ft, Washington Valley Member)",
+      "note": "'Near the base': position inside the formation is illustrative (A-G6).",
+      "file": "feltville_lacustrine_1.glb",
+      "file_flat": "feltville_lacustrine_1_flat.glb",
+      "display_thickness_m": 10.0,
+      "file_thick": "feltville_lacustrine_1_thick.glb"
+    },
+    {
+      "key": "feltville_lacustrine_2",
+      "name": "Feltville lacustrine sequence 2 (3 m)",
+      "base_offset_m": -110.0,
+      "thickness_m": 3.0,
+      "variable": false,
+      "tier": "observed",
+      "color": "#4A4A4A",
+      "refs": "paper section 2; GMS 04-02",
+      "note": "'Near the base': position inside the formation is illustrative (A-G6).",
+      "file": "feltville_lacustrine_2.glb",
+      "file_flat": "feltville_lacustrine_2_flat.glb",
+      "display_thickness_m": 10.0,
+      "file_thick": "feltville_lacustrine_2_thick.glb"
+    },
+    {
+      "key": "feltville_aureole",
+      "name": "Feltville thermally altered top (0.5 m)",
+      "base_offset_m": -0.5,
+      "thickness_m": 0.5,
+      "variable": false,
+      "tier": "observed",
+      "color": "#B65C3C",
+      "refs": "paper section 2 (GMS 04-02: 'several inches')",
+      "note": "Uppermost ~0.5 m thermally altered at the Preakness contact.",
+      "file": "feltville_aureole.glb",
+      "file_flat": "feltville_aureole_flat.glb",
+      "display_thickness_m": 10.0,
+      "file_thick": "feltville_aureole_thick.glb"
+    },
+    {
+      "key": "glass_rind",
+      "name": "Basaltic glass layer at the flow base (<= 2.5 cm)",
+      "base_offset_m": 0.0,
+      "thickness_m": 0.025,
+      "variable": false,
+      "tier": "observed",
+      "color": "#1E1E1E",
+      "refs": "paper section 2",
+      "note": "Gray/brown basaltic glass in contact with the pillows. Local (subaqueous) base.",
+      "file": "glass_rind.glb",
+      "file_flat": "glass_rind_flat.glb",
+      "display_thickness_m": 0.5,
+      "file_thick": "glass_rind_thick.glb"
+    },
+    {
+      "key": "pillow_zone",
+      "name": "Pillowed, vesicular base (3-10 m)",
+      "base_offset_m": 0.025,
+      "thickness_m": 6.5,
+      "variable": false,
+      "tier": "observed",
+      "color": "#6F7F8A",
+      "refs": "paper section 2",
+      "note": "Pillows 0.6-0.9 m; drawn 6.5 m (range 3-10 m). Local to the study area.",
+      "file": "pillow_zone.glb",
+      "file_flat": "pillow_zone_flat.glb",
+      "display_thickness_m": 10.0,
+      "file_thick": "pillow_zone_thick.glb"
+    },
+    {
+      "key": "columnar_zone",
+      "name": "Colonnade: slender columnar-jointed basalt",
+      "base_offset_m": 6.525,
+      "thickness_m": 51.475,
+      "variable": true,
+      "thickness_at_sgb_m": 84.475,
+      "base_offset_at_sgb_m": 6.525,
+      "tier": "observed",
+      "color": "#9FA6AA",
+      "refs": "paper section 2, 5.2; GMS 04-02 (columns 2-24 in); Faust 1978",
+      "note": "Columns <= 0.5 m wide, 6 m long; sparsely vesicular (< 0.2 vol%). Its top is the gradational base of the gabbroid lens.",
+      "file": "columnar_zone.glb",
+      "file_flat": "columnar_zone_flat.glb"
+    },
+    {
+      "key": "gabbroid",
+      "name": "Gabbroid lens (Jpg): 82 m at Green Brook, 49 m at Stirling Brook",
+      "base_offset_m": 58.0,
+      "thickness_m": 82.0,
+      "variable": true,
+      "thickness_at_sgb_m": 49.0,
+      "base_offset_at_sgb_m": 91.0,
+      "tier": "observed",
+      "color": "#7E7E7E",
+      "refs": "paper section 2, 4.1, Table 1; Puffer & Volkert 2001 (type 3 lens, Berkeley Heights)",
+      "note": "Thickness interpolated along strike between the two calculated values (paper section 4.1) and held beyond them; top sharp at 140 m (Table 1 vesicular-gabbroid height), base gradational. Puffer & Volkert: the Berkeley Heights lens makes up most of the upper half of the flow, up to 96 m.",
+      "file": "gabbroid.glb",
+      "file_flat": "gabbroid_flat.glb"
+    },
+    {
+      "key": "glass_rich_gabbroid",
+      "name": "Glass-rich gabbroid band (12-36 m below the flow top)",
+      "base_offset_m": 109.0,
+      "thickness_m": 24.0,
+      "variable": false,
+      "tier": "observed",
+      "color": "#4B2E2E",
+      "refs": "paper section 2, Table 1, 5.1; Puffer & Volkert 2001 (sheets 12-36 m below the vesicular flow top)",
+      "note": "Dark red/black vitreous glass; the paper's favoured silica source. The zone A sheets lie inside and just above it.",
+      "file": "glass_rich_gabbroid.glb",
+      "file_flat": "glass_rich_gabbroid_flat.glb"
+    },
+    {
+      "key": "vesicle_sheet_1",
+      "name": "Zone A sheet 1: vesicle-rich gabbroid sheet 5 m below the flow top (1 m, ~15 % vesicles)",
+      "base_offset_m": 139.0,
+      "thickness_m": 1.0,
+      "variable": false,
+      "tier": "inferred",
+      "color": "#C44B47",
+      "refs": "paper section 5.2, Table 1 (140 m); Puffer & Volkert 2001 (type 1 sheets: 1 cm-3 m, upper 40 m, 19 % -> 2 % pore space with depth)",
+      "note": "One of six drawn sheets standing for the set of thin vesicular gabbroid sheets in the upper 40 m (the paper's candidate zone A). Table 1 'vesicular gabbroid' sample height (140 m above the base). Sheet positions inside the envelope are Illustrative; the envelope, thickness range and vesicularity trend are Puffer & Volkert's. Drawn thickness capped at 3 m.",
+      "file": "vesicle_sheet_1.glb",
+      "file_flat": "vesicle_sheet_1_flat.glb",
+      "group": "zone_a",
+      "display_max_m": 3.0,
+      "vesicle_pct": 15,
+      "depth_below_top_m": 5.0,
+      "display_thickness_m": 3.0,
+      "file_thick": "vesicle_sheet_1_thick.glb"
+    },
+    {
+      "key": "vesicle_sheet_2",
+      "name": "Zone A sheet 2: vesicle-rich gabbroid sheet 12 m below the flow top (1 m, ~19 % vesicles)",
+      "base_offset_m": 132.0,
+      "thickness_m": 1.0,
+      "variable": false,
+      "tier": "inferred",
+      "color": "#D9534F",
+      "refs": "paper section 5.2, Table 1 (140 m); Puffer & Volkert 2001 (type 1 sheets: 1 cm-3 m, upper 40 m, 19 % -> 2 % pore space with depth)",
+      "note": "One of six drawn sheets standing for the set of thin vesicular gabbroid sheets in the upper 40 m (the paper's candidate zone A). Puffer & Volkert: uppermost sheet, highly vesicular black vitreous glass, ~19 % pore space. Sheet positions inside the envelope are Illustrative; the envelope, thickness range and vesicularity trend are Puffer & Volkert's. Drawn thickness capped at 3 m.",
+      "file": "vesicle_sheet_2.glb",
+      "file_flat": "vesicle_sheet_2_flat.glb",
+      "group": "zone_a",
+      "display_max_m": 3.0,
+      "vesicle_pct": 19,
+      "depth_below_top_m": 12.0,
+      "display_thickness_m": 3.0,
+      "file_thick": "vesicle_sheet_2_thick.glb"
+    },
+    {
+      "key": "vesicle_sheet_3",
+      "name": "Zone A sheet 3: vesicle-rich gabbroid sheet 17 m below the flow top (0.5 m, ~14 % vesicles)",
+      "base_offset_m": 127.5,
+      "thickness_m": 0.5,
+      "variable": false,
+      "tier": "inferred",
+      "color": "#BF4945",
+      "refs": "paper section 5.2, Table 1 (140 m); Puffer & Volkert 2001 (type 1 sheets: 1 cm-3 m, upper 40 m, 19 % -> 2 % pore space with depth)",
+      "note": "One of six drawn sheets standing for the set of thin vesicular gabbroid sheets in the upper 40 m (the paper's candidate zone A). thin sheet (typical 5-15 cm; drawn 0.5 m). Sheet positions inside the envelope are Illustrative; the envelope, thickness range and vesicularity trend are Puffer & Volkert's. Drawn thickness capped at 3 m.",
+      "file": "vesicle_sheet_3.glb",
+      "file_flat": "vesicle_sheet_3_flat.glb",
+      "group": "zone_a",
+      "display_max_m": 3.0,
+      "vesicle_pct": 14,
+      "depth_below_top_m": 17.0,
+      "display_thickness_m": 3.0,
+      "file_thick": "vesicle_sheet_3_thick.glb"
+    },
+    {
+      "key": "vesicle_sheet_4",
+      "name": "Zone A sheet 4: vesicle-rich gabbroid sheet 22 m below the flow top (1 m, ~10 % vesicles)",
+      "base_offset_m": 122.0,
+      "thickness_m": 1.0,
+      "variable": false,
+      "tier": "inferred",
+      "color": "#AA413E",
+      "refs": "paper section 5.2, Table 1 (140 m); Puffer & Volkert 2001 (type 1 sheets: 1 cm-3 m, upper 40 m, 19 % -> 2 % pore space with depth)",
+      "note": "One of six drawn sheets standing for the set of thin vesicular gabbroid sheets in the upper 40 m (the paper's candidate zone A). mid-envelope sheet. Sheet positions inside the envelope are Illustrative; the envelope, thickness range and vesicularity trend are Puffer & Volkert's. Drawn thickness capped at 3 m.",
+      "file": "vesicle_sheet_4.glb",
+      "file_flat": "vesicle_sheet_4_flat.glb",
+      "group": "zone_a",
+      "display_max_m": 3.0,
+      "vesicle_pct": 10,
+      "depth_below_top_m": 22.0,
+      "display_thickness_m": 3.0,
+      "file_thick": "vesicle_sheet_4_thick.glb"
+    },
+    {
+      "key": "vesicle_sheet_5",
+      "name": "Zone A sheet 5: vesicle-rich gabbroid sheet 28 m below the flow top (2 m, ~5 % vesicles)",
+      "base_offset_m": 115.0,
+      "thickness_m": 2.0,
+      "variable": false,
+      "tier": "inferred",
+      "color": "#913734",
+      "refs": "paper section 5.2, Table 1 (140 m); Puffer & Volkert 2001 (type 1 sheets: 1 cm-3 m, upper 40 m, 19 % -> 2 % pore space with depth)",
+      "note": "One of six drawn sheets standing for the set of thin vesicular gabbroid sheets in the upper 40 m (the paper's candidate zone A). thicker, less vesicular with depth. Sheet positions inside the envelope are Illustrative; the envelope, thickness range and vesicularity trend are Puffer & Volkert's. Drawn thickness capped at 3 m.",
+      "file": "vesicle_sheet_5.glb",
+      "file_flat": "vesicle_sheet_5_flat.glb",
+      "group": "zone_a",
+      "display_max_m": 3.0,
+      "vesicle_pct": 5,
+      "depth_below_top_m": 28.0,
+      "display_thickness_m": 3.0,
+      "file_thick": "vesicle_sheet_5_thick.glb"
+    },
+    {
+      "key": "vesicle_sheet_6",
+      "name": "Zone A sheet 6: vesicle-rich gabbroid sheet 36 m below the flow top (3 m, ~2 % vesicles)",
+      "base_offset_m": 106.0,
+      "thickness_m": 3.0,
+      "variable": false,
+      "tier": "inferred",
+      "color": "#81312F",
+      "refs": "paper section 5.2, Table 1 (140 m); Puffer & Volkert 2001 (type 1 sheets: 1 cm-3 m, upper 40 m, 19 % -> 2 % pore space with depth)",
+      "note": "One of six drawn sheets standing for the set of thin vesicular gabbroid sheets in the upper 40 m (the paper's candidate zone A). Puffer & Volkert: deepest layer at 36 m, only slightly vesicular; the 3 m maximum. Sheet positions inside the envelope are Illustrative; the envelope, thickness range and vesicularity trend are Puffer & Volkert's. Drawn thickness capped at 3 m.",
+      "file": "vesicle_sheet_6.glb",
+      "file_flat": "vesicle_sheet_6_flat.glb",
+      "group": "zone_a",
+      "display_max_m": 3.0,
+      "vesicle_pct": 2,
+      "depth_below_top_m": 36.0,
+      "display_thickness_m": 3.0,
+      "file_thick": "vesicle_sheet_6_thick.glb"
+    },
+    {
+      "key": "massive_top",
+      "name": "Blocky, massive basalt below the flow top",
+      "base_offset_m": 140.0,
+      "thickness_m": 2.5,
+      "variable": false,
+      "tier": "observed",
+      "color": "#A3A3A3",
+      "refs": "paper section 2",
+      "note": "Uppermost part of the first flow above the gabbroid.",
+      "file": "massive_top.glb",
+      "file_flat": "massive_top_flat.glb",
+      "display_thickness_m": 10.0,
+      "file_thick": "massive_top_thick.glb"
+    },
+    {
+      "key": "amygdaloidal_top",
+      "name": "Vesicular, amygdaloidal flow top (~2.5 m): candidate zone B",
+      "base_offset_m": 142.5,
+      "thickness_m": 2.5,
+      "variable": false,
+      "tier": "observed",
+      "color": "#E07A5F",
+      "refs": "paper section 2, Fig. 3c (GMS 04-02: vesiculated zones as much as 8 ft; Puffer & Volkert: 3-6 m)",
+      "note": "Highly vesicular and amygdaloidal.",
+      "file": "amygdaloidal_top.glb",
+      "file_flat": "amygdaloidal_top_flat.glb",
+      "display_thickness_m": 10.0,
+      "file_thick": "amygdaloidal_top_thick.glb"
+    },
+    {
+      "key": "jps1",
+      "name": "Jps1 sedimentary interbed (2-3 m)",
+      "base_offset_m": 145.0,
+      "thickness_m": 2.5,
+      "variable": false,
+      "tier": "observed",
+      "color": "#E5C7B8",
+      "refs": "paper section 2, 4.1, Fig. 3c (GMS 04-02: 6-25 ft; Puffer & Volkert: 2-8 m)",
+      "note": "Thin-bedded reddish-brown fluvial siltstone and shale on the eroded, exposed flow top.",
+      "file": "jps1.glb",
+      "file_flat": "jps1_flat.glb",
+      "display_thickness_m": 10.0,
+      "file_thick": "jps1_thick.glb"
+    },
+    {
+      "key": "second_flow_base",
+      "name": "Second flow base: massive basalt with pipe vesicles",
+      "base_offset_m": 147.5,
+      "thickness_m": 6.0,
+      "variable": false,
+      "tier": "observed",
+      "color": "#8E9A9F",
+      "refs": "paper section 2",
+      "note": "Overlain by widely spaced blocky columnar joints. 6 m drawn (no thickness given).",
+      "file": "second_flow_base.glb",
+      "file_flat": "second_flow_base_flat.glb",
+      "display_thickness_m": 10.0,
+      "file_thick": "second_flow_base_thick.glb"
+    },
+    {
+      "key": "second_flow",
+      "name": "Second flow (~70 m)",
+      "base_offset_m": 153.5,
+      "thickness_m": 64.0,
+      "variable": false,
+      "tier": "observed",
+      "color": "#B9B9B9",
+      "refs": "paper section 2 (Puffer & Volkert: 80 m)",
+      "note": "Relatively massive basalt with a few very thin gabbroid layers.",
+      "file": "second_flow.glb",
+      "file_flat": "second_flow_flat.glb"
+    },
+    {
+      "key": "upper_preakness",
+      "name": "Upper Preakness flows (to 315 m total)",
+      "base_offset_m": 217.5,
+      "thickness_m": 97.5,
+      "variable": false,
+      "tier": "illustrative",
+      "color": "#C9C9C9",
+      "refs": "paper section 2 (GMS 04-02: about 1,040 ft total)",
+      "note": "The paper gives 315 m total and 'at least three flows' but does not describe the third; filler to the total.",
+      "file": "upper_preakness.glb",
+      "file_flat": "upper_preakness_flat.glb"
+    },
+    {
+      "key": "towaco",
+      "name": "Towaco Formation (Jt), ~380 m",
+      "base_offset_m": 315.0,
+      "thickness_m": 381.0,
+      "variable": false,
+      "tier": "observed",
+      "color": "#D8A8A0",
+      "refs": "GMS 04-02 (maximum about 1,250 ft); paper Fig. 1-2",
+      "note": "Regional maximum thickness from the Chatham map text; drawn to the model ceiling.",
+      "file": "towaco.glb",
+      "file_flat": "towaco_flat.glb"
+    }
+  ]
+}
