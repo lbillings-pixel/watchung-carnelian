@@ -32,6 +32,38 @@ scrubber (remembered between runs).
 To see the log, run it from a terminal with `--verbose`, or run `WatchungCarnelian.exe --headless -- --smoke` for the
 self-test. It needs a Vulkan-capable GPU (Forward+ renderer). It was built and tested on Windows 10, RTX 4070.
 
+## Web version
+
+The same app runs in a desktop browser (Chrome, Edge or Firefox; Safari best-effort; mouse and keyboard, no phones or
+tablets): https://lbillings-pixel.github.io/watchung-carnelian/ . The first visit downloads about 45 MB (the engine and
+the data), which the browser then caches. Sound starts with your first click (browsers require one); the intro
+screen's buttons provide it. Settings are kept in the browser's storage.
+
+How it differs from the Windows build, all by design and all in `godot/scripts/Platform.gd`:
+- **Renderer:** WebGL 2 through Godot's Compatibility renderer instead of Forward+ (Vulkan). The look is close to the
+  desktop build, not identical: the sun casts no shadows on the web (with them that renderer washes the scene out
+  white), and the lava, grass and sky shade a little differently.
+- **Graphics quality:** advanced screen > Display > "Graphics quality". Low (the web default) draws the terrain on a
+  16 m grid instead of 8 m (the sample sites keep their 1 m detail), a smaller shadow map, no anti-aliasing, and
+  the 3D view at most 1080 pixels tall. High is the Windows default. The choice is remembered.
+- **Full screen:** a "Full screen" button in the top bar, or **F** (Esc leaves).
+- **Page flags:** `?smoke` runs the self-test in the page (results in the browser's developer console, 135 checks);
+  `?fps` shows a frame counter with the quality and 3D resolution. The capture and movie modes are desktop-only.
+
+Publishing: `.github/workflows/web.yml` builds the web version on every push and pull request with the official
+Godot 4.7.2 release (downloads checked against pinned SHA-512 sums), runs the smoke test headless, and on `main`
+deploys `build/web/` to GitHub Pages. To build it locally:
+
+```
+tools/godot/Godot_v4.7.2-stable_win64_console.exe --headless --path godot --export-release "Web" ../build/web/index.html
+.venv/Scripts/python.exe -m http.server 8060 --bind 127.0.0.1 --directory build/web    # then open http://127.0.0.1:8060/
+```
+
+The single-threaded web template is used, so no cross-origin-isolation headers are needed and any static host works.
+To preview the web renderer without a browser, run the desktop app with
+`--rendering-method gl_compatibility` (all the `--` flags work, e.g. `-- --capture <dir> --quick` for eight tour
+beats to compare with a Forward+ capture).
+
 ## Two screens
 
 - **Basic** (default for the tour): chapter bar, Guided tour button, scrubber with a caption line that says what to
@@ -208,7 +240,7 @@ API; marker positions and their stated precision come from the pages read on 202
 
 ## Library and design choices
 
-- **Renderer:** Forward+ (Vulkan). Measured frame rate on the test machine (RTX 4070, 1600×900, vsync off, round 6
+- **Renderer:** Forward+ (Vulkan) for Windows; the web build uses the Compatibility renderer (see "Web version"). Measured frame rate on the test machine (RTX 4070, 1600×900, vsync off, round 6
   sweep): 289 fps in the chapter-7 landscape with the cover skin on (92 before round 6), 221 fps at the slowest tour
   beat (chapter 3 beat 5; 29 before), nothing under 150 fps; see `docs/perf.txt`. Round 6 replaced per-fragment hash
   noise with one shared mipmapped noise texture, stopped drawing the layer stack where an opaque uncut terrain hides
@@ -290,9 +322,11 @@ data/processed/  terrain/ (heightmaps, unit rasters, terrain.json), vectors/ (Ge
 data/SOURCES.md
 scripts/         download_data.py build_terrain.py build_geology.py build_volumes.py build_cover.py build_charts.py build_icon.py verify_pipeline.py sync_assets.py
 assets/          carnelian.png (stylised artwork); godot/assets/ holds the copies the app and the exe icon use
-godot/           project.godot, scenes/Main.tscn, scripts/ (Terrain, Volumes, Features, CameraRig, Timeline, Tour, UI, ...), chapters/Ch1..Ch8, shaders/, data/ (synced assets), tests/smoke.gd
+godot/           project.godot, export_presets.cfg (Windows Desktop, Web), scenes/Main.tscn, scripts/ (Terrain, Volumes, Features, CameraRig, Timeline, Tour, UI, Platform, ...), chapters/Ch1..Ch8, shaders/, data/ (synced assets), tests/smoke.gd
 data/raw/sources/ the seven maps/papers supplied for the review (PDF + extracted text each)
 build/windows/   exported desktop build
+build/web/       exported web build (published by .github/workflows/web.yml)
+.github/workflows/web.yml  CI: web export, smoke test, GitHub Pages deploy
 docs/screenshots/ capture output
 tools/godot/     Godot 4.7.2 editor + export templates
 ```

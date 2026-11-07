@@ -155,3 +155,10 @@ the New Jersey carnelian locality list fetched by scripts/fetch_mindat.py into s
 chapter 1 or on chapter 4's in-vesicle moves; a bubbling-magma bed for the botryoidal growth (chapters 4 and W);
 Stop tour silences the sound. Mindat: no further functionality planned; the fetch script and data files stay as the
 hook for future builds (A-G25). Version 0.9.0; 0.9.1 softened the close-up sparkle (wider glints, slower flicker and breathing, half strength).
+17. (Web version, 2026-11-07) The same project also exports to the web, published on GitHub Pages by
+`.github/workflows/web.yml`. No fork: `project.godot` selects the Compatibility renderer (WebGL 2) for the web and
+keeps Forward+ for Windows; `scripts/Platform.gd` holds everything that differs (query-string flags, the
+High / Low graphics quality profile with Low the web default, the renderer look correction, full screen). Under
+Compatibility the sun casts no shadows (its shadowed pass re-adds ambient and fog and washed the scene white), the
+additive shaders skip fog, and the water reads OpenGL depth; the Forward+ output is unchanged. Verified by the smoke
+test on both renderers and in Chrome (`?smoke`, 135 checks). Version 0.10.0 (now set once, in `project.godot`).
