@@ -2,7 +2,7 @@ extends Node3D
 ## Lidar terrain: chunked flat grids displaced on the GPU from the packed 16-bit heightmap.
 ## Coordinates: x = UTM east - 547500, z = 4500500 - UTM north, y = elevation (m NAVD88).
 
-const CHUNK_SEGMENTS := 250
+const CHUNK_M := 2000.0   # chunk edge (m); fixed, so a quality change swaps the chunks' meshes, not the nodes
 var meta: Dictionary
 var unit_ids: Dictionary
 var mat: ShaderMaterial
@@ -12,7 +12,8 @@ var z_max: float
 var origin_xz: Vector2
 var size_xz: Vector2
 var cell := 4.0
-var stride := 2   # vertex every `stride` cells (2 -> 8 m)
+var stride := 2   # vertex every `stride` cells (2 -> 8 m); from the quality profile (Platform.gd)
+var chunks: Array = []   # the coarse grid's MeshInstance3Ds (their bedrock-top twins are in cover_chunks)
 var width: int
 var height: int
 
@@ -55,19 +56,20 @@ func _ready() -> void:
 	mat.set_shader_parameter("bedrock_colors", _color_table(unit_ids["bedrock"]))
 	mat.set_shader_parameter("surf_colors", _color_table(unit_ids["surficial"]))
 	mat.set_shader_parameter("noise_tex", preload("res://scripts/NoiseTex.gd").get_texture())
+	stride = Platform.profile()["terrain_stride"]
 	_build_chunks()
+	Platform.quality_changed.connect(func(_q): set_stride(Platform.profile()["terrain_stride"]))
 	bedrock_mat = mat.duplicate()
 	bedrock_mat.set_shader_parameter("cover_mode", 1)
-	for c in get_children():
-		if c is MeshInstance3D:
-			var b := MeshInstance3D.new()
-			b.mesh = c.mesh
-			b.material_override = bedrock_mat
-			b.position = c.position
-			b.custom_aabb = c.custom_aabb
-			b.visible = false
-			b.name = "bedrock_" + c.name
-			cover_chunks.append(b)
+	for c in chunks:
+		var b := MeshInstance3D.new()
+		b.mesh = c.mesh
+		b.material_override = bedrock_mat
+		b.position = c.position
+		b.custom_aabb = c.custom_aabb
+		b.visible = false
+		b.name = "bedrock_" + c.name
+		cover_chunks.append(b)
 	for b in cover_chunks:
 		add_child(b)
 	AppState.changed.connect(_apply_state)
@@ -88,25 +90,43 @@ func _color_table(d: Dictionary) -> PackedColorArray:
 
 
 func _build_chunks() -> void:
-	var seg_m := cell * stride
-	var chunk_m := seg_m * CHUNK_SEGMENTS
-	var nx := int(ceil(size_xz.x / chunk_m))
-	var nz := int(ceil(size_xz.y / chunk_m))
+	var nx := int(ceil(size_xz.x / CHUNK_M))
+	var nz := int(ceil(size_xz.y / CHUNK_M))
 	for i in nx:
 		for j in nz:
-			var w := minf(chunk_m, size_xz.x - i * chunk_m)
-			var h := minf(chunk_m, size_xz.y - j * chunk_m)
-			var pm := PlaneMesh.new()
-			pm.size = Vector2(w, h)
-			pm.subdivide_width = int(round(w / seg_m)) - 1
-			pm.subdivide_depth = int(round(h / seg_m)) - 1
+			var w := minf(CHUNK_M, size_xz.x - i * CHUNK_M)
+			var h := minf(CHUNK_M, size_xz.y - j * CHUNK_M)
 			var mi := MeshInstance3D.new()
-			mi.mesh = pm
+			mi.mesh = _chunk_mesh(w, h)
 			mi.material_override = mat
-			mi.position = Vector3(origin_xz.x + i * chunk_m + w * 0.5, 0.0, origin_xz.y + j * chunk_m + h * 0.5)
+			mi.position = Vector3(origin_xz.x + i * CHUNK_M + w * 0.5, 0.0, origin_xz.y + j * CHUNK_M + h * 0.5)
 			mi.custom_aabb = AABB(Vector3(-w * 0.5, z_min - 10.0, -h * 0.5), Vector3(w, z_max - z_min + 20.0, h))
 			mi.name = "chunk_%d_%d" % [i, j]
 			add_child(mi)
+			chunks.append(mi)
+
+
+## A flat w x h grid with a vertex every `stride` heightmap cells (the vertex shader displaces it).
+func _chunk_mesh(w: float, h: float) -> PlaneMesh:
+	var seg_m := cell * stride
+	var pm := PlaneMesh.new()
+	pm.size = Vector2(w, h)
+	pm.subdivide_width = int(round(w / seg_m)) - 1
+	pm.subdivide_depth = int(round(h / seg_m)) - 1
+	return pm
+
+
+## Change the coarse grid's vertex spacing (graphics quality): each chunk and its bedrock-top twin get a new mesh.
+func set_stride(s: int) -> void:
+	if s == stride:
+		return
+	stride = s
+	for k in chunks.size():
+		var c: MeshInstance3D = chunks[k]
+		var pm: PlaneMesh = c.mesh
+		c.mesh = _chunk_mesh(pm.size.x, pm.size.y)
+		if k < cover_chunks.size():
+			cover_chunks[k].mesh = c.mesh
 
 
 ## Every terrain material: the coarse grid, its bedrock-top twin, and the detail patches' pairs.

@@ -4,7 +4,12 @@
 // spheres, pebbles and slabs, even translucent ones.  Layers on a cut face use a frame drawn by
 // Volumes.gd instead (a shell would wash the whole cut face).  Presentation only (ASSUMPTIONS A-G17).
 shader_type spatial;
+#if CURRENT_RENDERER == RENDERER_COMPATIBILITY
+// web build: that renderer fogs additive passes too, so every overlapping face would add the fog colour again
+render_mode world_vertex_coords, cull_disabled, unshaded, blend_add, depth_draw_never, depth_test_disabled, fog_disabled;
+#else
 render_mode world_vertex_coords, cull_disabled, unshaded, blend_add, depth_draw_never, depth_test_disabled;
+#endif
 
 uniform vec4 color : source_color = vec4(1.0, 0.85, 0.25, 1.0);
 uniform float margin = 2.0;          // outward push, world metres (scaled by the caller to the entity size)

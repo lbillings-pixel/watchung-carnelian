@@ -179,6 +179,13 @@ func _build() -> void:
 	help.text = "?"
 	help.tooltip_text = "Click any feature for details (Esc dismisses the pop-up). Keys: 1-8 chapters, Space play/pause, G guided tour, N next beat (tour), M basic/advanced, R chapter view, C cross-section, T thickening, V tier styling, H hide/show panels, I introduction."
 	hb.add_child(help)
+	if Platform.is_web:
+		help.tooltip_text += " F full screen."
+		var fs := Button.new()
+		fs.text = "Full screen"
+		fs.tooltip_text = "Fill the screen (F; Esc leaves)"
+		fs.pressed.connect(Platform.toggle_fullscreen)
+		hb.add_child(fs)
 
 	# ---- bottom: strip + scrubber + caption ----
 	var bottom := _panel(root, Control.PRESET_BOTTOM_WIDE, Vector2(0, BOTTOM_H), 6)
@@ -386,6 +393,14 @@ func _build() -> void:
 	cm.item_selected.connect(func(i): AppState.color_mode = i)
 	AppState.changed.connect(func(): if cm.selected != AppState.color_mode: cm.select(AppState.color_mode))
 	rv.add_child(cm)
+	var gq := OptionButton.new()
+	var qkeys: Array = Platform.QUALITY.keys()
+	for q in qkeys:
+		gq.add_item("Graphics quality: " + Platform.QUALITY_NAMES[q])
+	gq.select(qkeys.find(Platform.quality))
+	gq.tooltip_text = "High: 8 m terrain mesh, 4096 px shadows, anti-aliasing. Low: 16 m terrain mesh (the sample sites keep their 1 m detail), lighter shadows, the 3D view drawn at most 1080 pixels tall. Remembered between runs."
+	gq.item_selected.connect(func(i): Platform.set_quality(qkeys[i]))
+	rv.add_child(gq)
 	_section(rv, "Cross-section plane")
 	var cs := CheckButton.new()
 	cs.text = "Enable cut"
@@ -1121,6 +1136,8 @@ func _unhandled_input(event: InputEvent) -> void:
 			AppState.thicken_on = not AppState.thicken_on
 		elif k == KEY_V:
 			AppState.tier_styling = not AppState.tier_styling
+		elif k == KEY_F and Platform.is_web:
+			Platform.toggle_fullscreen()
 		elif k == KEY_H:
 			for c in $Root.get_children():
 				if c != orient and c != info_panel:
