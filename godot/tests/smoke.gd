@@ -268,4 +268,5 @@ func _run() -> void:
 	Timeline.go_to_chapter(0, false)
 	check(true, "stepped through all chapters, both modes, and scrubbed")
 	print("smoke test: ", "PASS" if _fail == 0 else "FAIL (%d)" % _fail)
-	get_tree().quit(0 if _fail == 0 else 1)
+	if not Platform.is_web:   # in a browser there is no exit code to return; the page stays up after the result
+		get_tree().quit(0 if _fail == 0 else 1)

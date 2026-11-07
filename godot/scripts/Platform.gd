@@ -20,9 +20,10 @@ const QUALITY := {
 }
 const QUALITY_NAMES := {"high": "High", "low": "Low"}
 
-## Query-string flags honoured by the web build (?smoke runs the self-test in the browser; its result goes to the
-## browser console). Capture and movie modes write files and quit, so they stay desktop-only.
-const WEB_FLAGS := ["smoke"]
+## Query-string flags honoured by the web build: ?smoke runs the self-test in the browser (its result goes to the
+## browser console); ?fps shows a frame counter in the corner (also `-- --fps` on the desktop), for checking the
+## web build on a given machine. Capture and movie modes write files and quit, so they stay desktop-only.
+const WEB_FLAGS := ["smoke", "fps"]
 
 ## Look correction under the Compatibility renderer, applied to the sun at start-up. Found by comparing
 ## `--capture <dir> --quick` under both renderers: with the sun casting shadows, that renderer lights every
@@ -41,6 +42,34 @@ func _ready() -> void:
 	quality = q if QUALITY.has(q) else "high"
 	get_viewport().size_changed.connect(_apply_viewport)
 	_apply_viewport()
+	if "--fps" in user_args():
+		_add_fps_counter()
+
+
+var _fps_label: Label
+
+
+## A small frame counter at the top centre, above everything (frames per second, quality, 3D resolution).
+func _add_fps_counter() -> void:
+	var layer := CanvasLayer.new()
+	layer.layer = 100
+	add_child(layer)
+	_fps_label = Label.new()
+	_fps_label.set_anchors_and_offsets_preset(Control.PRESET_CENTER_TOP)
+	_fps_label.grow_horizontal = Control.GROW_DIRECTION_BOTH
+	_fps_label.offset_top = 48
+	_fps_label.add_theme_color_override("font_color", Color(1.0, 0.9, 0.3))
+	_fps_label.add_theme_color_override("font_outline_color", Color.BLACK)
+	_fps_label.add_theme_constant_override("outline_size", 4)
+	layer.add_child(_fps_label)
+	var t := Timer.new()
+	t.wait_time = 0.5
+	t.autostart = true
+	t.timeout.connect(func():
+		var s := get_window().size
+		var k := get_viewport().scaling_3d_scale
+		_fps_label.text = "%d fps   %s quality   3D %d x %d" % [Engine.get_frames_per_second(), QUALITY_NAMES[quality], int(s.x * k), int(s.y * k)])
+	add_child(t)
 
 
 ## True when the scene is drawn by the Compatibility renderer (the web build, or the desktop build run with
