@@ -45,7 +45,11 @@ void fragment() {
 	NORMAL = normalize((VIEW_MATRIX * vec4(n, 0.0)).xyz);
 	// water depth from the depth buffer (opaque scene behind this fragment)
 	float dz = texture(depth_tex, SCREEN_UV).r;
-	vec3 ndc = vec3(SCREEN_UV * 2.0 - 1.0, dz);
+#if CURRENT_RENDERER == RENDERER_COMPATIBILITY
+	vec3 ndc = vec3(SCREEN_UV, dz) * 2.0 - 1.0;   // OpenGL depth runs -1..1 (web build)
+#else
+	vec3 ndc = vec3(SCREEN_UV * 2.0 - 1.0, dz);   // Vulkan depth runs 0..1
+#endif
 	vec4 vp = INV_PROJECTION_MATRIX * vec4(ndc, 1.0);
 	float scene_z = -vp.z / vp.w;
 	float my_z = -VERTEX.z;

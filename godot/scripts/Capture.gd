@@ -30,6 +30,9 @@ func _run() -> void:
 	if "--perf" in OS.get_cmdline_user_args():
 		await _perf()
 		return
+	if "--quick" in OS.get_cmdline_user_args():
+		await _quick()
+		return
 	# ---- the introduction screen ----
 	main.ui.show_intro()
 	await _settle(6)
@@ -134,6 +137,29 @@ func _run() -> void:
 	for s in shots:
 		f.store_line(s)
 	f.close()
+	print("capture done: %d images in %s" % [shots.size(), outdir])
+	get_tree().quit()
+
+
+## A sample of guided-tour beats across the chapters (-- --capture <dir> --quick), named as in the full run so
+## they compare one-to-one with it: for tuning the look under the web build's renderer in seconds, not minutes.
+const QUICK_BEATS := [[0, 0], [2, 4], [3, 2], [4, 1], [5, 1], [6, 0], [6, 5], [7, 2]]   # [chapter, beat], 0-based
+
+
+func _quick() -> void:
+	AppState.ui_mode = "basic"
+	main.tour.on = true
+	main.tour.state_changed.emit()
+	for cb in QUICK_BEATS:
+		var ch = Timeline.chapters[cb[0]]
+		Timeline.go_to_chapter(cb[0], false)
+		await _settle(4)
+		main.tour.stage_for_capture(ch, cb[1])
+		await _settle(2)
+		main.camera.finish_flight()
+		await _settle(10)
+		await _shot("tour_ch%d_beat%d" % [cb[0] + 1, cb[1] + 1])
+	main.tour.stop()
 	print("capture done: %d images in %s" % [shots.size(), outdir])
 	get_tree().quit()
 

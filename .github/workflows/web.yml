@@ -1,0 +1,103 @@
+# Web build: exports the Godot project with the official Godot release, runs the scripted smoke test, and on `main`
+# publishes the result to GitHub Pages. Pull requests build and test only. The Windows build is made locally
+# (README "Reproducing the build"); this workflow touches nothing but the web version.
+name: Web build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: web-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  GODOT_VERSION: "4.7.2"
+  # SHA-512 of the official release files, from the release's SHA512-SUMS.txt (read 2026-11-07; the templates
+  # entry matches the copy used for the Windows build). A download that does not match stops the build.
+  GODOT_EDITOR_SHA512: 9aa00f7a605200940bce3027a567b782f49bd8e940dd06ae9e987bd65aee1b1467edd56ed84fcdcbdd44354bf613bdbb4e5d2913e925850368e150c59ed54c65
+  GODOT_TEMPLATES_SHA512: ca4d71c4d7b81dfc15d1a98baa07534aa95b03fdda78a0075b06672e1648d2e5f40980c9adc28d23e1b92e732ee7bf3461997aa804af74ec2fcd7a93ccb84079
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      # The template archive is 1.3 GB; only the 10 MB single-threaded web template is kept, cached per version.
+      - name: Cache Godot and the web template
+        id: godot-cache
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: |
+            ~/godot
+            ~/.local/share/godot/export_templates/${{ env.GODOT_VERSION }}.stable
+          key: godot-${{ env.GODOT_VERSION }}-linux-web-nothreads-v1
+
+      - name: Download Godot and the web template (checksums verified)
+        if: steps.godot-cache.outputs.cache-hit != 'true'
+        run: |
+          set -euo pipefail
+          base="https://github.com/godotengine/godot/releases/download/${GODOT_VERSION}-stable"
+          editor="Godot_v${GODOT_VERSION}-stable_linux.x86_64.zip"
+          templates="Godot_v${GODOT_VERSION}-stable_export_templates.tpz"
+          cd "$RUNNER_TEMP"
+          curl -fsSL --retry 3 -o "$editor" "$base/$editor"
+          echo "${GODOT_EDITOR_SHA512}  $editor" | sha512sum -c -
+          curl -fsSL --retry 3 -o "$templates" "$base/$templates"
+          echo "${GODOT_TEMPLATES_SHA512}  $templates" | sha512sum -c -
+          mkdir -p ~/godot
+          unzip -q -j "$editor" -d ~/godot
+          chmod +x ~/godot/Godot_v${GODOT_VERSION}-stable_linux.x86_64
+          tdir=~/.local/share/godot/export_templates/${GODOT_VERSION}.stable
+          mkdir -p "$tdir"
+          unzip -q -j "$templates" templates/web_nothreads_release.zip templates/version.txt -d "$tdir"
+          rm -f "$editor" "$templates"
+
+      - name: Put Godot on the path
+        run: echo "GODOT=$HOME/godot/Godot_v${GODOT_VERSION}-stable_linux.x86_64" >> "$GITHUB_ENV"
+
+      - name: Import assets
+        run: $GODOT --headless --path godot --import
+
+      - name: Smoke test
+        run: $GODOT --headless --path godot -- --smoke
+
+      - name: Export the web build
+        run: |
+          set -euo pipefail
+          mkdir -p build/web
+          $GODOT --headless --path godot --export-release "Web" ../build/web/index.html
+          for f in index.html index.js index.wasm index.pck; do test -s "build/web/$f"; done
+          ls -la build/web
+
+      - name: Upload the site
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: build/web
+
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1

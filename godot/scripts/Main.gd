@@ -32,6 +32,7 @@ var sgb: Vector3
 
 
 func _ready() -> void:
+	Platform.setup_scene($Env.environment, $Sun)
 	camera.terrain = terrain
 	Timeline.main = self
 	gbr = features.site_centers.get("GBR", Vector3(426, 100, -1224))
@@ -54,7 +55,7 @@ func _ready() -> void:
 		n.cast_shadow = GeometryInstance3D.SHADOW_CASTING_SETTING_OFF   # rings and names must not shadow the slabs
 	hover_enabled = AppState.hover_info
 	AppState.changed.connect(func(): if not tour.on: hover_enabled = AppState.hover_info)
-	var args := OS.get_cmdline_user_args()
+	var args := Platform.user_args()   # on the web: the page's query string (?smoke)
 	if "--capture" in args:
 		var cap: Node = load("res://scripts/Capture.gd").new()
 		add_child(cap)

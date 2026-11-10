@@ -2,7 +2,12 @@
 // hottest growing layer. `strength` 0..1 is the chapter's incandescence; nothing is drawn at 0. Cosmetic only.
 // (Screen-space refraction is not used: the layer slabs are transparent and so absent from the screen copy.)
 shader_type spatial;
+#if CURRENT_RENDERER == RENDERER_COMPATIBILITY
+// web build: that renderer fogs additive passes too, so every overlapping face would add the fog colour again
+render_mode unshaded, blend_add, depth_draw_never, cull_disabled, fog_disabled;
+#else
 render_mode unshaded, blend_add, depth_draw_never, cull_disabled;
+#endif
 
 uniform float strength = 0.0;
 uniform float y_base = 0.0;      // world y of the lava top: the haze fades out with height above it

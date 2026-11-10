@@ -29,6 +29,16 @@ func _run() -> void:
 	var features: Node = main.features
 	print("terrain chunks:", terrain.get_child_count())
 	check(terrain.get_child_count() == 84, "42 terrain chunks + 42 bedrock-top chunks (got %d)" % terrain.get_child_count())
+	# graphics quality (Platform.gd): Low swaps every chunk to a 16 m grid, the bedrock-top twin follows, High restores
+	var q0: String = Platform.quality
+	Platform.set_quality("low")
+	var grid: PlaneMesh = terrain.chunks[0].mesh
+	check(terrain.stride == 4 and grid.subdivide_width == 124 and terrain.cover_chunks[0].mesh == grid, "Low quality: 16 m terrain grid, twin follows (subdivisions %d)" % grid.subdivide_width)
+	Platform.set_quality("high")
+	grid = terrain.chunks[0].mesh
+	check(terrain.stride == 2 and grid.subdivide_width == 249 and terrain.get_child_count() == 84, "High quality: 8 m terrain grid, same chunk nodes (subdivisions %d)" % grid.subdivide_width)
+	Platform.set_quality(q0)
+	print("platform: web=%s renderer=%s quality=%s" % [Platform.is_web, RenderingServer.get_current_rendering_method(), Platform.quality])
 	var h0: float = terrain.height_at(0.0, 0.0)
 	var hg: float = terrain.height_at(main.gbr.x, main.gbr.z)
 	var hs: float = terrain.height_at(main.sgb.x, main.sgb.z)
@@ -258,4 +268,5 @@ func _run() -> void:
 	Timeline.go_to_chapter(0, false)
 	check(true, "stepped through all chapters, both modes, and scrubbed")
 	print("smoke test: ", "PASS" if _fail == 0 else "FAIL (%d)" % _fail)
-	get_tree().quit(0 if _fail == 0 else 1)
+	if not Platform.is_web:   # in a browser there is no exit code to return; the page stays up after the result
+		get_tree().quit(0 if _fail == 0 else 1)
